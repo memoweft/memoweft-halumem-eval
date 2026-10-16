@@ -1,0 +1,22 @@
+# Rebuildable runtimes and weights
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+model-cache/
+hf-cache/
+
+# Credentials and machine state
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+runs/*.pid
+**/run.lock
+**/*.sqlite3.workers/
+**/*-wal
+**/*-shm
+**/*.tmp
+
+# Historical logs are retained; new execution folders should be reviewed before adding.

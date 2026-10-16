@@ -1,0 +1,17 @@
+{
+  "content": "Relaxation and focus-promoting drinks",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 619,
+    "total_tokens": 628,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

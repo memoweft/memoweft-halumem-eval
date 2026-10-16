@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin's preferences reflect an aversion to new experiences and a preference for tradition. However, the Extracted Memories show the opposite: Martin is excited about incorporating new herbal teas, keeps an open mind, stays curious about new options, and plans to explore new blends. There is no mention of aversion to new experiences or preference for tradition; in fact, the memories indicate openness to novelty. The expected point is not covered and is contradicted by the extracted memories.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1088,
+    "total_tokens": 1207,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

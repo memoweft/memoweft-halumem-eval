@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memory states 'Joshua's approach has definitely influenced my leadership style positively,' which captures the core information of the Target Memory: Joshua's approach positively influenced the speaker's leadership style. While the generated memory omits the specific detail that Joshua is 'Martin's colleague' and the specific descriptor 'collaborative,' the essential relationship (Joshua's approach -> positive influence on leadership style) is present. However, since the target memory explicitly includes the relationship 'Martin's colleague' and the specific adjective 'collaborative,' and the generated memory uses a generic 'approach' and omits the colleague relationship, it is missing key information present in the target. Therefore, it is a partial omission.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 512,
+    "total_tokens": 675,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories only contains basic identity information (name and gender) and completely omits the Target Memory for Update, which is about Martin Mark's commitment to improving healthcare access while maintaining personal health and creativity. There is no memory related to the target update in the generated memories.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 505,
+    "total_tokens": 581,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

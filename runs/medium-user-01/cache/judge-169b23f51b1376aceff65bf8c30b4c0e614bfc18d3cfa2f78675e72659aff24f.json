@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point contains multiple elements: (1) WilliamsJoshua is Martin Mark's colleague, (2) WilliamsJoshua's collaborative approach and insights into healthcare management, (3) how this enhances team effectiveness and positively influences work and leadership style. The Extracted Memories only capture 'WilliamsJoshua is my Colleague' — this covers the relationship element (WilliamsJoshua is a colleague) but misses all the substantive content about collaborative approach, healthcare management insights, team effectiveness, and influence on leadership style. Only the basic relationship is captured, while the key descriptive and impact-related elements are entirely absent.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 688,
+    "total_tokens": 830,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I find that pushing my limits in these activities helps me think differently and more creatively' directly covers the expected point that engaging in extreme sports helps overcome creative blocks and inspires new ideas. The connection between the activities (skydiving, etc.) and creative thinking is fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 722,
+    "total_tokens": 801,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

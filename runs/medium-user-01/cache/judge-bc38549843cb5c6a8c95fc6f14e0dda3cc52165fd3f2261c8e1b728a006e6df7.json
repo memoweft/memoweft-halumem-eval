@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I think their adaptability is what really drew me to them'表达了用户对宠物适应性的重视，这与对话中用户多次提到的'I've always valued adaptability in pets'以及金标准记忆'Martin values adaptability and calm demeanor in pets'一致，信息点完全被支持，无矛盾。字段'宠物偏好/适应性'在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 5459,
+    "total_tokens": 5575,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

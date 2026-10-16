@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Balancing these priorities involves setting clear goals and being adaptable to change while staying focused on my core values'直接来自对话中用户的原话（08:11:07），且与黄金记忆中'Martin Mark is committed to improving healthcare access while maintaining his personal health and creativity'等关于平衡优先事项、坚持核心价值观的内容一致，无矛盾或幻觉。字段属于'平衡优先事项/核心价值观'，在黄金记忆中有对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 5721,
+    "total_tokens": 5855,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

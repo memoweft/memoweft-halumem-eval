@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I like dogs, especially Labradors, because they are friendly, loyal, and great companions for outdoor activities like jogging, which helps me stay fit.' fully covers the expected memory point about liking dogs (especially Labradors) with the exact same reason regarding friendliness, loyalty, jogging companionship, and fitness. The only element not explicitly present is the person's name 'Martin Mark', but the core preference and reasoning are completely captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1387,
+    "total_tokens": 1500,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

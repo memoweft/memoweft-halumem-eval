@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'计划优先自我关怀并设定界限以维持健康平衡'在对话中有直接支持：用户在07:52:13明确表示'I plan to prioritize self-care and set boundaries to ensure I maintain a healthy balance'。该信息点的字段（自我关怀/界限/平衡）与黄金记忆中'探索能提供更健康工作生活平衡的工作机会'的字段语义相关，属于平衡/自我关怀范畴，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3876,
+    "total_tokens": 4010,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

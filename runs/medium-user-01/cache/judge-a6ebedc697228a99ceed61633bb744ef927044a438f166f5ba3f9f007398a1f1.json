@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories only contains basic identity information (name and gender) and does not include any memory related to Martin Mark's job search goals. The Target Memory for Update, which specifies that Martin Mark aims to find a job aligning with personal well-being, humanitarian goals, and career aspirations, is completely absent from the Generated Memories.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 519,
+    "total_tokens": 606,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

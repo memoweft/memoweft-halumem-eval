@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I dislike slasher films, because slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.' fully covers the expected memory point, including the dislike of slasher films and the exact reason provided.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 1376,
+    "total_tokens": 1446,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

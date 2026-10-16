@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer is 'Unknown' and there are no Key Memory Points provided. The Memory System Response gives a specific answer 'Mark' instead of indicating that the information is unknown. Since the reference answer is unknown/uncertain and the system provides a definite fact, this constitutes a hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 838,
+    "total_tokens": 920,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

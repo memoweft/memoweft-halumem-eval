@@ -1,0 +1,17 @@
+{
+  "content": "Martin's preference for Golden Retrievers reflected his openness to new experiences.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 588,
+    "total_tokens": 603,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

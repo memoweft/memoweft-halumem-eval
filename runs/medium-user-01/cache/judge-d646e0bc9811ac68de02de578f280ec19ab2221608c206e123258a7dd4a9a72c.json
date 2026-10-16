@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'ThomasSusan is my Friend'与对话中'I have several important friends and colleagues: ThomasSusan is my Friend'一致，且与金标准记忆'Martin Mark's Friend ThomasSusan'对应，字段（朋友关系）存在于金标准中，完全被支持。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1874,
+    "total_tokens": 1966,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

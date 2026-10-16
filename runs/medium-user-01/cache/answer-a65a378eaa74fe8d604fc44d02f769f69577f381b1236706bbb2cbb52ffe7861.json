@@ -1,0 +1,17 @@
+{
+  "content": "The memories provided do not contain information about Martin Mark's salary as a director at Huaxin Consulting.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 498,
+    "total_tokens": 520,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

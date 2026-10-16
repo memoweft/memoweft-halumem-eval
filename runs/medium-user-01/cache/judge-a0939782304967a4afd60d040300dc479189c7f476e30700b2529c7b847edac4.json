@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories mention Martin's interest in extreme/thrill activities (simulated skydiving, pushing limits, staying active), but there is no mention of competing in professional extreme sports competitions or evolving sports preferences driven by that goal. The key element — the aspiration toward professional competition — is entirely missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 725,
+    "total_tokens": 806,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

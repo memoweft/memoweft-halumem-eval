@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points state that Martin transitioned to a new role offering a healthier work-life balance, which improved his mental health. The Reference Answer is 'A role offering a healthier work-life balance.' The Memory System Response claims Martin transitioned to 'a role in a non-profit organization focusing on healthcare access,' which is a specific detail not supported by the Key Memory Points and contradicts the Reference Answer's characterization of the role. This is fabricated/contradictory information, so it is classified as Hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 916,
+    "total_tokens": 1043,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 640
+    }
+  }
+}

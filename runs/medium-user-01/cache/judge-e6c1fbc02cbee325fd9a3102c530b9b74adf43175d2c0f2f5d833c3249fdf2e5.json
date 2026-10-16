@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states: 'Martin Mark Sports I dislike Extreme sports like skydiving reason: I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.' The Extracted Memories contain two relevant items: (1) 'I dislike extreme sports (such as skydiving).' and (2) 'I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.' Together, these fully cover the dislike of extreme sports like skydiving and the exact reason given. The only element not explicitly present is the entity name 'Martin Mark Sports,' but the core preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1384,
+    "total_tokens": 1546,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

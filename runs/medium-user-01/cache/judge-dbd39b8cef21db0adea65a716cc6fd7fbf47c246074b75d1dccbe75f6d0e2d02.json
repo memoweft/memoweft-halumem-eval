@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories include two points about Golden Retrievers and their adaptability, which aligns with the Target Memory for Update. However, the generated memories fail to mention the key information that Martin has *modified* his preference from Labradors to Golden Retrievers, nor do they mention the 'gentle nature' aspect. The original memory about Labradors is not explicitly replaced or marked as outdated. The generated memories only partially capture the update (mentioning Golden Retrievers and adaptability) but miss the critical context of the preference change from Labradors and the gentle nature reason.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 644,
+    "total_tokens": 783,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

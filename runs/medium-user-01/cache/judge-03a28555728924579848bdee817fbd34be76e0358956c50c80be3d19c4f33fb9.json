@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'朋友和同事的支持在职业转变期间非常宝贵'中，'职业转变'这一信息点在对话中确实出现（用户说'Their support has been invaluable, especially during my career change'），但该信息点的字段（职业转变/职业支持）在黄金记忆中并未出现——黄金记忆主要涵盖极限运动、瑜伽、宠物等主题，未涉及职业转变相关内容。因此该字段不在黄金记忆范围内，is_included_in_golden_memories为false。同时该信息点本身在对话中有支持，但不属于黄金记忆覆盖的字段，故accuracy_score为1（部分正确但字段不在黄金记忆中）。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 3396,
+    "total_tokens": 3568,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2368
+    }
+  }
+}

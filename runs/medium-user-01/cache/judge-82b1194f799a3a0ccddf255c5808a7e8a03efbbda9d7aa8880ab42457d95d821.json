@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I was born on 1996-08-02, and I am now 29 years old,' which fully and accurately covers the expected memory point that Martin Mark's birth date is 1996-08-02.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 732,
+    "total_tokens": 813,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

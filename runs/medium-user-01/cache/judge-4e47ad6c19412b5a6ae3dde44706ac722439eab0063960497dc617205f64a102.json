@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'希望了解更多不同的文化叙事以及它们如何拓宽对世界的理解'在对话中有直接支持：用户在08:10:45明确表示'I hope to learn more about different cultural narratives and how they can broaden my understanding of the world.'，且该信息点属于黄金记忆中'探索不同电影类型以寻找新的放松途径'和'考虑电影偏好变化如何影响整体生活方式和个人成长'的范畴，字段匹配为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3619,
+    "total_tokens": 3749,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

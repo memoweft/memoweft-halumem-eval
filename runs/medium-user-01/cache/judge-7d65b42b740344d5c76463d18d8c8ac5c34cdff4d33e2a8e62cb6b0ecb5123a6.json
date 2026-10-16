@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that the user likes to drink Green tea for its antioxidant properties and subtle flavor, finding it refreshing and beneficial. The Extracted Memories list contains: 'I like green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.' This fully covers the preference and the reasons given in the expected memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1378,
+    "total_tokens": 1467,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

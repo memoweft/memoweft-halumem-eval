@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point concerns how changes in movie preferences might affect Martin's social interactions and relationships. Reviewing all extracted memories, none mention social interactions, relationships, or how movie preferences might impact them. The extracted memories focus on personal relaxation, creativity, work-life balance, and humanitarian initiatives, but there is no mention of social or relational effects of movie preference changes.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 894,
+    "total_tokens": 987,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I've found that regular reflection and setting clear intentions help me stay aligned with my values'在对话中有直接支持：用户在[19:05:33]明确说'I've found that regular reflection and setting clear intentions help me stay aligned with my values'。该记忆的字段（价值观对齐策略/反思与意图设定）属于黄金记忆中'Martin evaluates cognitive benefits versus value alignment'和'Martin's evolving game preferences reflect his openness to new experiences and personal growth'等相关字段范畴，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 6405,
+    "total_tokens": 6556,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's definitely made me more open to trying new things'直接来自对话中用户的原话，且与金标准记忆中'Martin对新体验的开放态度反映在其不断演变的运动偏好中'相一致，属于对新体验开放态度这一字段，完全被支持且无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3396,
+    "total_tokens": 3496,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

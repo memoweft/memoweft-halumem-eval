@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：最高学历为Bachelor、专业为Public Health。两者均在对话中明确出现（'My highest education level is Bachelor, and my major is Public Health'），且与黄金记忆完全一致，无矛盾或幻觉。字段'最高学历'和'专业'均存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1978,
+    "total_tokens": 2082,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 960
+    }
+  }
+}

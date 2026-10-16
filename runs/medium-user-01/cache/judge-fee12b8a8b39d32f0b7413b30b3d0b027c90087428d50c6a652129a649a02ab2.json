@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢爬行动物（如蛇），原因是蛇的不可预测动作令人不安且缺乏社交行为。该信息点与对话内容完全一致（'I dislike reptiles, like snakes, because I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors in pets'），也与金标准记忆中的'Martin Mark Pets I dislike: Reptiles, like snakes'及其原因完全对应，无任何矛盾或幻觉。字段（宠物偏好-不喜欢）在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4682,
+    "total_tokens": 4834,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4672
+    }
+  }
+}

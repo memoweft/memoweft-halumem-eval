@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) 期待未来在职业中做出有意义的影响——对话中用户明确表示'I'm looking forward to the future and the possibility of making a meaningful impact in my career'，且与黄金记忆中'寻求与人道主义目标一致的新工作'相符；(2) 同时维持个人健康/福祉——对话中用户提到'maintaining my personal well-being'，与黄金记忆中'更好的工作与生活平衡'相关。两个信息点均有对话支持，但该候选记忆仅覆盖了黄金记忆中'寻求新工作'和'工作生活平衡'两个字段，遗漏了Susan、Daniel、Joshua、社交网络、relief/anticipation等其他黄金记忆字段。就准确性而言，候选内容本身无矛盾无幻觉，均被对话支持，故给2分。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 4110,
+    "total_tokens": 4323,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

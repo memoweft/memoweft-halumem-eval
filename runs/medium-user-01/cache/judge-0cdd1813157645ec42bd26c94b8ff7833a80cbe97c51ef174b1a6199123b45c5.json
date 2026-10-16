@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢砍杀电影，原因是砍杀电影过于暴力，偏好有意义叙事的电影。该信息点在对话中明确出现（'I dislike slasher films, because slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.'），且与金标准记忆完全一致（'Martin Mark Movies I dislike: Slasher films' 及其原因）。字段为电影偏好，金标准中存在该字段，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 4676,
+    "total_tokens": 4815,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

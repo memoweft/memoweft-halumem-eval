@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：月收入15700 USD和储蓄43700 USD。两者均在对话中明确出现（'My monthly income is 15700 USD, and I currently have 43700 USD in savings'），且与黄金记忆中的'Martin Mark's monthly income is 15700 USD'和'Martin Mark's savings amount is 43700 USD'完全一致，无矛盾或幻觉。字段（月收入、储蓄金额）均存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 1894,
+    "total_tokens": 2048,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

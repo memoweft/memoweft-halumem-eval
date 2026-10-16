@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Absolutely, pets do offer that balance.'是用户在对话中的原话，表示宠物确实能提供平衡。该信息点与金标准记忆'Martin discussed how pets provide relaxation and comfort, balancing his demanding career.'语义一致，属于宠物提供平衡这一字段，完全被对话和金标准记忆支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 5454,
+    "total_tokens": 5563,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

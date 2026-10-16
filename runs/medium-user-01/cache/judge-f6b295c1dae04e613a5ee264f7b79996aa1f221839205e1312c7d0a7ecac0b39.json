@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory states 'I was born on 1996-08-02, and I am now 29 years old.' This directly covers the expected memory point that Martin Mark's age is 29 years old. The birth date of 1996-08-02 is consistent with being 29 years old in January 2025 (turning 29 in August 2024, so 29 in January 2025). The age value matches exactly.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 732,
+    "total_tokens": 865,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

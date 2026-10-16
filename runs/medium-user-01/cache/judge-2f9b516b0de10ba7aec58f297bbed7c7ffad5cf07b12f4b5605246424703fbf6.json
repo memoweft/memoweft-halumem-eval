@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point contains two key elements: (1) ThomasSusan is Martin Mark's Friend, and (2) Susan's support and encouragement inspire the user to maintain focus on promoting well-being in personal and professional life. The Extracted Memories contain 'ThomasSusan is my Friend,' which covers the relationship aspect (ThomasSusan is a friend), though it doesn't explicitly mention 'Martin Mark.' However, the second element about Susan's support and encouragement inspiring the user to maintain focus on promoting well-being is completely absent from the Extracted Memories. Since a significant portion of the expected memory point (the inspirational/supportive aspect) is missing, this is only partially covered.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 686,
+    "total_tokens": 840,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

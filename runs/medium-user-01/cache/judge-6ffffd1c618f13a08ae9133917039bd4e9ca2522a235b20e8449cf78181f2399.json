@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户在07:52:16明确表示'I anticipate discovering new ways to relax and recharge, which will ultimately support my work and personal life'，与候选记忆完全一致。该信息点涉及的字段（放松方式的探索、对工作和个人生活的支持）在金标准记忆中均有对应字段（如探索新放松方式、工作与生活平衡等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3619,
+    "total_tokens": 3751,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

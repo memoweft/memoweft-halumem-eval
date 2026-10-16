@@ -1,0 +1,32 @@
+{
+  "pid": 38676,
+  "state": "starting",
+  "core": "e86b73ba9570a9bd490ef90bfb7059574de5e449",
+  "halumem": "718f16ff0c83413b1c86fa83fc13cc1a639871f9",
+  "model": "mimo-v2.6-flash",
+  "started_at": "2026-10-16T04:49:22.872795+00:00",
+  "run": "medium-user-01",
+  "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+  "data_sha256": "486fbc130a5c8781a2af27ffa508a1d7855245137aa449c193ac4d29c45634e7",
+  "user_index": 0,
+  "sessions": 65,
+  "qa": 164,
+  "thinking": "disabled",
+  "temperature": 0,
+  "formation_max_tokens": 8192,
+  "answer_judge_max_tokens": 2048,
+  "token_stop_limit": 25000000,
+  "input_granularity": "one user turn and following assistant context; sequential terminal wait",
+  "qa_prompt": "official PROMPT_MEMZERO",
+  "judge_prompts": "official unmodified eval_tools.py",
+  "extraction": "session delta of current event/relationship/cognition content; entity registry excluded",
+  "recall": "production preview_recall; provisional recent_evidence excluded; semantic ready and backfill complete",
+  "scoring": "official process_user with thread executor and MiMo transport; official update routing retained",
+  "limitations": [
+    "one user pilot, not leaderboard",
+    "MiMo used for formation, answers and judge",
+    "same-model judge may be biased",
+    "no production data",
+    "no gold or QA answers supplied to formation"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I think it can complement my focus on mental well-being, offering a way to unwind and stimulate my mind'直接来自对话中用户的原话（Jul 14, 2026, 18:42:13），表达了将游戏与心理健康结合、用于放松和刺激思维的想法。该信息点与金标准记忆中'Martin is optimistic about integrating non-violent action games into his routine for cognitive enhancement and relaxation'语义一致，字段（对游戏与心理健康/放松的关系看法）在金标准记忆中存在，且无矛盾内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 6409,
+    "total_tokens": 6567,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

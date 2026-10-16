@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's crucial that my travels align with my broader life mission'在对话中有直接支持：用户说'It's crucial that my travels align with my broader life mission'（12:45:06），且与金标准记忆中'Martin seeks travel options that balance relaxation with health benefits, aligning with his humanitarian goals'及'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals'等语义一致，无矛盾或幻觉。字段'旅行目标/使命'在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 4783,
+    "total_tokens": 4935,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

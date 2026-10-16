@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I like the idea of exploration without aggression'（我喜欢无攻击性的探索这一想法）在对话中有直接支持：用户说'Those sound interesting, especially Journey. I like the idea of exploration without aggression.'。该信息点的字段（对非暴力/无攻击性游戏的偏好）与金标准记忆中'Martin is open to exploring non-violent action games'等条目对应，属于游戏偏好/价值观字段，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 6396,
+    "total_tokens": 6530,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

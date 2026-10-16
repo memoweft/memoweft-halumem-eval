@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'MartinezDaniel is my Colleague'与对话中'MartinezDaniel is my Colleague'完全一致，且在黄金记忆中存在对应条目'Martin Mark's Colleague MartinezDaniel'，信息点完全被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1875,
+    "total_tokens": 1967,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆包含两个信息点：母亲出生日期1963-08-02和母亲职业为护士且热爱社区健康。对话中确实提到'My Mother was born on 1963-08-02, Nurse with a passion for community health'，因此内容本身有对话支持。但黄金记忆中并未包含母亲的出生日期和职业信息（黄金记忆仅涵盖姓名、性别、出生日期、居住地、年龄、学历、专业、MBTI、性格标签、父母状态、伴侣状态、子女状态、人生目标、动机、目标指标），故字段不匹配，is_included_in_golden_memories为false。由于内容与对话一致无矛盾，accuracy_score为2。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 1989,
+    "total_tokens": 2178,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

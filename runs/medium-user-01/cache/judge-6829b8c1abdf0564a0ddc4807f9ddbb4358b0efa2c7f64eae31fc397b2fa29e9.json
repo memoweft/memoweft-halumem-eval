@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item: 'I dislike wrestling, because I find wrestling too confrontational and prefer sports that emphasize teamwork and personal growth.' This fully covers the expected memory point regarding the dislike of wrestling and the exact reason provided. The 'Martin Mark Sports' entity name is not explicitly mentioned, but the core preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1371,
+    "total_tokens": 1461,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

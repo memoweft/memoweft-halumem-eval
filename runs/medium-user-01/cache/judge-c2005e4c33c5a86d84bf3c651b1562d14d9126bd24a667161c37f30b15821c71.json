@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到直接支持：用户在08:19:55明确表示'I anticipate challenges in balancing my work commitments with personal growth, but I'm optimistic about finding new ways to integrate both'，与候选记忆完全一致。字段方面，'平衡工作与个人成长的挑战'对应黄金记忆中'balancing leisure activities with relaxation to maintain a healthy work-life balance'及'changes in movie preferences might affect his overall lifestyle and personal growth'等字段，属于同一语义维度（工作与个人成长/生活平衡），因此字段匹配为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3623,
+    "total_tokens": 3783,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

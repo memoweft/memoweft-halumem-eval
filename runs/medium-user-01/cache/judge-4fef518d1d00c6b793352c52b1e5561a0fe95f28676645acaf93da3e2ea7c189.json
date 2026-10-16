@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆点为'我不喜欢说唱音乐，因为我觉得说唱音乐往往太具攻击性，我更喜欢能传递积极内容的音乐类型'。该信息点在对话原文和黄金记忆中均有明确对应：'Martin Mark Music I dislike: Rap music'以及'Martin Mark Music I dislike Rap music reason: I find rap music often too aggressive for my taste and prefer genres that promote positivity.'，内容完全一致，无矛盾或幻觉。字段为音乐偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 4673,
+    "total_tokens": 4817,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：1) 虚构叙事帮助放松（'Fictional narratives help me unwind'）——对话中用户明确说'Fictional narratives help me unwind'，且黄金记忆也提到虚构叙事提供精神逃避；2) 好奇探索不同类型的电影以寻找放松途径（'I'm curious to explore different genres for relaxation'）——对话中用户说'I'm curious to explore different genres for relaxation'，黄金记忆也提到Martin对探索不同电影类型表达好奇。两个信息点均被对话和黄金记忆直接支持，无矛盾或幻觉。字段方面，'放松方式/虚构叙事偏好'和'探索不同类型的兴趣'均在黄金记忆中有对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 3617,
+    "total_tokens": 3806,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

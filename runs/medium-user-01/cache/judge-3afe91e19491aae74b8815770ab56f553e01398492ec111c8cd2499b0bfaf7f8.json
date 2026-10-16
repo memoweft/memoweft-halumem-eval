@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'Both parents are alive, no_relationship, No children.' The 'no_relationship' field directly corresponds to Martin Mark's partner status of 'no_relationship', fully covering the expected memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 723,
+    "total_tokens": 787,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

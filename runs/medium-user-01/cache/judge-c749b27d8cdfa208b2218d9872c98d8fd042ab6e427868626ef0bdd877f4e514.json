@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Extracted Memories explicitly contain the item 'My name is Martin Mark, and I am a Male,' which fully and accurately covers the Expected Memory Point 'User's name is Martin Mark.'\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 721,
+    "total_tokens": 780,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

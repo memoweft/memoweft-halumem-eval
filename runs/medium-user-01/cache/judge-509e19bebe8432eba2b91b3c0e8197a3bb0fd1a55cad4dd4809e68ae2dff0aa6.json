@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update requires that Martin is open to exploring non-violent action games to enhance cognitive functions, aligning with his values of peace and well-being. The Generated Memories only contain the original memory (disliking violent video games) and generic statements about aligning with values. There is no mention of Martin being open to exploring non-violent action games or enhancing cognitive functions. The key update information is completely missing.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 638,
+    "total_tokens": 745,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

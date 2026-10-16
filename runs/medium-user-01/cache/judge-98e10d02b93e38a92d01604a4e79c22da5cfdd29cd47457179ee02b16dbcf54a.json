@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我在能让我学习和成长的活动中找到满足感，同时坚持我的健康导向生活方式'与对话中用户原话'I find fulfillment in activities that allow me to learn and grow while staying true to my health-focused lifestyle'完全一致，且与金标准记忆中'Martin的旅行偏好正转向支持其健康和人道主义目标的活动'相符，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 4791,
+    "total_tokens": 4911,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

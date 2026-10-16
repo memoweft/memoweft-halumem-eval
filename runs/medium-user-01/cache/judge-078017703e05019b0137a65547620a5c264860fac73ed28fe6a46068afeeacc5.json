@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'My monthly income is 15700 USD' fully covers the expected memory point about Martin Mark's monthly income being 15700 USD. The amount matches exactly, and the first-person phrasing implies the subject is Martin Mark (the user).\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 670,
+    "total_tokens": 749,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

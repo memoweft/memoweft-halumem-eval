@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin feels relief, and (2) anticipation about transitioning to a more fulfilling career path. The extracted memories contain 'It's a relief to know I'm moving towards a career that truly reflects my values and aspirations,' which directly captures the relief element. Anticipation is captured through multiple items such as 'I'm looking forward to the future and the possibility of making a meaningful impact in my career' and 'I'm hopeful about finding a position that allows me to make a meaningful impact.' The transition to a more fulfilling career path is also well covered. Both elements are fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 842,
+    "total_tokens": 989,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

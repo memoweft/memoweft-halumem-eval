@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I want my travels to enhance my physical and mental health, much like the wellness retreats used to.'直接来自对话中用户的原话（12:07:55），且与金标准记忆点'Martin seeks travel options that balance relaxation with health benefits'和'Martin shared anecdotes about past wellness retreat experiences that contributed to his personal well-being'语义一致，无矛盾或幻觉内容。字段（旅行目标/健康偏好）在金标准中均有对应。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4791,
+    "total_tokens": 4928,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

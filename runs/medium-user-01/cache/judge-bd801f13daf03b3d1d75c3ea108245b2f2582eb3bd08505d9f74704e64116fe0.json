@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The first extracted memory item states 'I recently attended a wellness retreat session where they introduced herbal teas with additional health blends,' which directly and fully covers the expected memory point about Martin attending a wellness retreat session where herbal teas with additional health blends were introduced. The only minor gap is that the extracted memory does not explicitly name 'Martin,' but the content otherwise matches completely.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1086,
+    "total_tokens": 1179,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

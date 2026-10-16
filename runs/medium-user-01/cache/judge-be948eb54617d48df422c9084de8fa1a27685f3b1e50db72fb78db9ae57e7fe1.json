@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I might set aside specific times for gaming, ensuring it doesn't interfere with my work or other activities'完全由对话支持：用户在[Jul 14, 2026, 18:49:26]明确表示'I might set aside specific times for gaming, ensuring it doesn't interfere with my work or other activities'。该记忆涉及的字段为'gaming时间安排/平衡'，与金标准中'Martin values balancing leisure activities, like gaming, with his professional commitments in healthcare'对应，属于金标准涵盖的字段范围。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 6408,
+    "total_tokens": 6572,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

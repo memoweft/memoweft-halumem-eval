@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point has two elements: (1) creative motivation to collaborate with diverse teams, and (2) generating innovative solutions. The extracted memories contain multiple items covering both elements: 'Collaboration is definitely something I value,' 'I thrive in environments that encourage open communication and innovative thinking,' 'projects where teamwork led to innovative healthcare solutions, which was very fulfilling,' 'I plan to apply these lessons by fostering a collaborative environment and encouraging innovative problem-solving,' and 'My empathetic nature helps me understand diverse perspectives, while my debate skills encourage open dialogue and idea exchange.' Together these fully cover the idea that collaboration with diverse teams to generate innovative solutions is a core motivation.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 1209,
+    "total_tokens": 1365,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 704
+    }
+  }
+}

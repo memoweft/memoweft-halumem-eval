@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Extracted Memories contain the item 'In terms of mental health, I am Mildly Abnormal. No mental health issues.' This directly matches the Expected Memory Point 'Martin Mark's mental health condition: Mildly Abnormal'. The entity name (Martin Mark) is implied as the speaker ('I'), and the condition 'Mildly Abnormal' is fully captured. The information is fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 668,
+    "total_tokens": 769,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

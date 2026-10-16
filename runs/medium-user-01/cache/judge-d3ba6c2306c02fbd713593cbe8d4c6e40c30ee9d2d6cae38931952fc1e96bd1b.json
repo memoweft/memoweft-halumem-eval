@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I've been thinking a lot about my travel preferences lately, especially wellness retreats.'直接来自对话第一句用户发言，完全被对话支持。该记忆涉及的字段为'旅行偏好'和'健康静修所'，均在黄金记忆中存在（如'Martin is reconsidering wellness retreats in his travel preferences'等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 4787,
+    "total_tokens": 4903,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

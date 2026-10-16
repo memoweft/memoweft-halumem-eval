@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I dislike slasher films, because slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.' This directly covers the expected memory point about disliking slasher films. The memory system did not explicitly attribute this to 'Martin Mark' as a person name, but the preference itself (disliking slasher films) is fully captured. Since the expected point includes the person's name 'Martin Mark' which is not explicitly present in the extracted memory, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1357,
+    "total_tokens": 1488,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

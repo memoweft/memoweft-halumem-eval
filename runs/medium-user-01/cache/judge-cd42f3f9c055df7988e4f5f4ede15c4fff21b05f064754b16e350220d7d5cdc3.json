@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) evolving game preferences and (2) openness to new experiences/personal growth. The extracted memories cover both: multiple items show evolving game preferences (avoiding violent games, now considering engaging but non-aggressive games like 'Journey', exploration without aggression), and several items explicitly mention openness to new experiences and personal growth ('embracing new perspectives has often led to personal growth', 'remain adaptable and open to new opportunities, supporting my growth'). The connection between evolving preferences and openness to growth is logically implied by these combined items.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1074,
+    "total_tokens": 1209,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

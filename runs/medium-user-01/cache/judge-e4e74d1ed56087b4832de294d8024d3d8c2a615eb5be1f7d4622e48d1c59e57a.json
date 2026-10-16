@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'未来充满光明，我渴望有所作为'与对话中用户原话'The future feels bright, and I'm eager to make a difference'完全一致，且与黄金记忆中'Martin对追求人生目标充满乐观'等要点语义相符，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 5044,
+    "total_tokens": 5142,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

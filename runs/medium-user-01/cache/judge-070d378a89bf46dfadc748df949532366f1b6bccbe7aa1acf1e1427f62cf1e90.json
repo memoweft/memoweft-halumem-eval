@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals'与对话中用户第一条消息完全一致，且与黄金记忆第一条'Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals'语义等价。该信息点的字段（求职目标/工作生活平衡/人道主义目标）在黄金记忆中均有对应，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4110,
+    "total_tokens": 4246,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

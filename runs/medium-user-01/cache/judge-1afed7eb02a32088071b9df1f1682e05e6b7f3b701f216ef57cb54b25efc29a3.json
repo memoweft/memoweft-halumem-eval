@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我重视那些能让我放松充电、同时提供文化和智力参与的体验'在对话中有直接支持：用户说'I value experiences that allow me to unwind and recharge while also providing cultural and intellectual engagement'，且与黄金记忆中'Martin寻求平衡放松与健康益处的旅行选项'及'旅行偏好聚焦于支持健康和人道主义目标的活动'一致，无矛盾或幻觉。字段（旅行偏好/价值观）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4788,
+    "total_tokens": 4924,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

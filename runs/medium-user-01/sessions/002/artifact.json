@@ -1,0 +1,1136 @@
+{
+  "start_time": "Sep 06, 2025, 22:43:36",
+  "end_time": "Sep 07, 2025, 01:13:36",
+  "memory_points_count": 74,
+  "memory_points": [
+    {
+      "index": 1,
+      "memory_content": "Martin Mark has preferences in Pet Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin Mark Pets I like: Dogs, especially Labradors",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin Mark Pets I like Dogs, especially Labradors reason: I love Labradors because they are friendly, loyal, and great companions for outdoor activities like jogging, which helps me stay fit.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin Mark Pets I dislike: Reptiles, like snakes",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin Mark Pets I dislike Reptiles, like snakes reason: I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors I appreciate in pets.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin Mark Pets I like: Cats",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin Mark Pets I like Cats reason: Cats are independent and affectionate, and their purring is soothing, which I find relaxing after a long day at work.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin Mark Pets I like: Parrots",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin Mark Pets I like Parrots reason: I enjoy parrots because they are intelligent and can be taught to mimic speech, which makes interactions fun and engaging.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 10,
+      "memory_content": "Martin Mark has preferences in Sports Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 11,
+      "memory_content": "Martin Mark Sports I dislike: Extreme sports like skydiving",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 12,
+      "memory_content": "Martin Mark Sports I dislike Extreme sports like skydiving reason: I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 13,
+      "memory_content": "Martin Mark Sports I dislike: Boxing",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 14,
+      "memory_content": "Martin Mark Sports I dislike Boxing reason: I dislike boxing due to its aggressive nature and the potential for physical harm, which contradicts my focus on health.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 15,
+      "memory_content": "Martin Mark Sports I dislike: Wrestling",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 16,
+      "memory_content": "Martin Mark Sports I dislike Wrestling reason: I find wrestling too confrontational and prefer sports that emphasize teamwork and personal growth.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 17,
+      "memory_content": "Martin Mark Sports I dislike: Automobile racing",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 18,
+      "memory_content": "Martin Mark Sports I dislike Automobile racing reason: I am not fond of automobile racing because of the environmental impact and the lack of physical engagement.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 19,
+      "memory_content": "Martin Mark Sports I like: Yoga",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 20,
+      "memory_content": "Martin Mark Sports I like Yoga reason: Yoga helps me maintain flexibility and mental clarity, which are essential for my demanding job in the medical field.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 21,
+      "memory_content": "Martin Mark has preferences in Game Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 22,
+      "memory_content": "Martin Mark Games I dislike: Violent video games",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 23,
+      "memory_content": "Martin Mark Games I dislike Violent video games reason: I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 24,
+      "memory_content": "Martin Mark Games I like to play: Puzzle games",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 25,
+      "memory_content": "Martin Mark Games I like to play Puzzle games reason: I enjoy puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 26,
+      "memory_content": "Martin Mark Games I dislike: Gambling games",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 27,
+      "memory_content": "Martin Mark Games I dislike Gambling games reason: I steer clear of gambling games because they can lead to addiction and financial stress, which are detrimental to mental health.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 28,
+      "memory_content": "Martin Mark has preferences in Travel Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 29,
+      "memory_content": "Martin Mark Travel styles I like: Wellness retreats",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 30,
+      "memory_content": "Martin Mark Travel styles I like Wellness retreats reason: I love wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 31,
+      "memory_content": "Martin Mark Travel styles I dislike: Crowded tourist spots",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 32,
+      "memory_content": "Martin Mark Travel styles I dislike Crowded tourist spots reason: I avoid crowded tourist spots as they can be overwhelming and stressful, detracting from the enjoyment of travel.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 33,
+      "memory_content": "Martin Mark Travel styles I like: Nature hikes",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 34,
+      "memory_content": "Martin Mark Travel styles I like Nature hikes reason: Nature hikes allow me to connect with the environment and enjoy the tranquility, which is a perfect escape from my busy work life.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 35,
+      "memory_content": "Martin Mark Travel styles I like: Cultural tours",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 36,
+      "memory_content": "Martin Mark Travel styles I like Cultural tours reason: Cultural tours fascinate me because they provide insights into different lifestyles and traditions, enriching my perspective.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 37,
+      "memory_content": "Martin Mark Travel styles I like: Spa vacations",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 38,
+      "memory_content": "Martin Mark Travel styles I like Spa vacations reason: Spa vacations are ideal for unwinding and rejuvenating, which helps me maintain balance in my life.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 39,
+      "memory_content": "Martin Mark has preferences in Movie Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 40,
+      "memory_content": "Martin Mark Movies I like to watch: Documentaries",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 41,
+      "memory_content": "Martin Mark Movies I like to watch Documentaries reason: I enjoy documentaries because they are informative and provide real-world insights, which complement my thirst for knowledge.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 42,
+      "memory_content": "Martin Mark Movies I dislike: Horror films",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 43,
+      "memory_content": "Martin Mark Movies I dislike Horror films reason: I avoid horror films because they can be disturbing and detract from the positive mindset I strive to maintain.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 44,
+      "memory_content": "Martin Mark Movies I dislike: Slasher films",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 45,
+      "memory_content": "Martin Mark Movies I dislike Slasher films reason: Slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 46,
+      "memory_content": "Martin Mark has preferences in Beverage Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 47,
+      "memory_content": "Martin Mark Beverages I like to drink: Herbal teas",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 48,
+      "memory_content": "Martin Mark Beverages I like to drink Herbal teas reason: I enjoy herbal teas for their calming properties and health benefits, which support my overall well-being.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 49,
+      "memory_content": "Martin Mark Beverages I like to drink: Fresh smoothies",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 50,
+      "memory_content": "Martin Mark Beverages I like to drink Fresh smoothies reason: Fresh smoothies are my favorite because they are nutritious and energizing, perfect for my active lifestyle.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 51,
+      "memory_content": "Martin Mark Beverages I dislike: Sugary sodas",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 52,
+      "memory_content": "Martin Mark Beverages I dislike Sugary sodas reason: I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 53,
+      "memory_content": "Martin Mark Beverages I like to drink: Green tea",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 54,
+      "memory_content": "Martin Mark Beverages I like to drink Green tea reason: I love green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 55,
+      "memory_content": "Martin Mark has preferences in Music Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 56,
+      "memory_content": "Martin Mark Music I dislike: Heavy metal",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 57,
+      "memory_content": "Martin Mark Music I dislike Heavy metal reason: I find heavy metal too chaotic and prefer music that is soothing and harmonious.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 58,
+      "memory_content": "Martin Mark Music I like to listen to: Classical music",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 59,
+      "memory_content": "Martin Mark Music I like to listen to Classical music reason: Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 60,
+      "memory_content": "Martin Mark Music I like to listen to: Jazz",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 61,
+      "memory_content": "Martin Mark Music I like to listen to Jazz reason: I enjoy jazz for its improvisational style and the way it stimulates my creativity.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 62,
+      "memory_content": "Martin Mark Music I dislike: Rap music",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 63,
+      "memory_content": "Martin Mark Music I dislike Rap music reason: I find rap music often too aggressive for my taste and prefer genres that promote positivity.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 64,
+      "memory_content": "Martin Mark Music I like to listen to: Ambient music",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 65,
+      "memory_content": "Martin Mark Music I like to listen to Ambient music reason: Ambient music is perfect for unwinding after a busy day, as it helps me relax and recharge.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 66,
+      "memory_content": "Martin Mark has preferences in Clothing Preference",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 67,
+      "memory_content": "Martin Mark Clothing I like to wear: Comfortable athletic wear",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 68,
+      "memory_content": "Martin Mark Clothing I like to wear Comfortable athletic wear reason: I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 69,
+      "memory_content": "Martin Mark Clothing I like to wear: Casual business attire",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 70,
+      "memory_content": "Martin Mark Clothing I like to wear Casual business attire reason: Casual business attire is my go-to for work as it strikes a balance between professionalism and comfort.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 71,
+      "memory_content": "Martin Mark Clothing I like to wear: Eco-friendly fabrics",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 72,
+      "memory_content": "Martin Mark Clothing I like to wear Eco-friendly fabrics reason: I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 73,
+      "memory_content": "Martin Mark Clothing I dislike: Formal wear",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 74,
+      "memory_content": "Martin Mark Clothing I dislike Formal wear reason: I find formal wear restrictive and prefer clothing that allows for easy movement and comfort.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "event_source": 2,
+      "importance": 0.75,
+      "memory_source": "system"
+    }
+  ],
+  "dialogue_turn_num": 16,
+  "dialogue": [
+    {
+      "role": "user",
+      "content": "I'd like to share my Pet Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 06, 2025, 22:43:36",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Pet Preference.",
+      "timestamp": "Sep 06, 2025, 22:43:36",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "user",
+      "content": "I like dogs, especially Labradors, because they are friendly, loyal, and great companions for outdoor activities like jogging, which helps me stay fit. I dislike reptiles, like snakes, because I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors in pets. I like cats, because cats are independent and affectionate, and their purring is soothing, which I find relaxing after a long day at work. I like parrots because they are intelligent and can be taught to mimic speech, which makes interactions fun and engaging.",
+      "timestamp": "Sep 06, 2025, 22:44:54",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Pet Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 06, 2025, 22:44:54",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Sports Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 06, 2025, 22:51:09",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Sports Preference.",
+      "timestamp": "Sep 06, 2025, 22:51:09",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "user",
+      "content": "I dislike extreme sports (such as skydiving). I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being. I don't like boxing due to its aggressive nature and the potential for physical harm, which contradicts my focus on health. I dislike wrestling, because I find wrestling too confrontational and prefer sports that emphasize teamwork and personal growth. I dislike automobile racing, I am not fond of automobile racing because of the environmental impact and the lack of physical engagement. I like yoga, because yoga helps me maintain flexibility and mental clarity, which are essential for my demanding job in the medical field.",
+      "timestamp": "Sep 06, 2025, 22:52:30",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Sports Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 06, 2025, 22:52:30",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Game Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 06, 2025, 22:53:52",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Game Preference.",
+      "timestamp": "Sep 06, 2025, 22:53:52",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "user",
+      "content": "I dislike violent video games, I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being. I like puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession. I dislike gambling games, I steer clear of gambling games because they can lead to addiction and financial stress, which are detrimental to mental health.",
+      "timestamp": "Sep 06, 2025, 22:56:09",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Game Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 06, 2025, 22:56:09",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Travel Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 06, 2025, 22:59:12",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Travel Preference.",
+      "timestamp": "Sep 06, 2025, 22:59:12",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "user",
+      "content": "I like wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle. I dislike crowded tourist spots, I avoid crowded tourist spots as they can be overwhelming and stressful, detracting from the enjoyment of travel. I like nature hikes, because Nature hikes allow me to connect with the environment and enjoy the tranquility, which is a perfect escape from my busy work life. I like cultural tours. Cultural tours fascinate me because they provide insights into different lifestyles and traditions, enriching my perspective. I like because spa vacations. Spa vacations are ideal for unwinding and rejuvenating, which helps me maintain balance in my life.",
+      "timestamp": "Sep 06, 2025, 23:13:07",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Travel Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 06, 2025, 23:13:07",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Movie Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 06, 2025, 23:42:56",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Movie Preference.",
+      "timestamp": "Sep 06, 2025, 23:42:56",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "user",
+      "content": "I like documentaries because they are informative and provide real-world insights, which complement my thirst for knowledge. I dislike horror films, I avoid horror films because they can be disturbing and detract from the positive mindset I strive to maintain. I dislike slasher films, because slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.",
+      "timestamp": "Sep 06, 2025, 23:54:28",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Movie Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 06, 2025, 23:54:28",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Beverage Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 07, 2025, 00:23:52",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Beverage Preference.",
+      "timestamp": "Sep 07, 2025, 00:23:52",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "user",
+      "content": "I like herbal teas for their calming properties and health benefits, which support my overall well-being. I like fresh smoothies. Fresh smoothies are my favorite because they are nutritious and energizing, perfect for my active lifestyle. I dislike sugary sodas. I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach. I like green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.",
+      "timestamp": "Sep 07, 2025, 00:26:37",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Beverage Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 07, 2025, 00:26:37",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Music Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 07, 2025, 00:41:42",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Music Preference.",
+      "timestamp": "Sep 07, 2025, 00:41:42",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "user",
+      "content": "I dislike heavy metal, because I find heavy metal too chaotic and prefer music that is soothing and harmonious. I like classical music, Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere. I like jazz for its improvisational style and the way it stimulates my creativity. I dislike rap music, because I find rap music often too aggressive for my taste and prefer genres that promote positivity. I like ambient music, because ambient music is perfect for unwinding after a busy day, as it helps me relax and recharge.",
+      "timestamp": "Sep 07, 2025, 00:54:05",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Music Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 07, 2025, 00:54:05",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "user",
+      "content": "I'd like to share my Clothing Preference with you so you can understand my personal preferences and better understand my choices in future conversations.",
+      "timestamp": "Sep 07, 2025, 01:04:16",
+      "dialogue_turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Good, please tell me about your Clothing Preference.",
+      "timestamp": "Sep 07, 2025, 01:04:16",
+      "dialogue_turn": 14
+    },
+    {
+      "role": "user",
+      "content": "I like comfortable athletic wear, because I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle. I like casual business attire, Casual business attire is my go-to for work as it strikes a balance between professionalism and comfort. I like eco-friendly fabrics, I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness. I dislike formal wear, because I find formal wear restrictive and prefer clothing that allows for easy movement and comfort.",
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "dialogue_turn": 15
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing. I remember your Clothing Preference preferences. This information is very helpful for me to understand you.",
+      "timestamp": "Sep 07, 2025, 01:13:36",
+      "dialogue_turn": 15
+    }
+  ],
+  "dialogue_token_length": 1284,
+  "questions": [
+    {
+      "question": "What is Martin Mark's middle name?",
+      "answer": "Unknown, not provided by the user.",
+      "evidence": [],
+      "difficulty": "easy",
+      "question_type": "Memory Boundary",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 63.00000008195639,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Mark"
+    },
+    {
+      "question": "Did Martin Mark mention a preference for reptiles as pets on Sep 07, 2025?",
+      "answer": "No, Martin dislikes reptiles, especially snakes.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark Pets I dislike: Reptiles, like snakes",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark Pets I dislike Reptiles, like snakes reason: I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors I appreciate in pets.",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 108.99999993853271,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, Martin Mark did not mention a preference for reptiles as pets on Sep 07, 2025."
+    },
+    {
+      "question": "What type of pets does Martin Mark like?",
+      "answer": "Dogs, cats, and parrots.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark Pets I like: Dogs, especially Labradors",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark Pets I like: Cats",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark Pets I like: Parrots",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Basic Fact Recall",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 47.0000000204891,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "The memories do not mention any pets."
+    }
+  ],
+  "question_count": 3,
+  "extracted_memories": [
+    "I dislike reptiles, like snakes, because I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors in pets.",
+    "I like parrots because they are intelligent and can be taught to mimic speech, which makes interactions fun and engaging.",
+    "I like cats, because cats are independent and affectionate, and their purring is soothing, which I find relaxing after a long day at work.",
+    "I like dogs, especially Labradors, because they are friendly, loyal, and great companions for outdoor activities like jogging, which helps me stay fit.",
+    "I dislike automobile racing, I am not fond of automobile racing because of the environmental impact and the lack of physical engagement.",
+    "I dislike extreme sports (such as skydiving).",
+    "I dislike wrestling, because I find wrestling too confrontational and prefer sports that emphasize teamwork and personal growth.",
+    "I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.",
+    "I don't like boxing due to its aggressive nature and the potential for physical harm, which contradicts my focus on health.",
+    "I dislike gambling games, I steer clear of gambling games because they can lead to addiction and financial stress, which are detrimental to mental health.",
+    "I dislike violent video games, I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.",
+    "I like puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession.",
+    "I like nature hikes, because Nature hikes allow me to connect with the environment and enjoy the tranquility, which is a perfect escape from my busy work life.",
+    "I like wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle.",
+    "I like cultural tours. Cultural tours fascinate me because they provide insights into different lifestyles and traditions, enriching my perspective.",
+    "Spa vacations are ideal for unwinding and rejuvenating, which helps me maintain balance in my life.",
+    "I dislike crowded tourist spots, I avoid crowded tourist spots as they can be overwhelming and stressful, detracting from the enjoyment of travel.",
+    "I dislike slasher films, because slasher films are too violent for my taste, and I prefer movies that offer meaningful narratives.",
+    "I like documentaries because they are informative and provide real-world insights, which complement my thirst for knowledge.",
+    "I dislike horror films, I avoid horror films because they can be disturbing and detract from the positive mindset I strive to maintain.",
+    "I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.",
+    "Fresh smoothies are my favorite because they are nutritious and energizing, perfect for my active lifestyle.",
+    "I like herbal teas for their calming properties and health benefits, which support my overall well-being.",
+    "I like green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.",
+    "I like jazz for its improvisational style and the way it stimulates my creativity.",
+    "I like ambient music, because ambient music is perfect for unwinding after a busy day, as it helps me relax and recharge.",
+    "I dislike rap music, because I find rap music often too aggressive for my taste and prefer genres that promote positivity.",
+    "I dislike heavy metal, because I find heavy metal too chaotic and prefer music that is soothing and harmonious.",
+    "I like classical music, Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere.",
+    "I like casual business attire, Casual business attire is my go-to for work as it strikes a balance between professionalism and comfort.",
+    "I like eco-friendly fabrics, I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness.",
+    "I like comfortable athletic wear, because I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle.",
+    "I dislike formal wear, because I find formal wear restrictive and prefer clothing that allows for easy movement and comfort."
+  ],
+  "add_dialogue_duration_ms": 71280.99999995902,
+  "semantic_status": {
+    "state": "ready",
+    "reason": null,
+    "enabled": true,
+    "model_id": "intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3:qint8:mean:l2:512",
+    "threshold": 0.87,
+    "max_additions": 3,
+    "indexed_count": 50,
+    "backfill_complete": true
+  }
+}

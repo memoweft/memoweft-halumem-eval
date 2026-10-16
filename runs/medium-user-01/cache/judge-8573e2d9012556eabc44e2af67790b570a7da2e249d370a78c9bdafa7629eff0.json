@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I like eco-friendly fabrics, I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness.' fully covers the preference and the reason stated in the Expected Memory Point. The only element not present is the specific entity name 'Martin Mark Clothing', but the core content (preference for eco-friendly fabrics and the reason) is fully captured.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1376,
+    "total_tokens": 1471,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

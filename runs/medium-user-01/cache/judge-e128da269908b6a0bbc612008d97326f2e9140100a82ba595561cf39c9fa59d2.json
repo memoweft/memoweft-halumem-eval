@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point specifies three key elements: (1) Martin Mark's identity, (2) his current job as director at Huaxin Consulting, and (3) that this job is negatively affecting his mental health. The Extracted Memories contain no mention of Martin Mark's name, no mention of Huaxin Consulting or any specific employer/role, and no mention of a director position. While there are references to work-life balance, self-care, and well-being, none of these are tied to a specific person, job title, or company. The core identifying details (person, company, role) are entirely absent, and the negative mental health impact of a specific job is not captured.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 1212,
+    "total_tokens": 1373,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'支持对保持目标专注和度过转型期至关重要'与对话中用户所述'The support I've received has been crucial in helping me stay focused on my goals and navigate this transition'完全一致，且与黄金记忆中'Susan提供的支持帮助他保持专注'等信息点语义吻合，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4106,
+    "total_tokens": 4214,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

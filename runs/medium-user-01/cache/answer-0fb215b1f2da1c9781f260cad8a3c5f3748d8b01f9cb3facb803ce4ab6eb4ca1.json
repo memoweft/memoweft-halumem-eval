@@ -1,0 +1,17 @@
+{
+  "content": "No, there is no such memory.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 501,
+    "total_tokens": 510,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

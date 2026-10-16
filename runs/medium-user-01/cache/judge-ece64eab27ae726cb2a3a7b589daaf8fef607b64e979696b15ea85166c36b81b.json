@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress' directly covers all elements of the expected memory point: optimism, integrating a new pet preference (Golden Retrievers), and using it to help manage stress. The only minor omission is the explicit mention of 'daily life,' but this is implied by the context of integrating experiences.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 920,
+    "total_tokens": 1019,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

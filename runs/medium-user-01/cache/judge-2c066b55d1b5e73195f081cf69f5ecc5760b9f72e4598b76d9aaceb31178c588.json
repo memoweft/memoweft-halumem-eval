@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain 'I like puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession.' This fully covers the expected memory point that Martin likes to play puzzle games. The name 'Martin' is not explicitly mentioned in the extracted memories, but the preference for puzzle games is clearly captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 1358,
+    "total_tokens": 1446,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

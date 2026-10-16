@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I want games that are engaging but not too aggressive'直接来自对话中Martin的原话（'I want games that are engaging but not too aggressive'），表达了他对非暴力游戏的偏好。该信息点与金标准记忆中'Martin seeks recommendations for non-violent action games that enhance cognitive skills'以及'Martin is skeptical about violent video games but interested in the cognitive benefits non-violent games may offer'等条目语义一致，属于游戏偏好/价值对齐字段，完全被对话和金标准记忆支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 6398,
+    "total_tokens": 6552,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 6336
+    }
+  }
+}

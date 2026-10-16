@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'I aim to enhance my leadership skills and deepen my understanding of global health initiatives to better serve communities'，与对话原文完全一致。该信息点的字段（职业发展目标/技能提升）在黄金记忆中有所涵盖（如'改善医疗可及性'、'职业目标'等相关字段），因此判定为包含在黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 5720,
+    "total_tokens": 5841,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

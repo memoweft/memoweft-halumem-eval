@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'I'm grateful for the opportunities that have come my way'在对话中确实出现过（用户原话），因此有对话支持。但该信息点的字段是'对机会的感激之情'，而黄金记忆中没有涵盖这一字段（黄金记忆主要涉及极限运动偏好、创意激发、瑜伽、宠物等），因此is_included_in_golden_memories为false。同时该记忆与黄金记忆的核心内容无关，属于对话中出现但未被标注为黄金记忆的边缘信息，故accuracy_score为1。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 3396,
+    "total_tokens": 3544,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

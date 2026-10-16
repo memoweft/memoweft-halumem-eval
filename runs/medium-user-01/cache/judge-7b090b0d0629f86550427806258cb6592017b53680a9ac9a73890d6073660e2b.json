@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Extracted Memories contain no mention of Martin Mark's target metrics or goal of providing healthcare access to 1 million people in underserved areas. While there are related items (Public Health major, parents in healthcare, community health passion), none of them capture the specific target metric of 1 million people in underserved areas.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 733,
+    "total_tokens": 818,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

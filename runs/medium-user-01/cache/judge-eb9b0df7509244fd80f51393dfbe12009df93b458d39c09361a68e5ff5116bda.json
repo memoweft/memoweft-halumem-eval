@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm grateful for the journey and the lessons I've learned'表达了Martin对这段旅程和所学教训的感激之情。对话中用户多次提到'I'm grateful for the journey and the lessons I've learned'（08:28:49, 09:14:35），且与金标准记忆中关于Martin经历转型旅程、获得成长和教训的内容一致（如'Martin successfully transitioned to a new role'等），该信息点在对话中有直接支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 5043,
+    "total_tokens": 5191,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

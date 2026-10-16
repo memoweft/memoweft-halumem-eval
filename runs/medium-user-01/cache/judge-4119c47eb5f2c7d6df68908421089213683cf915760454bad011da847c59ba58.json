@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm really focused on finding travel options that balance relaxation with health benefits'直接出现在对话中（12:05:54用户发言），且与金标准记忆'Martin seeks travel options that balance relaxation with health benefits, aligning with his humanitarian goals'一致，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 4785,
+    "total_tokens": 4886,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4736
+    }
+  }
+}

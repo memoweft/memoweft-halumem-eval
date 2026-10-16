@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'finding a role that aligns with my personal and professional goals could offer a healthier work-life balance'与对话中用户原话完全一致，且与黄金记忆点'Martin is considering a career change to improve his mental health and find a role that aligns with his personal and professional goals'及'Martin is exploring job opportunities that can provide a healthier work-life balance'相符。字段为'职业目标/工作生活平衡'，在黄金记忆中存在对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3881,
+    "total_tokens": 4016,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

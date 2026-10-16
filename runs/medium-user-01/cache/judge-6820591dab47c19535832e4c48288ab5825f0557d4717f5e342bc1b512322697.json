@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item: 'I like parrots because they are intelligent and can be taught to mimic speech, which makes interactions fun and engaging.' This fully covers the Expected Memory Point regarding Martin Mark's preference for parrots and the reason (intelligence, mimicking speech, fun interactions). The person name 'Martin Mark' is not explicitly in the memory item, but the preference and reason are fully captured, which is the core of the memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1379,
+    "total_tokens": 1491,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

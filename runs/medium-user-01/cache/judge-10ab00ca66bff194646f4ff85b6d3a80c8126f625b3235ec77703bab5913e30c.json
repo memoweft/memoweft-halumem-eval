@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'I aim to learn from others' experiences and seek mentorship to guide my path'在对话中有直接支持（用户原话），属于对话中真实出现的信息。但该信息点的字段（寻求导师/mentorship）在黄金记忆中没有对应字段——黄金记忆涵盖的是心理健康、职业转变、人道主义目标、宠物偏好、工作生活平衡等内容，不包含关于寻求导师的字段。因此is_included_in_golden_memories为false。虽然内容在对话中真实存在（非幻觉），但因不在黄金记忆字段范围内，accuracy_score为1。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3876,
+    "total_tokens": 4036,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

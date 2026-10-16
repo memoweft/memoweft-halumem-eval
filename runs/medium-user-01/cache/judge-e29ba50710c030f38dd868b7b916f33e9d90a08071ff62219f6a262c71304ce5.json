@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I like classical music, Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere.' This fully covers the expected memory point about liking classical music with the exact same reason. The entity name 'Martin Mark' is not explicitly mentioned in the extracted memory, but the preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 1376,
+    "total_tokens": 1467,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

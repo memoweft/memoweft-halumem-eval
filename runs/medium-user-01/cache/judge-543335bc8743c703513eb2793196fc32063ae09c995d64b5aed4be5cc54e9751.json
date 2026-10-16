@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point has two key elements: (1) Martin secured interviews and job offers, and (2) through his expanding social network. The extracted memories mention that 'my network has been instrumental in opening doors for me' and 'The insights I've gained from my network have really helped me identify what's most important in my career,' which partially covers the network element. However, there is no mention of Martin specifically securing interviews or job offers through the network. The extracted memories focus on career goals, values, and general network support but omit the specific outcome of interviews and job offers.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 840,
+    "total_tokens": 979,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin's travel preferences are evolving, (2) focus on activities supporting health and humanitarian goals, and (3) specific examples of nature hikes and cultural tours. The Extracted Memories extensively cover elements (2) and (3): multiple items mention nature hikes and cultural tours as preferred activities, and many items reference health and humanitarian goals. However, the extracted memories never mention 'Martin' by name, and there is no explicit mention of preferences 'evolving' (though the shift from wellness retreats to nature hikes/cultural tours implies evolution). The absence of the person's name is a notable omission, but the core content about evolving travel preferences toward health/humanitarian-aligned activities like nature hikes and cultural tours is well captured. Given that the name is missing but the substance is thoroughly covered, this warrants a partial coverage score.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 198,
+    "prompt_tokens": 1053,
+    "total_tokens": 1251,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：喜欢纪录片及其原因（informative and provide real-world insights, complement thirst for knowledge）。该信息点在对话中明确出现（'I like documentaries because they are informative and provide real-world insights, which complement my thirst for knowledge.'），且与黄金记忆'Martin Mark Movies I like to watch: Documentaries'及其reason完全一致，无矛盾或幻觉。字段为电影偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4670,
+    "total_tokens": 4801,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

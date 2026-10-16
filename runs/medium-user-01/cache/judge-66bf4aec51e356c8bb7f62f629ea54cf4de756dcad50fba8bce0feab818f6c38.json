@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark is considering a career change due to a desire for higher financial stability. The Extracted Memories contain 'I'm looking for a position that better aligns with my life goals and promotes personal well-being' and 'Financial stability is secondary to me.' The extracted memories indicate a career change is being considered, but they explicitly state that financial stability is secondary, which directly contradicts the expected memory point that the career change is due to a desire for higher financial stability. The motivation captured is about values, well-being, and humanitarian goals, not financial stability.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1209,
+    "total_tokens": 1347,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) the person (Martin), (2) preference for movies that offer a mental challenge, and (3) context of a stressful week. The Extracted Memories capture the preference for fictional narratives that challenge imagination, creativity, and conventional thinking (partially covering 'mental challenge'), and mention unwinding/recharging (partially relating to stress relief). However, the person's name 'Martin' is completely absent from the extracted memories, and the specific context of 'after a stressful week' is not mentioned either. The preference for 'mental challenge' is only loosely implied through mentions of challenging imagination and conventional thinking, rather than explicitly stated. Since key elements (person name, specific context) are missing, this warrants a partial coverage score.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 895,
+    "total_tokens": 1073,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) Martin在思考自己的电影偏好；(2) 他逐渐倾向于提供精神逃避的虚构叙事。这两点均可在对话中直接找到支持：用户首句'I've been thinking a lot about my movie preferences lately. It seems I've been gravitating more towards fictional narratives that offer a mental escape'，且与金标准记忆'Martin's movie preference has shifted from documentaries to fictional narratives that provide a mental escape'一致。无矛盾或幻觉内容。字段方面，'电影偏好'和'虚构叙事/精神逃避'均对应金标准中的电影偏好字段，故包含为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 3628,
+    "total_tokens": 3798,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

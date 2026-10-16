@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark Music I like to listen to: Classical music'. The Extracted Memories contain 'I like classical music, Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere.' This fully covers the music preference (classical music) and the liking aspect. The person name 'Martin Mark' is not explicitly mentioned in the extracted memories, but the memory system appears to be extracting preferences without always including the person's name in each item. The core content (liking classical music) is fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1359,
+    "total_tokens": 1490,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

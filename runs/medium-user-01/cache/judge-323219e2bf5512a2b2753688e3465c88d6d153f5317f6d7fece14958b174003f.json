@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为'不喜欢拳击，因其攻击性和潜在的身体伤害，与我对健康的关注相矛盾'，与对话中'I dislike boxing due to its aggressive nature and the potential for physical harm, which contradicts my focus on health'以及黄金记忆'Martin Mark Sports I dislike: Boxing'及其原因完全一致，无任何矛盾或幻觉。该信息点的字段（运动偏好）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4675,
+    "total_tokens": 4801,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

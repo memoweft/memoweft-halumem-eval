@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories only contains basic identity information (name and gender) and does not include any memory related to the Target Memory for Update about Martin Mark valuing balancing professional responsibilities with health through practices like yoga. The target memory update is completely absent from the generated memories.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 499,
+    "total_tokens": 573,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：1) 不喜欢暴力电子游戏；2) 原因是暴力游戏助长攻击性，与和平与福祉的价值观相悖。这两点均能在对话和黄金记忆中找到直接支持：黄金记忆中'Martin Mark Games I dislike: Violent video games'及对应原因'I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.'完全匹配。字段为游戏偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4678,
+    "total_tokens": 4818,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

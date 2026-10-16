@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我的社交网络在为我打开大门方面起到了关键作用'与对话中用户原话'Yes, my network has been instrumental in opening doors for me'完全一致，且与黄金记忆'Martin通过不断扩展的社交网络获得了面试和工作机会'语义相符，属于社交网络帮助求职的字段，完全被支持。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 4096,
+    "total_tokens": 4204,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

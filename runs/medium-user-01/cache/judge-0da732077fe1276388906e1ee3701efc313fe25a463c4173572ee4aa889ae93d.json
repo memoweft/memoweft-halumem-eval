@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm grateful for the support I've received. It's made all the difference.'表达了Martin对所获支持的感激之情，这与对话中用户原话'I'm grateful for the support I've received. It's made all the difference.'完全一致，且与黄金记忆中'Martin acknowledged the role of his social network in facilitating his career transition'及'Martin's friends and colleagues provided support and insights that were instrumental in securing new opportunities'等关于支持的字段相符，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 5047,
+    "total_tokens": 5191,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

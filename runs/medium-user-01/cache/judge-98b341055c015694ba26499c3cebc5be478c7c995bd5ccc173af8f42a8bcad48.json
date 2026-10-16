@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'True, having pets around has been a great source of comfort and relaxation for me' covers the core elements of the expected memory point: pets providing comfort and relaxation. However, it omits the specific detail about Golden Retrievers and the additional aspects of emotional support and companionship. Since the main subject (pets) and the primary effect (comfort and relaxation) are captured, but specific details (Golden Retrievers) are missing, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 729,
+    "total_tokens": 845,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

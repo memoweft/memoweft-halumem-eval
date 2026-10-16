@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) Martin's disappointment over the commercialization of wellness retreats, and (2) this conflicting with his health-focused travel goals. The Extracted Memories do mention that wellness retreats are no longer aligned with his goals ('much like the wellness retreats used to' and 'I haven't really considered spa weekends... as they don't seem to align with my goals'), which partially captures the idea that wellness retreats conflict with his health-focused travel goals. However, there is no mention of Martin by name, no mention of 'disappointment,' and critically, no mention of 'commercialization' as the reason for the shift away from wellness retreats. The commercialization aspect is a key element that is entirely missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 1047,
+    "total_tokens": 1222,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

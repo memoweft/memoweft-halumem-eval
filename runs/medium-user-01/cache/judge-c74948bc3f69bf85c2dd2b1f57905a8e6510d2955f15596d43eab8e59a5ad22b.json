@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain 'I like cultural tours. Cultural tours fascinate me because they provide insights into different lifestyles and traditions, enriching my perspective.' This fully covers the expected memory point about liking cultural tours as a travel style.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1357,
+    "total_tokens": 1423,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm focusing on roles that align with my values and offer flexibility and growth'在对话中有直接支持：用户在17:49:05明确说'I'm focusing on roles that align with my values and offer flexibility and growth'，且与黄金记忆'Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals'语义一致（价值观对齐、寻求合适岗位）。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 4101,
+    "total_tokens": 4235,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

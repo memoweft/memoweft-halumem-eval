@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'新角色的创造性方面特别令人兴奋'在对话中有直接支持：用户在07:39:30说'The creative aspect of my new role is particularly exciting. It opens up so many possibilities.'，且与金标准记忆'Martin's new role allows him to leverage his creativity to inspire and innovate in the healthcare sector.'语义一致，字段（新角色的创造性/创造力）在金标准中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 5041,
+    "total_tokens": 5169,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

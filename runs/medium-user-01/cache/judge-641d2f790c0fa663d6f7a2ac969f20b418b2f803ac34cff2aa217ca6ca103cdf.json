@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢重金属音乐，原因是觉得重金属太混乱，更喜欢舒缓和谐的音乐。该信息点在对话和黄金记忆中均有直接对应：'Martin Mark Music I dislike: Heavy metal' 及其原因 'I find heavy metal too chaotic and prefer music that is soothing and harmonious.'，完全一致，无矛盾或幻觉。字段（音乐偏好）也存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 4672,
+    "total_tokens": 4797,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

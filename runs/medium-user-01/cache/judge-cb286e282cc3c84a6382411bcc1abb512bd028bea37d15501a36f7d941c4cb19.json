@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'未来充满可能性，我渴望探索它们'在对话中多次出现（如'The future is full of possibilities, and I'm eager to explore them'），且与黄金记忆中'Martin对追求人生目标充满乐观'这一信息点语义一致，属于对未来可能性的乐观态度，完全被对话和黄金记忆支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 5045,
+    "total_tokens": 5158,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

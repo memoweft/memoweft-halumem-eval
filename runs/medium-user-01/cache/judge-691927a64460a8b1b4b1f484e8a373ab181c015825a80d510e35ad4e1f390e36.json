@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has several elements: (1) Martin's exploratory motivation, (2) testing boundaries and finding new ways to unwind, (3) through movie choices, (4) particularly adventure and fantasy genres. The Extracted Memories cover: exploratory motivation ('curious to explore different genres', 'enhance my adaptability and openness to new experiences'), finding new ways to unwind ('find new ways to relax and recharge', 'set aside dedicated time each week to explore different genres'), adventure and fantasy genres ('curious about genres that offer a sense of adventure or fantasy'), and movie/fictional narrative preferences. The name 'Martin' is not explicitly mentioned in the extracted memories, but the content otherwise aligns well with the expected point. Since the entity name is missing but all other key elements are covered, this warrants a partial coverage score.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 905,
+    "total_tokens": 1098,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

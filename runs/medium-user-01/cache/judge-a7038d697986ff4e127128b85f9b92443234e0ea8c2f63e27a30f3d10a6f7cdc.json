@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：1）'旅程值得'——对话中用户明确说'It's been a long journey, but worth it'，与黄金记忆中关于转型经历的描述一致；2）'对未来的期待'——对话中用户多次表达对未来的乐观和期待，如'I'm excited for what's to come'，与黄金记忆中'Martin conveyed optimism about pursuing his life goals'相符。两个信息点均有对话原文支持，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5047,
+    "total_tokens": 5185,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

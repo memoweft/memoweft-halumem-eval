@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'潜在的影响力是激励我的动力'在对话中有直接支持：用户多次表达'潜在的影响力驱动着我'（The potential for impact is what drives me / motivates me），且与黄金记忆中'Martin对通过新角色追求人道关怀目标感到充满动力'等要点语义一致，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 5040,
+    "total_tokens": 5150,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I dislike extreme sports (such as skydiving)'与对话中用户所述'I dislike extreme sports (such as skydiving)'完全一致，且在黄金记忆中存在对应的'Sports I dislike: Extreme sports like skydiving'字段，信息点完全被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4661,
+    "total_tokens": 4761,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

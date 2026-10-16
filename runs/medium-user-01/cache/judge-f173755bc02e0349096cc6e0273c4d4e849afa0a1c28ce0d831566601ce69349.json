@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark has preferences in Sports Preference. The Extracted Memories contain multiple sports-related preferences: dislike of automobile racing, extreme sports, wrestling, and boxing, along with reasons for each. These clearly cover the sports preference element of the expected memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 1355,
+    "total_tokens": 1431,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

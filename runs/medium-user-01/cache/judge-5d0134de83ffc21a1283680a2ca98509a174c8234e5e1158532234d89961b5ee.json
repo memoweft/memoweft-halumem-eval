@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Balancing leisure activities with work is crucial for me'在对话中有直接支持：用户说'Balancing leisure activities with work is crucial for me'，且黄金记忆中'Martin values balancing leisure activities, like gaming, with his professional commitments in healthcare'也涵盖了这一信息点。该记忆字段（工作与休闲平衡的重要性）在黄金记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 6398,
+    "total_tokens": 6518,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

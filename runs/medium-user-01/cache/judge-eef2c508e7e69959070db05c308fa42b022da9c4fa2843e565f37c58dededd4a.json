@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points are empty, meaning no relevant information exists in memory about the exact date. The Reference Answer states the exact date is not provided. The Memory System Response says 'Not mentioned in memories,' which is consistent with both the empty Key Memory Points and the Reference Answer indicating the date is unavailable. There is no fabrication or contradiction.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 851,
+    "total_tokens": 940,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

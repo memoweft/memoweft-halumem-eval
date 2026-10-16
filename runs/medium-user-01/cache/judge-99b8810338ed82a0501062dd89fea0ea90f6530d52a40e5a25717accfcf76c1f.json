@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point contains several key elements: (1) MartinezDaniel is a colleague, (2) Daniel's expertise in healthcare consulting, (3) the impact on career growth/innovation. The Extracted Memories only capture that 'MartinezDaniel is my Colleague' and that the user works in the healthcare industry. The specific information about Daniel's expertise in healthcare consulting, the challenge/inspiration to push boundaries and innovate, and the significant impact on career growth are all missing. Only the relationship (colleague) is captured.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 687,
+    "total_tokens": 816,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

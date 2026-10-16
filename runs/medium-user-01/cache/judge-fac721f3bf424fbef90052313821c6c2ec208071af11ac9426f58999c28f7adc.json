@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆指出'从网络中获得的见解帮助我识别了职业中最重要的东西'，这与对话中用户所说'The insights I've gained from my network have really helped me identify what's most important in my career'完全一致，且与黄金记忆中关于社交网络提供见解（Daniel的insights等）帮助职业发展的内容相符，无矛盾或幻觉。该信息点的字段（社交网络/职业见解）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4106,
+    "total_tokens": 4239,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories fully cover the expected memory point. The first extracted memory states 'It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals,' which directly matches the expected point about seeking a new job with better work-life balance and humanitarian alignment. Additional memories reinforce this (e.g., 'I'm focusing on roles that align with my values and offer flexibility and growth,' 'Finding a role in a non-profit organization that focuses on healthcare access would be ideal'). The only minor note is that the name 'Martin' is not explicitly mentioned in the extracted memories, but the content is fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 849,
+    "total_tokens": 1000,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

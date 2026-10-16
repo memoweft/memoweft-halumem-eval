@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) inspired by family's medical background, and (2) desire to promote well-being globally. The extracted memory 'Retired doctor who inspired Martin's interest in health' covers the family medical background inspiration. The Public Health major and community health references partially imply a desire to promote well-being, but the 'global' scope and explicit motivation framing are not captured. Partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 738,
+    "total_tokens": 843,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

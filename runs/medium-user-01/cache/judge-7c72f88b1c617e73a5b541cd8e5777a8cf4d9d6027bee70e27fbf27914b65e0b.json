@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point requires that Martin shared anecdotes about past experiences with coffee as a staple for relaxation. The Extracted Memories contain no mention of Martin, no mention of coffee, and no mention of past anecdotes. The extracted memories focus entirely on herbal teas, wellness, and general lifestyle preferences. Since the key elements (person: Martin, topic: coffee, context: past anecdotes for relaxation) are entirely missing, the score is 0.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1084,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

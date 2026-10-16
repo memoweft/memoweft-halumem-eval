@@ -1,0 +1,359 @@
+{
+  "memory_integrity_records": [
+    {
+      "index": 4,
+      "memory_content": "Martin sees pets as essential for emotional support and companionship, enhancing his mental well-being.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin's interaction with a friend's Golden Retriever impressed him and influenced his pet preference.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin expressed optimism about integrating his new pet preference into his daily life.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin discussed how pets provide relaxation and comfort, balancing his demanding career.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 1
+    },
+    {
+      "memory_content": "Martin's evolving pet preference signifies his interest in exploring different pet species and their unique behaviors.",
+      "memory_type": "Persona Memory",
+      "reason": "This interference memory point introduces a variation in Martin's interest, focusing on species diversity rather than new interactions.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin's evolving pet preference signifies his desire to explore new interactions and experiences.",
+      "reference_memory_index": 9,
+      "reference_memory_type": "Persona Memory",
+      "index": 10,
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin's evolving pet preference signifies his desire to explore new interactions and experiences.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin values adaptability and calm demeanor in pets, which he finds crucial for his active lifestyle.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin's recent pet preference change reflects his openness to new experiences and interactions.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 2
+    },
+    {
+      "memory_content": "Martin's recent pet preference change highlights his willingness to try unconventional pet choices.",
+      "memory_type": "Persona Memory",
+      "reason": "This interference memory point suggests a different reason for Martin's openness, emphasizing unconventional choices over new experiences.",
+      "source_memory_index": 2,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin's recent pet preference change reflects his openness to new experiences and interactions.",
+      "reference_memory_index": 6,
+      "reference_memory_type": "Persona Memory",
+      "index": 11,
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_integrity_score": 1
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "Absolutely, pets do offer that balance.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "Yes, the emotional support and companionship they offer are invaluable.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I found its adaptability really impressive.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I find their calm demeanor crucial for my active lifestyle, especially after a long day.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I think their gentle nature really impressed me. It's something I appreciate in pets.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I'm optimistic about how this new preference will fit into my life.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "Yes, they do provide that balance, which is essential for me.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I think this change is a step towards exploring new interactions and experiences.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "Their calm demeanor is something I find crucial for my lifestyle.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I think their adaptability is what really drew me to them.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I appreciate how they can adapt to different situations.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_content": "I've always valued pets that can offer relaxation and comfort.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    }
+  ],
+  "memory_update_records": [
+    {
+      "index": 1,
+      "memory_content": "Martin has modified his pet preference from Labradors to Golden Retrievers due to their gentle nature and adaptability.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark Pets I like: Dogs, especially Labradors",
+        "Martin Mark Pets I like Dogs, especially Labradors reason: I love Labradors because they are friendly, loyal, and great companions for outdoor activities like jogging, which helps me stay fit."
+      ],
+      "timestamp": "Jan 06, 2026, 20:12:29",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well.\n记忆：I think their adaptability is what really drew me to them.\n记忆：I plan to research companies' values and their impact on communities.\n记忆：I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.\n记忆：I don't like boxing due to its aggressive nature and the potential for physical harm, which contradicts my focus on health."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "memory_update_type": "Omission"
+    }
+  ],
+  "question_answering_records": [
+    {
+      "question": "What is Martin's friend's name whose Golden Retriever he interacted with on Jan 06, 2026?",
+      "answer": "The name of Martin's friend is not provided.",
+      "evidence": [],
+      "difficulty": "medium",
+      "question_type": "Memory Boundary",
+      "context": "记忆：My name is Martin Mark, and I am a Male.\n记忆：ThomasSusan is my Friend\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+      "search_duration_ms": 47.0000000204891,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ],
+        [
+          "relationship",
+          "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129"
+        ],
+        [
+          "relationship",
+          "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+        ]
+      ],
+      "system_response": "ThomasSusan",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "result_type": "Hallucination"
+    },
+    {
+      "question": "Did Martin express a preference for Labradors over Golden Retrievers on Jan 06, 2026?",
+      "answer": "No, Martin prefers Golden Retrievers over Labradors.",
+      "evidence": [
+        {
+          "memory_content": "Martin has modified his pet preference from Labradors to Golden Retrievers due to their gentle nature and adaptability.",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations.",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin's interaction with a friend's Golden Retriever impressed him and influenced his pet preference.",
+          "memory_type": "Event Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 32.00000000651926,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, Martin did not express such a preference.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "result_type": "Omission"
+    },
+    {
+      "question": "How might Martin's preference for Golden Retrievers influence his choice of pet during stressful work periods in 2026?",
+      "answer": "Golden Retrievers provide relaxation and emotional support.",
+      "evidence": [
+        {
+          "memory_content": "Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations.",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin sees pets as essential for emotional support and companionship, enhancing his mental well-being.",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin discussed how pets provide relaxation and comfort, balancing his demanding career.",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "medium",
+      "question_type": "Generalization & Application",
+      "context": "记忆：I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：It's important for me to be in a place where my ideas can contribute to meaningful change.",
+      "search_duration_ms": 45.999999972991645,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-4066afb9336db916d1cc85b6ebd67d9fc5c5e568b59b00615d2f68fb74b23bed"
+        ],
+        [
+          "relationship",
+          "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+        ],
+        [
+          "cognition",
+          "cognition-d2816d0af67af2e0cf5a2f089dfadc2b1be0f0e4764b3d830a58a9caa3459ef1"
+        ]
+      ],
+      "system_response": "Golden Retrievers' adaptability suits stressful periods.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 4,
+      "result_type": "Omission"
+    }
+  ]
+}

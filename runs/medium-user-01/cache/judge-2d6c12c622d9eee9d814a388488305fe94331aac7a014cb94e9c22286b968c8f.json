@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's a relief to know I'm moving towards a career that truly reflects my values and aspirations'包含两个信息点：1) Martin感到解脱（relief）；2) 他正朝着反映其价值观和抱负的职业方向前进。这两点均与对话内容一致（用户原话'I'm excited about the possibilities ahead. It's a relief to know I'm moving towards a career that truly reflects my values and aspirations'），且与黄金记忆'Martin feels relief and anticipation about transitioning to a more fulfilling career path'语义相符。字段（情感状态/职业目标）均在黄金记忆中存在，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 4105,
+    "total_tokens": 4278,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

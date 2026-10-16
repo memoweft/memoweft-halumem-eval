@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item: 'I dislike gambling games, I steer clear of gambling games because they can lead to addiction and financial stress, which are detrimental to mental health.' This fully covers the expected memory point regarding the dislike of gambling games and the exact reason provided (addiction, financial stress, detrimental to mental health). The only element not explicitly present is the name 'Martin Mark Games', but the core preference and reasoning are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1379,
+    "total_tokens": 1489,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

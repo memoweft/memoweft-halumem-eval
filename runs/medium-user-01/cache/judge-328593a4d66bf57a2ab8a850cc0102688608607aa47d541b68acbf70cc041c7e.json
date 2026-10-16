@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I plan to research companies' values and their impact on communities'在对话中有直接支持：用户在06:58:11明确表示'I plan to research companies' values and their impact on communities'。该信息点的字段（求职策略/研究公司价值观）与黄金记忆中'Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations'的字段语义相关，属于求职过程中的具体方法，可视为黄金记忆字段的延伸。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 5713,
+    "total_tokens": 5860,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

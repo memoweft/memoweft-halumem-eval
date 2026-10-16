@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'align with my desire to improve healthcare for underserved communities'直接来自对话中用户原话'I've been considering roles in non-profit organizations focused on healthcare access. They align with my desire to improve healthcare for underserved communities.'，与黄金记忆中'Martin is motivated by humanitarian care goals and is exploring roles in non-profit organizations focused on healthcare access'一致，信息完全被支持，无矛盾。字段（非营利组织/医疗可及性目标）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3872,
+    "total_tokens": 4010,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

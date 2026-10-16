@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark Music I like to listen to: Ambient music'. The Extracted Memories contain the item 'I like ambient music, because ambient music is perfect for unwinding after a busy day, as it helps me relax and recharge.' This fully covers the preference for ambient music. The name 'Martin Mark' is not explicitly mentioned in the extracted memories, but the preference itself (ambient music) is fully captured. Since the core content (liking ambient music) is fully covered, and the name is likely a user identifier not required in the memory content itself, this is considered fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1359,
+    "total_tokens": 1503,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

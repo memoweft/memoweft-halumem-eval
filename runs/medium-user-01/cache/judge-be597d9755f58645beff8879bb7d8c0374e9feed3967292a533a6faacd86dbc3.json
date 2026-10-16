@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I haven't really considered spa weekends or culinary tours as they don't seem to align with my goals'直接出现在对话中（12:56:37用户发言），且与黄金记忆中'Martin的旅行偏好正转向支持其健康和人道主义目标的活动'一致。该信息点的字段（旅行偏好/活动选择）在黄金记忆中存在，且内容完全被对话支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 4791,
+    "total_tokens": 4918,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

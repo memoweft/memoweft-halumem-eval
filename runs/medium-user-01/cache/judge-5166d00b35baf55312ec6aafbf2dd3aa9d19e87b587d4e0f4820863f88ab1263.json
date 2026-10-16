@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm grateful for the opportunities that have come my way'表达了Martin对所获机会的感激之情。对话中用户明确表示'I'm grateful for the opportunities that have come my way'（09:02:27），且与黄金记忆中关于Martin成功转型新角色、获得新机会等内容一致，属于对机会的感激，无矛盾或幻觉。该信息点的字段（对机会的感激/态度）在黄金记忆中有所对应（如对新角色的满意、感激等情感态度）。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 5042,
+    "total_tokens": 5190,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

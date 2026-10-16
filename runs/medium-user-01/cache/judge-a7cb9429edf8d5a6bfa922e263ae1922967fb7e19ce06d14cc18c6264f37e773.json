@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Yes, there were projects where teamwork led to innovative healthcare solutions, which was very fulfilling'直接来自对话中用户的原话，且与金标准记忆'Martin Mark shared anecdotes of resolving past conflicts through innovation and teamwork'语义一致，所有信息点均有支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 5718,
+    "total_tokens": 5817,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

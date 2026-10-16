@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm hopeful it will boost my creativity and problem-solving skills, providing a fresh perspective'直接来源于对话中用户的原话'I'm hopeful it will boost my creativity and problem-solving skills, providing a fresh perspective'。该信息点的字段为'对游戏认知益处的期望/乐观态度'，与金标准记忆中'Martin is optimistic about integrating non-violent action games into his routine for cognitive enhancement and relaxation'以及'Martin evaluates cognitive benefits versus value alignment'等字段对应，属于对认知益处的期望，字段匹配。内容完全被对话支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 6405,
+    "total_tokens": 6564,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

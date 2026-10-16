@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) Martin (the person), (2) balancing traditional herbal tea flavors with new health-enhancing blends, and (3) the impact on his lifestyle. The Extracted Memories cover element (2) well — 'I think these herbal teas with additional blends will complement my current choices well' and 'Balancing different preferences is key' imply balancing traditional choices with new blends. Element (3) is also well covered — numerous memories discuss impact on lifestyle (evening routine, yoga, career, hobbies, well-being, personal growth). However, element (1) — the person's name 'Martin' — is entirely absent from the Extracted Memories; no name or identity is mentioned anywhere. Since a key element (the entity name) is missing, the score is 1 rather than 2.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 1090,
+    "total_tokens": 1281,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

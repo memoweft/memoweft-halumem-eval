@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories capture the core elements: the person (implied first-person 'I'), the preference for fictional narratives, and the purpose of mental escape/relaxation ('mental escape', 'break from reality', 'unwind and recharge'). However, the specific trigger of 'after a stressful week' is not explicitly mentioned in any extracted memory. The memories mention work pressures and work-life balance generally, but not a specific 'stressful week' context. This is a partial coverage - the main preference and purpose are captured, but the specific temporal/contextual trigger is missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 896,
+    "total_tokens": 1032,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

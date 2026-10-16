@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Extracted Memories contain no mention of Martin Mark's life goal or any aspiration related to establishing a global health initiative for underserved communities. While there are related contextual items (Public Health major, parents in health fields, ENTP personality), none of them capture or imply the specific life goal statement about establishing a global health initiative.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 736,
+    "total_tokens": 822,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

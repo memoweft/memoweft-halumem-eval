@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) Martin seeks travel options that balance relaxation with health benefits, (2) aligning with his humanitarian goals. The Extracted Memories contain multiple items covering both elements: 'I'm really focused on finding travel options that balance relaxation with health benefits' directly covers element 1, and 'It's important to me that my travels reflect my commitment to health and humanitarian goals' covers element 2. The name 'Martin' is not explicitly mentioned in the extracted memories, but the first-person statements clearly represent Martin's perspective. All key semantic content is fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1045,
+    "total_tokens": 1187,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

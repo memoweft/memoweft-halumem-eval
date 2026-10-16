@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I like jazz for its improvisational style and the way it stimulates my creativity.' fully covers the expected memory point about liking jazz for its improvisational style and creativity stimulation. The only element not explicitly present is the person's name 'Martin Mark', but the preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1374,
+    "total_tokens": 1456,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

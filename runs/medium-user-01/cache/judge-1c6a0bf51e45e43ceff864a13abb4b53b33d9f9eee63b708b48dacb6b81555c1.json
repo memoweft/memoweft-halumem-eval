@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item: 'I dislike horror films, I avoid horror films because they can be disturbing and detract from the positive mindset I strive to maintain.' This fully covers the expected memory point regarding the dislike of horror films and the exact reason provided. The entity name 'Martin Mark' is not explicitly mentioned in the extracted memory, but the preference and reason are fully captured. Since the core content (preference and reason) is fully covered, and the name is likely implicit in the context of the memory system, this is considered fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1377,
+    "total_tokens": 1509,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

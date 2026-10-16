@@ -1,0 +1,12 @@
+{"state": "semantic_setup", "session": null, "sessions_total": 65, "turn": null, "turns_total": null, "usage": {}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 1, "turns_total": 6, "usage": {}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 2, "turns_total": 6, "usage": {"prompt_tokens": 9069, "completion_tokens": 25, "total_tokens": 9094, "cached_tokens": 4352, "calls": 2}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 3, "turns_total": 6, "usage": {"prompt_tokens": 19191, "completion_tokens": 551, "total_tokens": 19742, "cached_tokens": 13184, "calls": 4}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 4, "turns_total": 6, "usage": {"prompt_tokens": 24461, "completion_tokens": 654, "total_tokens": 25115, "cached_tokens": 17600, "calls": 5}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 5, "turns_total": 6, "usage": {"prompt_tokens": 30224, "completion_tokens": 840, "total_tokens": 31064, "cached_tokens": 22272, "calls": 6}}
+{"state": "forming", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 36757, "completion_tokens": 1240, "total_tokens": 37997, "cached_tokens": 26944, "calls": 7}}
+{"state": "indexing", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 51477, "completion_tokens": 1341, "total_tokens": 52818, "cached_tokens": 38080, "calls": 9}}
+{"state": "retrieving", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 51477, "completion_tokens": 1341, "total_tokens": 52818, "cached_tokens": 38080, "calls": 9}}
+{"state": "judging", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 52960, "completion_tokens": 1358, "total_tokens": 54318, "cached_tokens": 38528, "calls": 12}}
+{"state": "session_complete", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 84311, "completion_tokens": 3983, "total_tokens": 88294, "cached_tokens": 47232, "calls": 39}}
+{"state": "partial_complete", "session": 1, "sessions_total": 65, "turn": 6, "turns_total": 6, "usage": {"prompt_tokens": 84311, "completion_tokens": 3983, "total_tokens": 88294, "cached_tokens": 47232, "calls": 39}}

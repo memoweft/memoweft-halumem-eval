@@ -1,0 +1,17 @@
+{
+  "content": "Based on the memories provided, Martin transitioned to a role in a **non-profit organization focusing on healthcare access**.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 25,
+    "prompt_tokens": 570,
+    "total_tokens": 595,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    }
+  }
+}

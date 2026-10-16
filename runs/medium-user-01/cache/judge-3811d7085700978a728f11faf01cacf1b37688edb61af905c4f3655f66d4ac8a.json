@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I try to keep an open mind and see where my curiosity leads'是用户在对话中的原话（11:38:46），在对话中有直接支持。该表述反映了Martin保持开放心态的态度，与金标准记忆中'Martin的开放心态体现在不断演变的运动偏好和愿意探索个人成长新维度'这一记忆点相关，属于'开放心态/个人成长'这一字段范畴。但该候选记忆较为笼统，未包含金标准记忆中的具体信息（如模拟跳伞、极端运动、安全承诺、瑜伽、宠物等），信息价值较低，属于部分正确但不够具体的情况。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 3398,
+    "total_tokens": 3567,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3392
+    }
+  }
+}

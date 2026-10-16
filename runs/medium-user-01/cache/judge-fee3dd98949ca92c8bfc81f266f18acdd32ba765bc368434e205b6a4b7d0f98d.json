@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'理想角色应能在贡献医疗倡议的同时维持平衡充实的生活'可由对话中用户原话'My ideal role would allow me to contribute to healthcare initiatives while maintaining a balanced and fulfilling life'直接支持，且与黄金记忆中'探索能提供更健康工作生活平衡、与价值观一致的职位'及'人道主义关怀目标'等字段语义一致，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3878,
+    "total_tokens": 4001,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

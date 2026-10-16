@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Memory System Response 'Simulated skydiving' matches the Reference Answer 'Simulated skydiving' exactly. It aligns with the Key Memory Point that Martin participated in a simulated skydiving experience during a team-building event. There is no fabrication, contradiction, or omission.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 882,
+    "total_tokens": 961,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

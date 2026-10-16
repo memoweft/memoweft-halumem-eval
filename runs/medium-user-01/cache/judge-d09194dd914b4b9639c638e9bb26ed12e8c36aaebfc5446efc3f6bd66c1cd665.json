@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has multiple elements: (1) Martin values staying active and engaged, (2) through activities like extreme sports and yoga, (3) which benefit his physical health and mental clarity. The extracted memories cover: staying active and engaged ('these activities help me stay active and engaged'), yoga ('Yoga has been a staple for me'), extreme/adventurous activities (simulated skydiving, pushing limits), and mental benefits ('helps me think differently and more creatively'). Physical health benefit is implied through staying active. All key elements are covered or logically implied.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 730,
+    "total_tokens": 867,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

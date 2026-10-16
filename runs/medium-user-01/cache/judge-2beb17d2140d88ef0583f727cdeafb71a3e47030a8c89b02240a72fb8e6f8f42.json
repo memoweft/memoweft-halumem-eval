@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer is 'Unknown' and the Key Memory Points are empty, meaning no information about Martin Mark's siblings is available. The Memory System Response states 'No, no siblings were mentioned,' which provides a definite factual claim rather than acknowledging the unknown status. Since the reference answer is unknown and the system provides a specific conclusion, this constitutes a hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 847,
+    "total_tokens": 942,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

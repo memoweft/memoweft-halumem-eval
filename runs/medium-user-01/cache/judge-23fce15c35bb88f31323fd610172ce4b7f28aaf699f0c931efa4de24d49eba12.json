@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'I think incorporating interactive elements and personal stories could make the workshops more engaging'在对话中确实有支持（用户原话），但该信息点涉及的是'workshop设计方式'，而黄金记忆中没有任何关于workshop设计的字段。黄金记忆聚焦于Martin对非暴力动作游戏的兴趣、认知益处、价值观平衡等，不包含workshop相关内容。因此该字段不在黄金记忆中，is_included为false。虽然内容在对话中有依据（accuracy_score=1），但字段不匹配黄金记忆。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 6402,
+    "total_tokens": 6550,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

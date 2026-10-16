@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories cover two of the three elements of the expected memory point: (1) Martin values balancing leisure activities (gaming) with professional commitments — captured by 'Balancing leisure activities with work is crucial for me' and 'I want to make sure gaming doesn't interfere with my responsibilities'; (2) gaming as the leisure activity — captured by multiple gaming-related memories. However, the specific professional context of 'healthcare' is not mentioned in the extracted memories related to balancing leisure with work. The healthcare mentions appear only in the context of his goal to improve access to healthcare for underserved communities, not explicitly tied to his professional commitments in healthcare as the domain he's balancing against. Since the healthcare/professional domain element is missing from the balancing context, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 1075,
+    "total_tokens": 1255,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

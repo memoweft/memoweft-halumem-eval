@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) cautious evaluation of cognitive benefits, and (2) versus time spent. The extracted memories cover the cognitive benefits aspect well ('boost my creativity and problem-solving skills', 'stimulate my mind', 'keep a journal to note any changes in my cognitive skills'). The time aspect is also covered ('short sessions during my downtime', 'set aside specific times for gaming, ensuring it doesn't interfere with my work'). The cautious evaluation aspect is implied through the journaling/monitoring approach and the careful planning. Together, these elements logically imply the expected memory point about evaluating cognitive benefits versus time spent.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1076,
+    "total_tokens": 1225,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) Martin's recent pet preference change, and (2) this change reflects his openness to new experiences and interactions. Looking at the extracted memories, there are items that address both elements: 'I'm optimistic about how this new preference will fit into my life' and 'I think this change is a step towards exploring new interactions and experiences' directly capture the preference change and the openness to new experiences/interactions. However, the extracted memories do not explicitly mention Martin by name (though this may be implicit as the speaker), and the specific pet preference change itself (what the new preference is) is not clearly stated in the extracted memories. The memories do capture the optimism about a new preference and the openness to new interactions and experiences, which covers the core meaning of the expected point. The mention of 'this new preference' and 'this change' implies a preference change occurred, and the exploration of 'new interactions and experiences' directly matches the openness aspect. The entity name Martin is not explicitly present but may be implicit. Overall, the key semantic content is well covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 246,
+    "prompt_tokens": 744,
+    "total_tokens": 990,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

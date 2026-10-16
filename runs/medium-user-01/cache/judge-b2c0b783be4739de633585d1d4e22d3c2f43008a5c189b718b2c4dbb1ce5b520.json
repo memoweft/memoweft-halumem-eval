@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points clearly contain information about Martin's interest in extreme sports (simulated skydiving, embracing extreme sports for adrenaline and adventure), which directly supports the Reference Answer 'Other extreme sports.' The Memory System Response claims 'The memories provided do not contain information about Martin or any physical activities,' which is factually incorrect given the Key Memory Points. This is a case where the system explicitly states it has no relevant memory despite relevant information existing in the Key Memory Points, which falls under Omission.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 925,
+    "total_tokens": 1048,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

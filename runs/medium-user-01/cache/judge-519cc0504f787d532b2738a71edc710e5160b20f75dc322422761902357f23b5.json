@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin reflects on the pressures of his role, and (2) the importance of balancing leisure activities with relaxation to maintain a healthy work-life balance. The extracted memories cover element (2) well: 'I think they help me maintain a healthy work-life balance' and 'I anticipate challenges in balancing my work commitments with personal growth' address balancing leisure with work. However, element (1) — the specific mention of 'Martin' (the person's name) and 'the pressures of his role' — is not explicitly captured. The memories mention 'work pressures' and 'work commitments' but do not identify the person as Martin. Since a key element (the person's name) is missing, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 904,
+    "total_tokens": 1081,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

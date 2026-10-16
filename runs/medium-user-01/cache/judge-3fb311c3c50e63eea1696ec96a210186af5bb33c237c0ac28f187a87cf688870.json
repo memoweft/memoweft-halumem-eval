@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin is exploring spa weekends and culinary tours as alternatives to wellness retreats. The Extracted Memories contain the statement: 'I haven't really considered spa weekends or culinary tours as they don't seem to align with my goals.' This directly contradicts the expected memory point — the system captured that spa weekends and culinary tours were mentioned, but the extracted memory indicates they were NOT considered/are not being explored, whereas the expected point says they ARE being explored as alternatives. The extracted memory is factually opposite to the expected memory point regarding whether these options are being explored.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1042,
+    "total_tokens": 1181,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

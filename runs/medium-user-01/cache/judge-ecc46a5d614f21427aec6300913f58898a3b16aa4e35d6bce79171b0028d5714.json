@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer states that Martin Mark's middle name is unknown/not provided by the user, and the Key Memory Points are empty, indicating no relevant information exists in memory. The Memory System Response provides a specific middle name ('Mark'), which is a definite fact not supported by any Key Memory Points and directly contradicts the Reference Answer's 'unknown' status. Providing a specific verifiable fact when the reference answer is 'unknown' constitutes a hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 844,
+    "total_tokens": 957,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

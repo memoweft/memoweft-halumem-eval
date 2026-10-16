@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含三个信息点：1) 计划下次旅行包含自然徒步和文化地标参观——对话中用户明确说'I'm planning my next trip to include a series of nature hikes and visits to cultural landmarks'；2) 这些活动能提供所寻求的丰富体验——与对话中用户多次表达这些活动能带来enrichment一致；3) 不会忽视健康价值观——与对话中用户强调'without losing sight of my health values'一致。所有信息点均被对话直接支持，无矛盾。字段方面：旅行计划/偏好、自然徒步、文化地标、健康价值观均在黄金记忆中有对应字段（如探索自然徒步和文化之旅作为替代方案、旅行偏好聚焦健康和人道主义目标等）。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 193,
+    "prompt_tokens": 4807,
+    "total_tokens": 5000,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I think they help me maintain a healthy work-life balance'直接来源于对话中用户的原话'I think they help me maintain a healthy work-life balance'，且与金标准记忆'Martin reflects on the pressures of his role and the importance of balancing leisure activities with relaxation to maintain a healthy work-life balance'语义一致，完全被支持，无矛盾。字段'work-life balance/生活方式平衡'在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3611,
+    "total_tokens": 3738,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

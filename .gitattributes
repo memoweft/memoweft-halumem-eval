@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+# Preserve original dataset and frozen evidence bytes/checksums.
+data/*.jsonl -text
+runs/** -text
+reports/*.json -text
+reports/reproduction-tests.txt -text
+*.sqlite3 binary

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆内容为'避免极限运动，因为它们有很高的受伤风险，这与我对安全和健康的承诺相悖'。该信息点在对话中明确出现（用户提到'I dislike extreme sports (such as skydiving). I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.'），且在黄金记忆中也有对应条目'Martin Mark Sports I dislike Extreme sports like skydiving reason: I avoid extreme sports because they carry a high risk of injury, which goes against my commitment to safety and well-being.'。信息完全一致，无矛盾或幻觉。字段为'Sports Preference'，在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 4674,
+    "total_tokens": 4854,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

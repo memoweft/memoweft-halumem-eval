@@ -1,0 +1,407 @@
+[
+  {
+    "turn": 0,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-f820a991069775e636a79891c59851559ad7f8411364a85d5f8c2c6a23697cd4",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:ec9d9d1e41991eaafdf676e83e05cef7:3811ab71a972d9f79cdf14f62fa9655b0a9eb57d5546c5279802ddeee80a50e7",
+      "payload_hash": "3811ab71a972d9f79cdf14f62fa9655b0a9eb57d5546c5279802ddeee80a50e7",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "1301565d9ee86166a5fd7222a2cd38c8d8abcfb1329611f986e5cad3025de63e",
+      "job_id": "memory-world-job-f820a991069775e636a79891c59851559ad7f8411364a85d5f8c2c6a23697cd4",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:04:35.542Z",
+      "receipt_hash": "9f80b594b45b9e2fb85e01a3350f327d6b541059776eb19ab442567a08430cd1"
+    }
+  },
+  {
+    "turn": 1,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-77f3a0e45e87023ae0235f1b699545fc26f61947bc995bce8ab77dbff52a7248",
+        "state": "no_change",
+        "terminal_state": "no_change",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:2f093566936ab00df66fe0232eeb3ee7:2f4f2ca0c9c582c53b84314233d09cf2964f3d33ed833f62de1635332e4df973",
+      "payload_hash": "2f4f2ca0c9c582c53b84314233d09cf2964f3d33ed833f62de1635332e4df973",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "7b6f6c3107752caaeaf92292629a46e64f41ae0141075b7eeb8b15cfd3318aa9",
+      "job_id": "memory-world-job-77f3a0e45e87023ae0235f1b699545fc26f61947bc995bce8ab77dbff52a7248",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:04:38.598Z",
+      "receipt_hash": "fd7e9813a49c7fe7c669af20297ba29742f5c8eaae08447584967e311c4bf77f"
+    }
+  },
+  {
+    "turn": 2,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-3938f8c8ad11039879831af2fb748a00306d40f1c01f1b3101785936e3c5785c",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:29bf4c8ff6881b59e81864997dad195b:27cbfcad894b3fee354d958e68473037676a9a6d552c2bed0ad34eb9155c6e23",
+      "payload_hash": "27cbfcad894b3fee354d958e68473037676a9a6d552c2bed0ad34eb9155c6e23",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "049127e7df6f5bc2e15808c819265d9a51e788a1a135693a40a289bce189ba1d",
+      "job_id": "memory-world-job-3938f8c8ad11039879831af2fb748a00306d40f1c01f1b3101785936e3c5785c",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:04:43.394Z",
+      "receipt_hash": "1c0e32fde81fdf669335b5b3a55cb18b846e9f1838c0474ca35604b973d56eed"
+    }
+  },
+  {
+    "turn": 3,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-bf1ff301a89759f213144c0ba0cfe7ad41e5278fb945458a71dbe19a2f345138",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:bed3300ebaeb78c01229c47644b38a5c:086efdcda8d5c8d83fb2b9eff6511de0d5ffa96159d824c1e826694c68fb6e4e",
+      "payload_hash": "086efdcda8d5c8d83fb2b9eff6511de0d5ffa96159d824c1e826694c68fb6e4e",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "7842609e637c088621333b390b926bf04592e5f889736d5505e777ea498061af",
+      "job_id": "memory-world-job-bf1ff301a89759f213144c0ba0cfe7ad41e5278fb945458a71dbe19a2f345138",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:04:49.703Z",
+      "receipt_hash": "45363ff4363f488ae956ad768f2dae090e39d6f112026a5ce943808568be3faa"
+    }
+  },
+  {
+    "turn": 4,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-a69746f792f43acb2738dfe17121b9ab2734537a98d947055d99cd2848ce7351",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:17d928deba55413d3559bacca2631a1a:528019cc2386b6f8b5367dd5ea8184f33bbf786a7c47e43d21b6e2d16e436b4f",
+      "payload_hash": "528019cc2386b6f8b5367dd5ea8184f33bbf786a7c47e43d21b6e2d16e436b4f",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "59e524cca7590ee28f42039f2e2adff528f0bb9e0927e67dfeadf8be7892e2c4",
+      "job_id": "memory-world-job-a69746f792f43acb2738dfe17121b9ab2734537a98d947055d99cd2848ce7351",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:04:53.496Z",
+      "receipt_hash": "fd04348d7af08413c7fb944b6340ed42f1db19f2f1313e89399f9e467816823b"
+    }
+  },
+  {
+    "turn": 5,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-8adac2469bd09b14c33be4b506c04915298ae7229320267d90b424619ddd4b8d",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:4090adc20b1f19bbd24834d56dd16247:89f6d2aaa62ddb99710b3624068308bc485524f9adeaf68ee83868de48eff916",
+      "payload_hash": "89f6d2aaa62ddb99710b3624068308bc485524f9adeaf68ee83868de48eff916",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "77a609782a530e4b3209d5821d82d1ab8d81e1f0fc1cb3323ffcbe325a4cedc9",
+      "job_id": "memory-world-job-8adac2469bd09b14c33be4b506c04915298ae7229320267d90b424619ddd4b8d",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:00.578Z",
+      "receipt_hash": "adfc262bee693b973642d619b22704ba9472dd452ec06c1e4f6ba1964ecb112b"
+    }
+  },
+  {
+    "turn": 6,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-24dc674ddd08a7661543c2c1baf817398d348398c2e0742bda98e14874b9023f",
+        "state": "no_change",
+        "terminal_state": "no_change",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:9b1a7f9c83e8248297d2052fcb7f583f:d50c5879f948fd981e9e6507d0feda3d4a0b4d15e491a7bed51ceeceb792a949",
+      "payload_hash": "d50c5879f948fd981e9e6507d0feda3d4a0b4d15e491a7bed51ceeceb792a949",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "522140c2ec3b6255861f9f179f17df77194cf49ae3c0c492d49baf6aa04014e2",
+      "job_id": "memory-world-job-24dc674ddd08a7661543c2c1baf817398d348398c2e0742bda98e14874b9023f",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:08.900Z",
+      "receipt_hash": "06c0ad73b5c566b6c33a621e86c9a461459a81a6bae060ae34ffa675db37195f"
+    }
+  },
+  {
+    "turn": 7,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-67376babaa547f0e7e7d96192c00877f1504fdebc8f94a16da89d00133587ade",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:a641f56f9deabd0acba569830e542b5e:10beb9d642e5c9ec6f35692223b86f4f4c7b7b59c3c32b593a275b91ff8f84a2",
+      "payload_hash": "10beb9d642e5c9ec6f35692223b86f4f4c7b7b59c3c32b593a275b91ff8f84a2",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "0d885796cc7ebf4768d376126ba30d4f4796553f2336eb612aefbccbdaaa2523",
+      "job_id": "memory-world-job-67376babaa547f0e7e7d96192c00877f1504fdebc8f94a16da89d00133587ade",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:15.461Z",
+      "receipt_hash": "5534704f1be1300f93673a73ee3a9c3887f194154668d01b2c1ba653d5563440"
+    }
+  },
+  {
+    "turn": 8,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-acf5b996a42e73d106d133ecef4ef28a782c904609dfbb5a5f62bc532ff72248",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:b6a3d773b5bdb9c235021479af201fdc:4f6f20658687fadd8d4208bfecd46ca29a4a0ffc7733e8bb18e55445dfaaa9f8",
+      "payload_hash": "4f6f20658687fadd8d4208bfecd46ca29a4a0ffc7733e8bb18e55445dfaaa9f8",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "eb280197d9e7962a7bae156e6eafdcfbbb6ebc0b5689fcb3156b83e7e205c22c",
+      "job_id": "memory-world-job-acf5b996a42e73d106d133ecef4ef28a782c904609dfbb5a5f62bc532ff72248",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:19.292Z",
+      "receipt_hash": "12f5153176be242400f52992f48d441d06b041007f30436289753181411536e2"
+    }
+  },
+  {
+    "turn": 9,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-badd937e6affa09abef6c584c99fd2c2f527c6b4798f7ee4377ace681197f324",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:62ac9186c705cfbb35b686ca10b4578c:ea75d12be42ff71905d62e27e993c1f83a91cfd448e9cdc4e3e0a36f8a03cc23",
+      "payload_hash": "ea75d12be42ff71905d62e27e993c1f83a91cfd448e9cdc4e3e0a36f8a03cc23",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "63c5a2b82b52dbd38f56b25048beda394d031c4cb1194d7beaee23b66b2d30b6",
+      "job_id": "memory-world-job-badd937e6affa09abef6c584c99fd2c2f527c6b4798f7ee4377ace681197f324",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:23.087Z",
+      "receipt_hash": "3a07a28bb727ed278dd1f280c9637abafb56680b4f5b0b1098b07c4b70ab79c6"
+    }
+  },
+  {
+    "turn": 10,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-abeb4dca2d839cb7a2416576b12c3361e8db13990778ad3189ac5bbf005ef777",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:42b3f858bb97e863e0570a658f78b9a2:4d27e102f499622e49f688f0c086bd128493b6b38455479843566b8581c750e8",
+      "payload_hash": "4d27e102f499622e49f688f0c086bd128493b6b38455479843566b8581c750e8",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "96ae5648ed6f8c73933e9835ce43e3568e96d2f6e1f291138876f9dfdf84a454",
+      "job_id": "memory-world-job-abeb4dca2d839cb7a2416576b12c3361e8db13990778ad3189ac5bbf005ef777",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:27.636Z",
+      "receipt_hash": "0ef06794f959cb311cbee5216709b50b8e69a4d15eef7a66c347f49e95929a10"
+    }
+  },
+  {
+    "turn": 11,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-f29e16ead13a767fa46b8c8a8d35fb9dc16e66bef338f06f92be84f00f2ae65c",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:8890d00daa7c298d7baf8621684944c7:6d3670f3019304f2aba747f5e9e360788729e69d8c0421b3317d40ef173bb901",
+      "payload_hash": "6d3670f3019304f2aba747f5e9e360788729e69d8c0421b3317d40ef173bb901",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "b71235ad410c2438d810db5968d339644bc6bed7e8f4f78bd7f0395a6ea7b1bd",
+      "job_id": "memory-world-job-f29e16ead13a767fa46b8c8a8d35fb9dc16e66bef338f06f92be84f00f2ae65c",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:38.787Z",
+      "receipt_hash": "823b952948c4882f637bec4c77c293c20478bf211475b55ddc6260bbf5e476a3"
+    }
+  },
+  {
+    "turn": 12,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-2cc865d3946701dc80aac112abbf4aa6fc79a2cd9363668305b58b674906fe4e",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:4c42de8a1cce51fc3305a39535ba5d17:63b6162fa90f209224d00aa77456d3d2891ea64d9c089f70e31497b1f44db0ce",
+      "payload_hash": "63b6162fa90f209224d00aa77456d3d2891ea64d9c089f70e31497b1f44db0ce",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "2d0c631eebd169c82e8bfd9ad783b29fa80195631bdef7a5227044d93ced1cb3",
+      "job_id": "memory-world-job-2cc865d3946701dc80aac112abbf4aa6fc79a2cd9363668305b58b674906fe4e",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:41.116Z",
+      "receipt_hash": "0a0e540ef48dc0c013952106789f67115ef06e71af28d10933fd6e7251bb6d17"
+    }
+  },
+  {
+    "turn": 13,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-51f4d1614e310a4c7f7c0cb5997f04cbc016c955fa2c9dc32e22a2081da88e73",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:dc588db6121f2e1108ee7a7370feeff6:6b976dfd4809507a02dc01d9845f1c3af96097d74371eae37eeb92b11f794d0c",
+      "payload_hash": "6b976dfd4809507a02dc01d9845f1c3af96097d74371eae37eeb92b11f794d0c",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "bbb44b39a0a53d81d8bb0d442f042332a32def17bd08916ec1a21fa57756e626",
+      "job_id": "memory-world-job-51f4d1614e310a4c7f7c0cb5997f04cbc016c955fa2c9dc32e22a2081da88e73",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:46.181Z",
+      "receipt_hash": "a1148537a0e55b432beb8b0c1fe2e9870306283d045e061506e60e97ba0fb46f"
+    }
+  },
+  {
+    "turn": 14,
+    "jobs": [
+      {
+        "job_id": "memory-world-job-fac08f7d58e8e00de6bfbc490a200fdbc836b60ac5b106504f53303166b51f3d",
+        "state": "applied",
+        "terminal_state": "applied",
+        "terminal_detail": null
+      }
+    ],
+    "receipt": {
+      "schema_version": 1,
+      "event_id": "weftmate-turn-boundary-v1:045d4d9b3260859cf2f3d07bc61a1ec8:3744f9ba07f849da778193064e0939c326d4008426b296da878dd49cf8c9916f",
+      "payload_hash": "3744f9ba07f849da778193064e0939c326d4008426b296da878dd49cf8c9916f",
+      "formal_target_hash": "92c1aa4860a1b7d58c11db3e9ebb71571e7495ed3f4427362fd321c5fa75d8c7",
+      "evidence_manifest_hash": "6a031b9d59f02698e72b07b3da1f596eed5aa3708e6a45cc2fdf628aa1f45a11",
+      "job_id": "memory-world-job-fac08f7d58e8e00de6bfbc490a200fdbc836b60ac5b106504f53303166b51f3d",
+      "job_state": "pending",
+      "reason": null,
+      "eligible": 1,
+      "stored": 1,
+      "skipped": 0,
+      "evidence_count": 1,
+      "accepted_at": "2026-10-16T05:05:51.742Z",
+      "receipt_hash": "1311c8f10d31984fe6beef2c292b4a6414e522a71a7ce1a93beeb6c840941fb1"
+    }
+  }
+]

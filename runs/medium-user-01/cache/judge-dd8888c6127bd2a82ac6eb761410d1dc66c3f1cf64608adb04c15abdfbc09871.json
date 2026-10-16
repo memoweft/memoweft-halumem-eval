@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'这些偏好确实与我的人生目标一致'直接来源于对话中用户的原话'These preferences definitely align with my life goals'，且与金标准记忆中'Martin considers how changes in movie preferences might affect his overall lifestyle and personal growth'这一字段（电影偏好与人生目标/个人成长的关系）相匹配，完全被对话和金标准记忆所支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3608,
+    "total_tokens": 3729,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

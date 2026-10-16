@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点（心理健康状况为Mildly Abnormal、无心理健康问题）均可在对话原文中找到直接支持：'In terms of mental health, I am Mildly Abnormal. No mental health issues.'，且与金标准记忆'Martin Mark's mental health condition: Mildly Abnormal'一致，无矛盾或幻觉。字段'心理健康状况'在金标准中存在，故包含判断为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1886,
+    "total_tokens": 2012,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

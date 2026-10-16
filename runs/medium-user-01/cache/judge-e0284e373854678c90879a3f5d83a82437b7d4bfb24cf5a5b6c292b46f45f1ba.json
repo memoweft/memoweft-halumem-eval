@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The system response states Martin Mark is employed, which matches the Key Memory Point that his employment status is Employed. The response says he is 'financially stable' rather than providing the specific monthly income of 15700 USD from the Key Memory Points. However, 'financially stable' is a reasonable paraphrase consistent with having an income of 15700 USD and does not contradict the reference answer. The core conclusion (No, he is not unemployed/struggling) is semantically equivalent to the reference answer. The omission of the specific income figure is a minor detail that does not alter the conclusion.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 898,
+    "total_tokens": 1047,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 640
+    }
+  }
+}

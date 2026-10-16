@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories include: 'I recently had an interesting experience at a team-building event where I tried simulated skydiving.' This directly covers the event (team-building event) and the activity (simulated skydiving). The memory also states 'It's definitely made me more open to trying new things' and 'pushing my limits in these activities helps me think differently,' which logically implies the experience influenced his sports/adventure preferences. The person (Martin) is implied as the speaker. All key elements of the expected memory point are covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 728,
+    "total_tokens": 858,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 704
+    }
+  }
+}

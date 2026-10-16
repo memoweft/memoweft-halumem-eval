@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is about liking Yoga for flexibility and mental clarity in the medical field. The Extracted Memories list contains no mention of Yoga at all, nor any reference to the medical field or flexibility/mental clarity as a reason for a sport/activity. The closest items are about liking nature hikes, wellness retreats, and athletic wear, but none cover Yoga specifically.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1376,
+    "total_tokens": 1470,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

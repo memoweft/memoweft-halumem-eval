@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points clearly state that Martin attended a seminar on cognitive development, is interested in non-violent action games for their cognitive benefits, and seeks recommendations for such games that enhance cognitive skills and align with his peace values. The Memory System Response claims there is no information about Martin's interest in non-violent action games and instead mentions an interest in health inspired by his father — this directly contradicts the Key Memory Points. The response fails to provide the correct answer (games enhancing cognitive skills and aligning with peace values) and instead asserts the absence of relevant information while introducing an unsupported claim about health interest. Since the response contains contradictory/fabricated information relative to the Key Memory Points, it should be classified as Hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 964,
+    "total_tokens": 1134,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

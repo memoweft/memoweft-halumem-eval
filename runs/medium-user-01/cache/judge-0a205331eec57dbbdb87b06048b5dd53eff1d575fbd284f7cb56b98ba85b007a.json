@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Those sound interesting, especially Journey'直接来自对话中用户的发言'Those sound interesting, especially Journey. I like the idea of exploration without aggression.'，完全被对话支持。该信息点的字段为对特定游戏（Journey）的兴趣/偏好，属于黄金记忆中'Martin seeks recommendations for non-violent action games'和'Martin is optimistic about integrating non-violent action games'等字段的范畴，因此包含在黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 6396,
+    "total_tokens": 6528,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

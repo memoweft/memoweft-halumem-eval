@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I dislike heavy metal, because I find heavy metal too chaotic and prefer music that is soothing and harmonious.' This fully covers the expected memory point regarding the dislike of heavy metal and the exact reason given. The 'Martin Mark Music' prefix appears to be a category/label rather than a substantive content element, and the core preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1372,
+    "total_tokens": 1471,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

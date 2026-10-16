@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin's evolving pet preference, and (2) his interest in exploring different pet species and their unique behaviors. The extracted memories cover element (1) well with items like 'I'm optimistic about how this new preference will fit into my life' and 'I think this change is a step towards exploring new interactions and experiences,' which imply an evolving preference. However, element (2) — specifically the interest in exploring *different pet species* and their *unique behaviors* — is not explicitly captured. The memories focus on traits like adaptability, calm demeanor, and gentle nature of (presumably) Golden Retrievers, but there is no mention of exploring different species or behaviors across species. The 'exploring new interactions and experiences' item is vague and does not clearly imply exploring different pet species. Since a key element (exploring different pet species and their unique behaviors) is missing, the score is 1.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 747,
+    "total_tokens": 962,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

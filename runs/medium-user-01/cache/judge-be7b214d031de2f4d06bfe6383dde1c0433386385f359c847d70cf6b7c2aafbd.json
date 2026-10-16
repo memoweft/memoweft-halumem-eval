@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：喜欢环保面料，原因是符合可持续性和环保价值观。该信息点在对话中明确出现（'I like eco-friendly fabrics, I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness.'），且在黄金记忆中也有对应条目（'Martin Mark Clothing I like to wear: Eco-friendly fabrics' 及其原因），完全一致，无矛盾或幻觉。字段为服装偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4673,
+    "total_tokens": 4809,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

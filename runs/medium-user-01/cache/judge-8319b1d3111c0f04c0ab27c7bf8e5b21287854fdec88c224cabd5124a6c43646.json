@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I've been considering roles in non-profit organizations focused on healthcare access'与对话中用户原话完全一致，且与黄金记忆'Martin is motivated by humanitarian care goals and is exploring roles in non-profit organizations focused on healthcare access'语义吻合。该信息点的字段（职业探索方向/非营利组织医疗领域）在黄金记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3873,
+    "total_tokens": 3992,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

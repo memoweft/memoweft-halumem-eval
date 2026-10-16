@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points clearly state that Martin Mark likes dogs (especially Labradors), cats, and parrots, and the Reference Answer is 'Dogs, cats, and parrots.' The Memory System Response claims 'The memories do not mention any pets,' which directly contradicts the Key Memory Points. This is a case where relevant information exists but the system fails to retrieve it and instead asserts no related memory exists, which qualifies as Omission per the criteria (explicitly stating 'no related memory' when relevant information exists).\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 881,
+    "total_tokens": 1010,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

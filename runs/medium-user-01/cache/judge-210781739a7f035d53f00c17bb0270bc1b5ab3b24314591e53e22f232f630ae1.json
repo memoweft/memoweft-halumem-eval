@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I try to choose activities that resonate with my values and contribute to my overall well-being'直接来源于对话中用户的原话（12:23:11），且与黄金记忆中'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals'等要点语义一致，无矛盾或幻觉内容。字段（活动选择偏好/价值观对齐）在黄金记忆中均有对应。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 4788,
+    "total_tokens": 4914,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

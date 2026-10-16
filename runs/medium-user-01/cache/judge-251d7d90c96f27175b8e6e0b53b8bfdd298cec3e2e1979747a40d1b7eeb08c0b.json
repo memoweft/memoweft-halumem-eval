@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain two items that directly cover the expected memory point: 'I'm optimistic about how this new preference will fit into my life' and 'I think this change is a step towards exploring new interactions and experiences.' The second item explicitly mentions exploring new interactions and experiences, and the first implies the evolving preference. Together they fully cover the expected memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 744,
+    "total_tokens": 837,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

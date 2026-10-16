@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point is 'Martin Mark Clothing I like to wear: Eco-friendly fabrics'. The extracted memories contain 'I like eco-friendly fabrics, I choose eco-friendly fabrics because they align with my values of sustainability and environmental consciousness.' This fully covers the preference for eco-friendly fabrics. However, the specific entity name 'Martin Mark' (likely a brand name) is not mentioned in the extracted memory. Since a key element (the specific brand/entity name) is missing, this is only partially covered.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1359,
+    "total_tokens": 1479,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    }
+  }
+}

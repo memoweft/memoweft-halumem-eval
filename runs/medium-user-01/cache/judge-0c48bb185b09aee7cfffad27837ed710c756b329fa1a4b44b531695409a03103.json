@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'My physical condition is Normal. No chronic diseases.' This directly covers the expected memory point about Martin Mark's physical health condition being Normal. The entity name (Martin Mark) is implied as the speaker, and the health status (Normal) matches exactly.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 665,
+    "total_tokens": 742,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

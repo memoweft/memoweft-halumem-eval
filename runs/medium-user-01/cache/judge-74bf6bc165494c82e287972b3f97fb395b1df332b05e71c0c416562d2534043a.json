@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update states that Martin discovered wellness retreats have shifted focus from health to luxury, making them less appealing. The Generated Memories do not contain any mention of this shift to luxury or the reduced appeal. Instead, they reiterate the original positive view of wellness retreats (e.g., 'I like wellness retreats because they offer relaxation...'). The key information about the shift to luxury is completely missing.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 642,
+    "total_tokens": 747,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

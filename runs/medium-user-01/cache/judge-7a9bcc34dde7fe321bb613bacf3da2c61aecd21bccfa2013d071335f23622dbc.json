@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain multiple clothing preference items: liking casual business attire, eco-friendly fabrics, and comfortable athletic wear, and disliking formal wear. These fully cover the expected memory point that Martin Mark has preferences in Clothing Preference.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1355,
+    "total_tokens": 1421,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

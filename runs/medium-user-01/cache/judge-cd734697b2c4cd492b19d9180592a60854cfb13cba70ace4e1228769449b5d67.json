@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：喜欢文化之旅（cultural tours），原因是对不同生活方式和传统的见解能丰富视野。该信息点在对话中明确出现（'I like cultural tours. Cultural tours fascinate me because they provide insights into different lifestyles and traditions, enriching my perspective.'），且与黄金记忆中的'Martin Mark Travel styles I like: Cultural tours'及其原因完全一致，无任何矛盾或幻觉内容。字段为旅行偏好（Travel Preference），在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 4675,
+    "total_tokens": 4815,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

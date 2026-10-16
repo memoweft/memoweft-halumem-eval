@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) supporting mental health during stressful periods, and (2) enhancing yoga practice. The extracted memories contain 'I believe these teas could be very effective in managing stress and supporting mental clarity' which covers the stress/mental health element, and 'Yes, I've thought about how they could enhance my yoga practice by promoting relaxation and focus' which directly covers the yoga practice element. Both key elements are present in the extracted memories.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1091,
+    "total_tokens": 1206,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

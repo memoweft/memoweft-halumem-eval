@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆包含两个信息点：①父亲出生日期1963-08-02，②父亲是退休医生并激发了Martin对健康的兴趣。这两点在对话中均有明确提及（'My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health'），因此内容本身是正确的。但黄金记忆中并未包含'父亲出生日期'和'父亲职业/对Martin的影响'这两个字段（黄金记忆仅记录了父母健在、伴侣状态、子女状态等），故字段匹配为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1992,
+    "total_tokens": 2154,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,1793 @@
+{
+  "relationship:relationship-af75165a78291fea7cb3da719e16bfb1ae844757c16157747e6836d2714fed0d": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "relationship",
+    "item_id": "relationship-af75165a78291fea7cb3da719e16bfb1ae844757c16157747e6836d2714fed0d",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:2306668e7df4e802337b8c14cb2cc5c4a9f7639ba28d9ae8ee595d14830b778e",
+          "occurred_at": "2025-09-04T19:38:09Z",
+          "recorded_at": "2026-10-16T04:49:54.872Z",
+          "raw_content": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "summary": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-a9629d592e562d405f0c7d06e19f0f138c3279e8422fb5fa19b1980b07da4500",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-079d4f2165dd8aae192106aff73a5915e2cd3451c44ac69105d83c5b2b5499a6",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-81645edf125d6c0d80941adfa6dc44cb6ad8e6ae9bbe5034de2af14ab3a7dfe9",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-af75165a78291fea7cb3da719e16bfb1ae844757c16157747e6836d2714fed0d",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "source_entity_id": "entity-18b8b2f4c7f08b3ab6665f669325ea7bbb79705d8791206a046811ae5c29312f",
+      "target_entity_id": "entity-81645edf125d6c0d80941adfa6dc44cb6ad8e6ae9bbe5034de2af14ab3a7dfe9",
+      "relation_type": "mother",
+      "content": "My Mother was born on 1963-08-02, Nurse with a passion for community health.",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited"
+    },
+    "created_at": "2026-10-16T04:50:01.798Z",
+    "updated_at": "2026-10-16T04:50:01.798Z"
+  },
+  "relationship:relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "relationship",
+    "item_id": "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:2306668e7df4e802337b8c14cb2cc5c4a9f7639ba28d9ae8ee595d14830b778e",
+          "occurred_at": "2025-09-04T19:38:09Z",
+          "recorded_at": "2026-10-16T04:49:54.872Z",
+          "raw_content": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "summary": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-a9629d592e562d405f0c7d06e19f0f138c3279e8422fb5fa19b1980b07da4500",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-079d4f2165dd8aae192106aff73a5915e2cd3451c44ac69105d83c5b2b5499a6",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-81645edf125d6c0d80941adfa6dc44cb6ad8e6ae9bbe5034de2af14ab3a7dfe9",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-af75165a78291fea7cb3da719e16bfb1ae844757c16157747e6836d2714fed0d",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "source_entity_id": "entity-18b8b2f4c7f08b3ab6665f669325ea7bbb79705d8791206a046811ae5c29312f",
+      "target_entity_id": "entity-079d4f2165dd8aae192106aff73a5915e2cd3451c44ac69105d83c5b2b5499a6",
+      "relation_type": "father",
+      "content": "My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited"
+    },
+    "created_at": "2026-10-16T04:50:01.798Z",
+    "updated_at": "2026-10-16T04:50:01.798Z"
+  },
+  "relationship:relationship-06ca80c622b2b0540f3ffdabbd2efad869798c914e186e76832e710137cfb644": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "relationship",
+    "item_id": "relationship-06ca80c622b2b0540f3ffdabbd2efad869798c914e186e76832e710137cfb644",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5f792b52fd7f16a537409aa086b8d2f4a3a97c5bc656a5ca530a77860dbd3f92",
+          "occurred_at": "2025-09-06T01:02:20Z",
+          "recorded_at": "2026-10-16T04:51:20.953Z",
+          "raw_content": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "summary": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "entity",
+            "item_id": "entity-0359f2640a28cce480536d4ee2ffd0139d571f6d12076fa0510ddc0274b2eacb",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-41600f8bd27b3d1daf33f599b7742f1f2d8a3507e26c9f7e96ffcc79c8578759",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f5e9de17785270cfd443f8c0dd78bf458d529eb403c77be091ac03919796b72c",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-06ca80c622b2b0540f3ffdabbd2efad869798c914e186e76832e710137cfb644",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-916bf3cbbf4399cb11f5e4e55982d421ac562e74b43ef88a0f5db555d17caa21",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "source_entity_id": "entity-18b8b2f4c7f08b3ab6665f669325ea7bbb79705d8791206a046811ae5c29312f",
+      "target_entity_id": "entity-0359f2640a28cce480536d4ee2ffd0139d571f6d12076fa0510ddc0274b2eacb",
+      "relation_type": "Colleague",
+      "content": "WilliamsJoshua is my Colleague",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited"
+    },
+    "created_at": "2026-10-16T04:51:25.755Z",
+    "updated_at": "2026-10-16T04:51:25.755Z"
+  },
+  "relationship:relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "relationship",
+    "item_id": "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5f792b52fd7f16a537409aa086b8d2f4a3a97c5bc656a5ca530a77860dbd3f92",
+          "occurred_at": "2025-09-06T01:02:20Z",
+          "recorded_at": "2026-10-16T04:51:20.953Z",
+          "raw_content": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "summary": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "entity",
+            "item_id": "entity-0359f2640a28cce480536d4ee2ffd0139d571f6d12076fa0510ddc0274b2eacb",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-41600f8bd27b3d1daf33f599b7742f1f2d8a3507e26c9f7e96ffcc79c8578759",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f5e9de17785270cfd443f8c0dd78bf458d529eb403c77be091ac03919796b72c",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-06ca80c622b2b0540f3ffdabbd2efad869798c914e186e76832e710137cfb644",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-916bf3cbbf4399cb11f5e4e55982d421ac562e74b43ef88a0f5db555d17caa21",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "source_entity_id": "entity-18b8b2f4c7f08b3ab6665f669325ea7bbb79705d8791206a046811ae5c29312f",
+      "target_entity_id": "entity-f5e9de17785270cfd443f8c0dd78bf458d529eb403c77be091ac03919796b72c",
+      "relation_type": "Friend",
+      "content": "ThomasSusan is my Friend",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited"
+    },
+    "created_at": "2026-10-16T04:51:25.755Z",
+    "updated_at": "2026-10-16T04:51:25.755Z"
+  },
+  "relationship:relationship-916bf3cbbf4399cb11f5e4e55982d421ac562e74b43ef88a0f5db555d17caa21": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "relationship",
+    "item_id": "relationship-916bf3cbbf4399cb11f5e4e55982d421ac562e74b43ef88a0f5db555d17caa21",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "273b7190-987a-4ac7-8e01-e403a89f5ef7",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5f792b52fd7f16a537409aa086b8d2f4a3a97c5bc656a5ca530a77860dbd3f92",
+          "occurred_at": "2025-09-06T01:02:20Z",
+          "recorded_at": "2026-10-16T04:51:20.953Z",
+          "raw_content": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "summary": "Of course. I have several important friends and colleagues: ThomasSusan is my Friend, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life. MartinezDaniel is my Colleague, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth. WilliamsJoshua is my Colleague, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "entity",
+            "item_id": "entity-0359f2640a28cce480536d4ee2ffd0139d571f6d12076fa0510ddc0274b2eacb",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-41600f8bd27b3d1daf33f599b7742f1f2d8a3507e26c9f7e96ffcc79c8578759",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f5e9de17785270cfd443f8c0dd78bf458d529eb403c77be091ac03919796b72c",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-06ca80c622b2b0540f3ffdabbd2efad869798c914e186e76832e710137cfb644",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-916bf3cbbf4399cb11f5e4e55982d421ac562e74b43ef88a0f5db555d17caa21",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "source_entity_id": "entity-18b8b2f4c7f08b3ab6665f669325ea7bbb79705d8791206a046811ae5c29312f",
+      "target_entity_id": "entity-41600f8bd27b3d1daf33f599b7742f1f2d8a3507e26c9f7e96ffcc79c8578759",
+      "relation_type": "Colleague",
+      "content": "MartinezDaniel is my Colleague",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited"
+    },
+    "created_at": "2026-10-16T04:51:25.755Z",
+    "updated_at": "2026-10-16T04:51:25.755Z"
+  },
+  "cognition:cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:6403dbbb6eae36135e273716fbbe152b17dc9f8b76f859501596ee2497e4dc92",
+          "occurred_at": "2025-09-04T18:47:28Z",
+          "recorded_at": "2026-10-16T04:49:41.162Z",
+          "raw_content": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "summary": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-9a68a109d9bd120888a0f9277e8b0aa780bd51d886e7b131574ce0bb73f9193f",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-f93387ab2aab43fc2f20c364c071be1543d8366c382b9ea674a311f7e8db361e",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f4ee11ab3eb5a1c149ca5fce8e4bf58771cd3d4dba17f5d30cb41b29f8217594",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "My name is Martin Mark, and I am a Male.",
+      "content_type": "naming",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:48.794Z",
+    "updated_at": "2026-10-16T04:49:48.794Z"
+  },
+  "cognition:cognition-9a68a109d9bd120888a0f9277e8b0aa780bd51d886e7b131574ce0bb73f9193f": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-9a68a109d9bd120888a0f9277e8b0aa780bd51d886e7b131574ce0bb73f9193f",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:6403dbbb6eae36135e273716fbbe152b17dc9f8b76f859501596ee2497e4dc92",
+          "occurred_at": "2025-09-04T18:47:28Z",
+          "recorded_at": "2026-10-16T04:49:41.162Z",
+          "raw_content": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "summary": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-9a68a109d9bd120888a0f9277e8b0aa780bd51d886e7b131574ce0bb73f9193f",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-f93387ab2aab43fc2f20c364c071be1543d8366c382b9ea674a311f7e8db361e",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f4ee11ab3eb5a1c149ca5fce8e4bf58771cd3d4dba17f5d30cb41b29f8217594",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "I was born on 1996-08-02, and I am now 29 years old.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:48.794Z",
+    "updated_at": "2026-10-16T04:49:48.794Z"
+  },
+  "cognition:cognition-f93387ab2aab43fc2f20c364c071be1543d8366c382b9ea674a311f7e8db361e": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-f93387ab2aab43fc2f20c364c071be1543d8366c382b9ea674a311f7e8db361e",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "fa523b70-dcf9-41ad-a776-064eb3cb1aed",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:6403dbbb6eae36135e273716fbbe152b17dc9f8b76f859501596ee2497e4dc92",
+          "occurred_at": "2025-09-04T18:47:28Z",
+          "recorded_at": "2026-10-16T04:49:41.162Z",
+          "raw_content": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "summary": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-9a68a109d9bd120888a0f9277e8b0aa780bd51d886e7b131574ce0bb73f9193f",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-f93387ab2aab43fc2f20c364c071be1543d8366c382b9ea674a311f7e8db361e",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-f4ee11ab3eb5a1c149ca5fce8e4bf58771cd3d4dba17f5d30cb41b29f8217594",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "I currently live in Columbus.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:48.794Z",
+    "updated_at": "2026-10-16T04:49:48.794Z"
+  },
+  "cognition:cognition-36607b556ee706a57ecf51f37d168c64769f986d14b80c5797c88e5c71d21d04": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-36607b556ee706a57ecf51f37d168c64769f986d14b80c5797c88e5c71d21d04",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "548f768e-b867-4b7f-a9d2-24b56087450a",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "548f768e-b867-4b7f-a9d2-24b56087450a",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:445bc5c0a9c8347e3176547ed6e56df657095b780c2e6ffc3d525b3d496acd34",
+          "occurred_at": "2025-09-04T18:50:22Z",
+          "recorded_at": "2026-10-16T04:49:49.020Z",
+          "raw_content": "Of course. My highest education level is Bachelor, and my major is Public Health.",
+          "summary": "Of course. My highest education level is Bachelor, and my major is Public Health.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-36607b556ee706a57ecf51f37d168c64769f986d14b80c5797c88e5c71d21d04",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "My highest education level is Bachelor, and my major is Public Health.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:51.554Z",
+    "updated_at": "2026-10-16T04:49:51.554Z"
+  },
+  "cognition:cognition-6bd345c86b2f7cba5f42fb7a070765ab58e7399c623e9f82682ecb60c90a5201": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-6bd345c86b2f7cba5f42fb7a070765ab58e7399c623e9f82682ecb60c90a5201",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "fcc09b6e-c066-4a79-badc-d556c4638e20",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "fcc09b6e-c066-4a79-badc-d556c4638e20",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:ef493c9a74b3ee36be5f76aaa4279afea4e9d005d1d976503d3e9470621cc518",
+          "occurred_at": "2025-09-04T19:17:16Z",
+          "recorded_at": "2026-10-16T04:49:51.574Z",
+          "raw_content": "According to the MBTI test, my personality type is ENTP. Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+          "summary": "According to the MBTI test, my personality type is ENTP. Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-6bd345c86b2f7cba5f42fb7a070765ab58e7399c623e9f82682ecb60c90a5201",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-f9a96979303bae41f7a6335bdf322be9c21739d7769437c7fe15a47a3e90c714",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "According to the MBTI test, my personality type is ENTP.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:54.617Z",
+    "updated_at": "2026-10-16T04:49:54.617Z"
+  },
+  "cognition:cognition-f9a96979303bae41f7a6335bdf322be9c21739d7769437c7fe15a47a3e90c714": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-f9a96979303bae41f7a6335bdf322be9c21739d7769437c7fe15a47a3e90c714",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "fcc09b6e-c066-4a79-badc-d556c4638e20",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "fcc09b6e-c066-4a79-badc-d556c4638e20",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:ef493c9a74b3ee36be5f76aaa4279afea4e9d005d1d976503d3e9470621cc518",
+          "occurred_at": "2025-09-04T19:17:16Z",
+          "recorded_at": "2026-10-16T04:49:51.574Z",
+          "raw_content": "According to the MBTI test, my personality type is ENTP. Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+          "summary": "According to the MBTI test, my personality type is ENTP. Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-6bd345c86b2f7cba5f42fb7a070765ab58e7399c623e9f82682ecb60c90a5201",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-f9a96979303bae41f7a6335bdf322be9c21739d7769437c7fe15a47a3e90c714",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:49:54.617Z",
+    "updated_at": "2026-10-16T04:49:54.617Z"
+  },
+  "cognition:cognition-a9629d592e562d405f0c7d06e19f0f138c3279e8422fb5fa19b1980b07da4500": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-a9629d592e562d405f0c7d06e19f0f138c3279e8422fb5fa19b1980b07da4500",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "dbac95d1-01c8-42e4-b371-d3ea7e9ae8d6",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:2306668e7df4e802337b8c14cb2cc5c4a9f7639ba28d9ae8ee595d14830b778e",
+          "occurred_at": "2025-09-04T19:38:09Z",
+          "recorded_at": "2026-10-16T04:49:54.872Z",
+          "raw_content": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "summary": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-a9629d592e562d405f0c7d06e19f0f138c3279e8422fb5fa19b1980b07da4500",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-079d4f2165dd8aae192106aff73a5915e2cd3451c44ac69105d83c5b2b5499a6",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "entity",
+            "item_id": "entity-81645edf125d6c0d80941adfa6dc44cb6ad8e6ae9bbe5034de2af14ab3a7dfe9",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-af75165a78291fea7cb3da719e16bfb1ae844757c16157747e6836d2714fed0d",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "relationship",
+            "item_id": "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "Both parents are alive, no_relationship, No children.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:50:01.798Z",
+    "updated_at": "2026-10-16T04:50:01.798Z"
+  },
+  "cognition:cognition-2497d5aa410f5d32f638abfdd6d81d950e39cdb4ca29c28c403216177aa8a263": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-2497d5aa410f5d32f638abfdd6d81d950e39cdb4ca29c28c403216177aa8a263",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5ac74c39426a7fb5c6a6ba57db5d0fda65cb8e6178af773928de82602f824838",
+          "occurred_at": "2025-09-05T22:35:55Z",
+          "recorded_at": "2026-10-16T04:51:05.537Z",
+          "raw_content": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "summary": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-2497d5aa410f5d32f638abfdd6d81d950e39cdb4ca29c28c403216177aa8a263",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7bee6f8fee7d273a1ce787b2a8eaa7f8840785a4dbeab8ee88683389c2554f39",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7f4560d87521dc6ad6ea9688a3514f5bd0077fb07d844ad91f45350b144d9e8f",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "I work at Huaxin Consulting as a director.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:51:18.386Z",
+    "updated_at": "2026-10-16T04:51:18.386Z"
+  },
+  "cognition:cognition-7bee6f8fee7d273a1ce787b2a8eaa7f8840785a4dbeab8ee88683389c2554f39": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-7bee6f8fee7d273a1ce787b2a8eaa7f8840785a4dbeab8ee88683389c2554f39",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5ac74c39426a7fb5c6a6ba57db5d0fda65cb8e6178af773928de82602f824838",
+          "occurred_at": "2025-09-05T22:35:55Z",
+          "recorded_at": "2026-10-16T04:51:05.537Z",
+          "raw_content": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "summary": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-2497d5aa410f5d32f638abfdd6d81d950e39cdb4ca29c28c403216177aa8a263",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7bee6f8fee7d273a1ce787b2a8eaa7f8840785a4dbeab8ee88683389c2554f39",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7f4560d87521dc6ad6ea9688a3514f5bd0077fb07d844ad91f45350b144d9e8f",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "My monthly income is 15700 USD, and I currently have 43700 USD in savings.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:51:18.386Z",
+    "updated_at": "2026-10-16T04:51:18.386Z"
+  },
+  "cognition:cognition-7f4560d87521dc6ad6ea9688a3514f5bd0077fb07d844ad91f45350b144d9e8f": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-7f4560d87521dc6ad6ea9688a3514f5bd0077fb07d844ad91f45350b144d9e8f",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "c5860d81-0084-496b-9bff-e11e54105654",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:5ac74c39426a7fb5c6a6ba57db5d0fda65cb8e6178af773928de82602f824838",
+          "occurred_at": "2025-09-05T22:35:55Z",
+          "recorded_at": "2026-10-16T04:51:05.537Z",
+          "raw_content": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "summary": "I am currently Employed, working in the healthcare industry. I work at Huaxin Consulting as a director. My monthly income is 15700 USD, and I currently have 43700 USD in savings. As the director at Huaxin Consulting, I lead initiatives to enhance healthcare services and promote well-being across all aspects of life. My passion for improving health outcomes drives me to innovate and collaborate with various stakeholders. The financial compensation is rewarding, allowing me to save comfortably while investing in my personal and professional growth.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-2497d5aa410f5d32f638abfdd6d81d950e39cdb4ca29c28c403216177aa8a263",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7bee6f8fee7d273a1ce787b2a8eaa7f8840785a4dbeab8ee88683389c2554f39",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-7f4560d87521dc6ad6ea9688a3514f5bd0077fb07d844ad91f45350b144d9e8f",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "I am currently Employed, working in the healthcare industry.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:51:18.386Z",
+    "updated_at": "2026-10-16T04:51:18.386Z"
+  },
+  "cognition:cognition-4ff43a8a3ecbc70f249c0a1c90f22009ef4ff68114a21201644a1189df107f70": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-4ff43a8a3ecbc70f249c0a1c90f22009ef4ff68114a21201644a1189df107f70",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "f4685b50-962e-4c84-92b2-9597b8e5fcf0",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "f4685b50-962e-4c84-92b2-9597b8e5fcf0",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:849e0c06da549370ca4075d9c56dbf506cf36aa04f25a2edc1998c366260f240",
+          "occurred_at": "2025-09-05T23:15:17Z",
+          "recorded_at": "2026-10-16T04:51:18.418Z",
+          "raw_content": "My physical condition is Normal. No chronic diseases. In terms of mental health, I am Mildly Abnormal. No mental health issues. While my physical health remains stable due to my active lifestyle and focus on well-being, my mental health occasionally feels strained due to the demanding nature of my role and the pressure to consistently deliver high-quality healthcare solutions.",
+          "summary": "My physical condition is Normal. No chronic diseases. In terms of mental health, I am Mildly Abnormal. No mental health issues. While my physical health remains stable due to my active lifestyle and focus on well-being, my mental health occasionally feels strained due to the demanding nature of my role and the pressure to consistently deliver high-quality healthcare solutions.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-4ff43a8a3ecbc70f249c0a1c90f22009ef4ff68114a21201644a1189df107f70",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-b21203f20923b83c936090a317fd93faf0275df736437a5e2db688fb5fcc5589",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "My physical condition is Normal. No chronic diseases.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:51:20.891Z",
+    "updated_at": "2026-10-16T04:51:20.891Z"
+  },
+  "cognition:cognition-b21203f20923b83c936090a317fd93faf0275df736437a5e2db688fb5fcc5589": {
+    "schema_version": 1,
+    "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+    "world_revision": 7,
+    "object_kind": "cognition",
+    "item_id": "cognition-b21203f20923b83c936090a317fd93faf0275df736437a5e2db688fb5fcc5589",
+    "current_state": "current",
+    "lifecycle": {
+      "invalid_at": null,
+      "archived_at": null,
+      "muted_at": null,
+      "deleted_at": null,
+      "visible": true,
+      "currentness_state": "current"
+    },
+    "permissions": [
+      {
+        "allow_local_read": true,
+        "allow_cloud_read": true,
+        "allow_inference": true
+      }
+    ],
+    "provenance": [
+      {
+        "evidence_id": "f4685b50-962e-4c84-92b2-9597b8e5fcf0",
+        "relation": "support",
+        "currentness_state": "current",
+        "permissions": {
+          "allow_local_read": true,
+          "allow_cloud_read": true,
+          "allow_inference": true
+        },
+        "evidence": {
+          "schema_version": 1,
+          "subject_id": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+          "world_revision": 7,
+          "evidence_id": "f4685b50-962e-4c84-92b2-9597b8e5fcf0",
+          "source_kind": "spoken",
+          "host_id": "weftmate:halumem",
+          "origin_id": "weftmate:849e0c06da549370ca4075d9c56dbf506cf36aa04f25a2edc1998c366260f240",
+          "occurred_at": "2025-09-05T23:15:17Z",
+          "recorded_at": "2026-10-16T04:51:18.418Z",
+          "raw_content": "My physical condition is Normal. No chronic diseases. In terms of mental health, I am Mildly Abnormal. No mental health issues. While my physical health remains stable due to my active lifestyle and focus on well-being, my mental health occasionally feels strained due to the demanding nature of my role and the pressure to consistently deliver high-quality healthcare solutions.",
+          "summary": "My physical condition is Normal. No chronic diseases. In terms of mental health, I am Mildly Abnormal. No mental health issues. While my physical health remains stable due to my active lifestyle and focus on well-being, my mental health occasionally feels strained due to the demanding nature of my role and the pressure to consistently deliver high-quality healthcare solutions.",
+          "content_available": true,
+          "permissions": {
+            "allow_local_read": true,
+            "allow_cloud_read": true,
+            "allow_inference": true
+          },
+          "corrects_evidence_id": null,
+          "currentness_state": "current",
+          "lifecycle": {
+            "invalid_at": null,
+            "archived_at": null,
+            "muted_at": null,
+            "deleted_at": null,
+            "visible": true,
+            "currentness_state": "current"
+          }
+        },
+        "linked_world_items": [
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-4ff43a8a3ecbc70f249c0a1c90f22009ef4ff68114a21201644a1189df107f70",
+            "relation": "support",
+            "current_state": "current"
+          },
+          {
+            "object_kind": "cognition",
+            "item_id": "cognition-b21203f20923b83c936090a317fd93faf0275df736437a5e2db688fb5fcc5589",
+            "relation": "support",
+            "current_state": "current"
+          }
+        ],
+        "model_content_available": true,
+        "model_denial_reason": null,
+        "assistant_sources": []
+      }
+    ],
+    "transition_history": [],
+    "value": {
+      "content": "In terms of mental health, I am Mildly Abnormal. No mental health issues.",
+      "content_type": "attribute",
+      "formed_by": "stated",
+      "confidence": 600,
+      "cred_status": "limited",
+      "scope": null,
+      "valid_at": null,
+      "asked_at": null,
+      "target_entity_id": null,
+      "perspective_entity_id": null
+    },
+    "created_at": "2026-10-16T04:51:20.891Z",
+    "updated_at": "2026-10-16T04:51:20.891Z"
+  }
+}

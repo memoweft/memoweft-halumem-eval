@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：不喜欢正装（formal wear），原因是觉得正装限制性强，偏好便于活动和舒适的衣物。该信息点在对话中明确出现（'I dislike formal wear, because I find formal wear restrictive and prefer clothing that allows for easy movement and comfort.'），且与金标准记忆'Martin Mark Clothing I dislike: Formal wear'及其理由完全一致，无任何矛盾或幻觉内容。字段为服装偏好，存在于金标准记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4672,
+    "total_tokens": 4809,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

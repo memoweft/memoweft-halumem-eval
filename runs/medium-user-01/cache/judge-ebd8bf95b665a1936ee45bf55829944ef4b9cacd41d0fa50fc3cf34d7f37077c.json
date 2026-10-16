@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories cover both elements of the expected memory point. Value alignment is captured through statements like 'I've always avoided violent video games because they don't align with my values,' 'I want games that are engaging but not too aggressive,' and 'ensuring I'm aligning my activities with my values.' Cognitive benefits are captured through 'I'm hopeful it will boost my creativity and problem-solving skills,' 'stimulate my mind,' and 'improving my cognitive skills.' The evaluation of cognitive benefits versus value alignment when considering new gaming experiences is fully implied by the combination of these memories.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1072,
+    "total_tokens": 1211,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

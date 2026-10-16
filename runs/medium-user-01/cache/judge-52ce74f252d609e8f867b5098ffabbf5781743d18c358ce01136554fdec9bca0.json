@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point states that Martin expressed skepticism about integrating his new pet preference into his daily life. The extracted memories contain an item stating 'I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.' This directly contradicts the expected memory point: the extracted memory indicates optimism rather than skepticism about integrating the pet preference. Since the extracted memory captures the topic (pet preference integration) but conveys the opposite sentiment (optimism vs. skepticism), this is a conflicting/incorrect capture of the expected point.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 910,
+    "total_tokens": 1039,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

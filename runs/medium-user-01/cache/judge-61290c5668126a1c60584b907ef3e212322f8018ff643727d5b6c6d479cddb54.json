@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：喜欢草本茶（herbal teas），原因是其镇静特性和健康益处，支持整体健康。该信息点在对话和黄金记忆中均有直接对应：'Martin Mark Beverages I like to drink: Herbal teas' 及其原因完全一致，无矛盾或幻觉内容。字段（饮料偏好）也存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 4669,
+    "total_tokens": 4786,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point contains three elements: (1) entity 'Martin Mark Clothing', (2) preference 'Comfortable athletic wear', and (3) reason 'I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle.' The Extracted Memories contain an item that exactly matches the preference and reason: 'I like comfortable athletic wear, because I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle.' However, the entity name 'Martin Mark Clothing' is not mentioned anywhere in the extracted memories. Since a key element (the entity/brand name) is missing, this is only partially covered.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1378,
+    "total_tokens": 1529,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

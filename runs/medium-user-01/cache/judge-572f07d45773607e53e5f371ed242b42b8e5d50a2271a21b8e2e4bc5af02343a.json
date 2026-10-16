@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) openness to new experiences reflected in evolving sports preferences, and (2) willingness to explore new dimensions of personal growth. The extracted memories cover element (2) well through items like 'made me more open to trying new things', 'pushing my limits... helps me think differently and more creatively', 'enjoying the thrill and seeing where it takes me', and 'keep an open mind and see where my curiosity leads'. However, element (1) regarding 'evolving sports preferences' is only partially covered — there is mention of trying simulated skydiving and yoga as a staple, but no clear indication of sports preferences actually evolving over time. The openness aspect is well captured, but the specific 'evolving sports preferences' detail is only implied rather than explicitly stated.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 186,
+    "prompt_tokens": 731,
+    "total_tokens": 917,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

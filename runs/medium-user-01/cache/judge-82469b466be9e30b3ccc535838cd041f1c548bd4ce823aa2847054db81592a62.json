@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin's new role improved his mental health, and (2) improved job satisfaction. The extracted memories contain 'Yes, the new role has definitely improved my mental health' which covers the mental health element. For job satisfaction, memories like 'The new role feels like the perfect fit', 'The creative aspect of my new role is particularly exciting', and 'I'm grateful for the balance I've found' strongly imply improved job satisfaction. However, the extracted memories do not explicitly name 'Martin' as the person, though this is likely inferred from context. The mental health improvement is explicitly stated, and job satisfaction is well-implied through multiple memories. The absence of the explicit name 'Martin' is a minor omission but the substance of the memory point is well covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 880,
+    "total_tokens": 1065,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

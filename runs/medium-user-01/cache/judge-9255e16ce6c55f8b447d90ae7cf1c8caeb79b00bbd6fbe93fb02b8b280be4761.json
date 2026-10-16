@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Yes, they do provide that balance, which is essential for me.'表达了宠物对Martin提供平衡（balance）的重要性，这与对话中用户多次提到的'pets do offer that balance'以及金标准记忆'Martin discussed how pets provide relaxation and comfort, balancing his demanding career'相符。该信息点的字段（宠物提供平衡/放松）在金标准记忆中存在，且内容完全被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 5460,
+    "total_tokens": 5587,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

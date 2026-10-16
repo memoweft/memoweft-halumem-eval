@@ -1,0 +1,39 @@
+{
+  "extraction_recall": 0.7142857142857143,
+  "target_precision": 0.9952830188679245,
+  "extraction_f1": 0.8316909735908553,
+  "false_memory_resistance": 0.5,
+  "memory_accuracy": 0.9448979591836735,
+  "counts": {
+    "memory_integrity_records": 163,
+    "memory_accuracy_records": 245,
+    "memory_update_records": 24,
+    "question_answering_records": 32
+  },
+  "qa": {
+    "count": 32,
+    "counts": {
+      "Omission": 12,
+      "Hallucination": 12,
+      "Correct": 8
+    },
+    "correct": 0.25,
+    "hallucination": 0.375,
+    "omission": 0.375
+  },
+  "update": {
+    "count": 24,
+    "counts": {
+      "Omission": 15,
+      "Correct": 9
+    },
+    "correct": 0.375,
+    "hallucination": 0.0,
+    "omission": 0.625
+  },
+  "invalid_judgements": 3,
+  "sessions_completed": 12,
+  "incomplete_session_excluded": 13,
+  "not_scored_session_started": 14,
+  "note": "Sessions 1-12 only; 3 pre-stop invalid memory judgments retained. Stopped session 13 is not included."
+}

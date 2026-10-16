@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) pets are essential for emotional support and companionship, and (2) this enhances Martin's mental well-being. The extracted memories contain 'Yes, the emotional support and companionship they offer are invaluable,' which directly covers the first element. However, there is no mention of mental well-being or Martin's personal mental health enhancement in any of the extracted memories. Since one key element (mental well-being) is missing, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 747,
+    "total_tokens": 868,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

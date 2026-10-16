@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories capture the influence of a Golden Retriever on Martin's pet preference (e.g., 'Golden Retrievers seem to embody that trait well', 'their gentle nature really impressed me', 'this change is a step towards exploring new interactions'). However, the specific detail that this was a 'friend's' Golden Retriever is not mentioned in any of the extracted memories. Since a key element (the source/owner of the dog) is missing, the coverage is partial.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 748,
+    "total_tokens": 867,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

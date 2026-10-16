@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain 'I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.' This fully covers the expected memory point about disliking sugary sodas. The name 'Martin Mark' is not mentioned, but the core preference (dislike of sugary sodas) is fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1359,
+    "total_tokens": 1453,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

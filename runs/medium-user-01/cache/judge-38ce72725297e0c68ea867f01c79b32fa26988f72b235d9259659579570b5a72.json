@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆提到'创建可持续系统以改善全球医疗可及性和整体福祉'，这在对话中确实有支持（用户说'I believe they can help create sustainable systems that improve healthcare access and overall well-being globally'），但该信息点属于'健康目标/愿景'领域，而黄金记忆中没有涵盖'全球健康系统愿景'这一字段。黄金记忆主要聚焦于非暴力动作游戏、认知益处、价值观平衡等，不包含关于创建全球可持续医疗系统的愿景。因此该字段不在黄金记忆中，标记为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 6405,
+    "total_tokens": 6555,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

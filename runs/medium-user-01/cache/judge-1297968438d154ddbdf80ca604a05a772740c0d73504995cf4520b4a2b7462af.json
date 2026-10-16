@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'The hikes will definitely support my mental clarity and physical health'在对话中有直接支持：用户在[12:21:12]明确表示'The hikes will definitely support my mental clarity and physical health'，与对话原文完全一致。该信息点涉及'徒步对健康的影响'这一字段，在黄金记忆中对应'Martin seeks travel options that balance relaxation with health benefits'和'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals, such as nature hikes and cultural tours'等相关字段，属于旅行偏好与健康目标的范畴。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 4782,
+    "total_tokens": 4948,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

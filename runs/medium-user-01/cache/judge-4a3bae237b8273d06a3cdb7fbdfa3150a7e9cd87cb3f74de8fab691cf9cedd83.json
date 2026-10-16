@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Point clearly states that Martin Mark's birth date is 1996-08-02, and the Reference Answer confirms this. The Memory System Response states 'Not mentioned in memories,' which explicitly claims no relevant information exists, even though the Key Memory Points contain the exact answer. This is a case of the system failing to retrieve/return available information, with no fabrication or contradiction present.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 869,
+    "total_tokens": 975,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

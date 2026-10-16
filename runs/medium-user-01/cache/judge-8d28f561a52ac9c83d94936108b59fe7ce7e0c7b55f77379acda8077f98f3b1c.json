@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin's beverage preference evolved to include energy drinks with enhanced stimulating properties and health benefits. The Extracted Memories contain the opposite information: 'I've always been cautious about energy drinks due to their stimulating effects' and 'Herbal teas align better with my health-conscious approach.' The memories indicate a preference for herbal teas over energy drinks, not an evolution toward energy drinks. The expected point is not covered and is actually contradicted by the extracted memories.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1087,
+    "total_tokens": 1202,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

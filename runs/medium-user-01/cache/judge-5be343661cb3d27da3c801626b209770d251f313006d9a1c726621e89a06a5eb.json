@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我正在寻找一个更好地与我的人生目标一致并促进个人福祉的职位'完全被对话和黄金记忆支持。对话中用户明确表示'Absolutely, I'm looking for a position that better aligns with my life goals and promotes personal well-being'，且黄金记忆中也包含'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals, and career aspirations'。该记忆涉及的字段（求职目标、个人福祉）均在黄金记忆中有对应，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 5720,
+    "total_tokens": 5870,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 5696
+    }
+  }
+}

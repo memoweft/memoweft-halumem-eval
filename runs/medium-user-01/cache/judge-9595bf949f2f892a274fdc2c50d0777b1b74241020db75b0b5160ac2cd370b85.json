@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I think a job that offers flexibility would help me manage both my professional responsibilities and personal well-being'直接来自对话中用户的原话（07:30:21），且与金标准记忆'Martin is exploring job opportunities that can provide a healthier work-life balance, focusing on flexibility and alignment with his values'语义一致，完全被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3879,
+    "total_tokens": 3994,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

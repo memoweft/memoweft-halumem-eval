@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm really looking forward to finding a position that supports both my career goals and my personal health'可分解为两个信息点：1) Martin期待找到支持其职业目标的职位——对话中用户明确表示'I'm really looking forward to finding a position that supports both my career goals'，且黄金记忆中'Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals'支持此点；2) 该职位需支持个人健康——对话中用户说'supports both my career goals and my personal health'，黄金记忆中'better work-life balance'及对话中'balancing professional responsibilities with personal health'均支持此点。两个信息点的字段（求职目标/职业目标、个人健康/工作生活平衡）均在黄金记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 215,
+    "prompt_tokens": 4105,
+    "total_tokens": 4320,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

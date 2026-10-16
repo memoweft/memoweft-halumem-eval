@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我希望我的领导力能激励他人优先考虑医疗可及性和福祉，创造积极变化的涟漪效应'在对话中有直接支持：用户在[08:41:23]明确表示'我希望我的领导力激励他人优先考虑医疗可及性和福祉，创造积极变化的涟漪效应'。该记忆涉及的字段（领导力愿景、医疗可及性目标、积极影响）均在黄金记忆中有对应字段（如'致力于改善医疗可及性'、'领导力目标'等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 5722,
+    "total_tokens": 5878,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extraction_recall": 0.6928104575163399,
+  "target_precision": 0.9952830188679245,
+  "extraction_f1": 0.8169482239064926,
+  "false_memory_resistance": 0.5789473684210527,
+  "memory_accuracy": 0.8511029411764706,
+  "counts": {
+    "memory_integrity_records": 172,
+    "memory_accuracy_records": 272,
+    "memory_update_records": 26,
+    "question_answering_records": 35
+  },
+  "qa": {
+    "count": 35,
+    "counts": {
+      "Omission": 12,
+      "Hallucination": 12,
+      "Correct": 8,
+      "Invalid": 3
+    },
+    "correct": 0.22857142857142856,
+    "hallucination": 0.34285714285714286,
+    "omission": 0.34285714285714286
+  },
+  "update": {
+    "count": 26,
+    "counts": {
+      "Omission": 15,
+      "Correct": 9,
+      "Invalid": 2
+    },
+    "correct": 0.34615384615384615,
+    "hallucination": 0.0,
+    "omission": 0.5769230769230769
+  },
+  "invalid_judgements": 35,
+  "sessions_completed": 13,
+  "sessions_total": 65,
+  "usage": {
+    "prompt_tokens": 7452104,
+    "completion_tokens": 94331,
+    "total_tokens": 7546435,
+    "cached_tokens": 3094080,
+    "calls": 822
+  }
+}

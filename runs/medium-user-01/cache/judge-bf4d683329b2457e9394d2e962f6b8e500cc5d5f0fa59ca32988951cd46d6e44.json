@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I like cats, because cats are independent and affectionate, and their purring is soothing, which I find relaxing after a long day at work.' This fully covers the expected memory point that Martin Mark likes cats as a pet.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 1355,
+    "total_tokens": 1428,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

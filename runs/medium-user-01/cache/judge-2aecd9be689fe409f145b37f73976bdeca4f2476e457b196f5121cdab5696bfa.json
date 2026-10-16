@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I want to make sure gaming doesn't interfere with my responsibilities'直接来自对话中用户的原话'I want to make sure gaming doesn't interfere with my responsibilities'，且与金标准记忆'Martin values balancing leisure activities, like gaming, with his professional commitments in healthcare'语义一致，属于平衡休闲与职业责任的字段，完全被支持且无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 6400,
+    "total_tokens": 6513,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

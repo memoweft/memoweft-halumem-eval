@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢拥挤的旅游景点，原因是它们可能令人不知所措且有压力，会降低旅行的乐趣。该信息点在对话和黄金记忆中均有直接对应：黄金记忆中明确记录了'Martin Mark Travel styles I dislike: Crowded tourist spots'及其原因'I avoid crowded tourist spots as they can be overwhelming and stressful, detracting from the enjoyment of travel'，与候选记忆完全一致，无矛盾或幻觉。字段为旅行偏好（Travel Preference），在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 4677,
+    "total_tokens": 4823,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

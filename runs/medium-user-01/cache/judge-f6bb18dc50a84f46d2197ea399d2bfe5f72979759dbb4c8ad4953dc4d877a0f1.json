@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'I plan to share my experiences through workshops and collaborative projects, fostering a culture of innovation and learning'。该记忆涉及的字段（分享经验的方式、培养创新文化）与黄金记忆中关于Martin通过协作和创新解决问题、追求职业目标等字段相关联，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 5720,
+    "total_tokens": 5832,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

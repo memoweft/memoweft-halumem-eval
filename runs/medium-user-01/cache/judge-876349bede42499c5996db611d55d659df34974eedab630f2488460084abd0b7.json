@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin's appreciation for extreme sports stems from a childhood fascination with adventure movies. The Extracted Memories mention Martin's interest in extreme sports (simulated skydiving, pushing limits, thrill-seeking) but contain no mention of a childhood fascination with adventure movies or any origin/cause for this interest. The key causal element (childhood fascination with adventure movies) is entirely missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 723,
+    "total_tokens": 824,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

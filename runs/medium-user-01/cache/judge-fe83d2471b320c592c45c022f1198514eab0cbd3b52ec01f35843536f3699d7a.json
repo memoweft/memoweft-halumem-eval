@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：喜欢狗（尤其是拉布拉多），原因是友好、忠诚、适合户外活动如慢跑有助于保持健康。该信息点在对话和黄金记忆中均有直接对应：黄金记忆中'Martin Mark Pets I like: Dogs, especially Labradors'及对应理由完全匹配。所有信息点均被支持，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 4681,
+    "total_tokens": 4796,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

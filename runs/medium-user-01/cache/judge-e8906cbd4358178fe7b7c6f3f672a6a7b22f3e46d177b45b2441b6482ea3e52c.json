@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'That's why I'm drawn to nature hikes and cultural tours'表达了Martin被自然徒步和文化之旅吸引的原因，这与对话中用户多次表达的内容一致（如'I'm drawn to nature hikes and cultural tours'），也与金标准记忆中'Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats'及'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals, such as nature hikes and cultural tours'相符。该记忆的字段（旅行偏好/活动选择）在金标准记忆中存在，且内容完全被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 4783,
+    "total_tokens": 4946,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

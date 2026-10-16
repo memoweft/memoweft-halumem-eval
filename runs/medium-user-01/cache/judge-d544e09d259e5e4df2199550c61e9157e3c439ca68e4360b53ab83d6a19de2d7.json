@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I like casual business attire, Casual business attire is my go-to for work as it strikes a balance between professionalism and comfort.' fully covers the preference and the reason stated in the expected memory point. The only element not explicitly present is the entity name 'Martin Mark Clothing', but the core content (preference for casual business attire and the reason) is fully captured.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1378,
+    "total_tokens": 1475,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I want to ensure they align with my own values and aspirations'直接对应对话中用户原话'I want to ensure they align with my own values and aspirations'（06:58:11），且与黄金记忆中'Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations'等条目语义一致，属于价值观与职业目标对齐的字段，完全被支持。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5713,
+    "total_tokens": 5839,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

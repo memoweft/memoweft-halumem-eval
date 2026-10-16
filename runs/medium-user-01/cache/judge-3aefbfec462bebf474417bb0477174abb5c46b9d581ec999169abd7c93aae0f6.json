@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) Martin values adaptability, (2) Martin values calm demeanor, and (3) these are crucial for his active lifestyle. The Extracted Memories contain multiple items covering all three: 'I've always valued adaptability in pets' and 'I think their adaptability is what really drew me to them' cover element 1; 'I find their calm demeanor crucial for my active lifestyle, especially after a long day' and 'Their calm demeanor is something I find crucial for my lifestyle' cover elements 2 and 3. All key elements are fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 748,
+    "total_tokens": 892,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 704
+    }
+  }
+}

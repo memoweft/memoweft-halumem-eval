@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：工作单位为Huaxin Consulting、职位为director。两者均在对话和金标准记忆中得到直接支持（'Martin Mark works at Huaxin Consulting'、'Martin Mark's job title is director'），无矛盾或幻觉。字段（工作单位、职位）均存在于金标准记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1879,
+    "total_tokens": 1987,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

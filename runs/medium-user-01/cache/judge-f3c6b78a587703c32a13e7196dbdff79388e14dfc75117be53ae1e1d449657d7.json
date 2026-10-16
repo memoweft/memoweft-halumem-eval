@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'潜在的影响力驱动着我'在对话中有多处直接支持，如'The potential for impact is what drives me'和'The potential for impact is what motivates me'，且与黄金记忆中关于追求目标、在医疗领域产生影响的内容一致，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 5039,
+    "total_tokens": 5139,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

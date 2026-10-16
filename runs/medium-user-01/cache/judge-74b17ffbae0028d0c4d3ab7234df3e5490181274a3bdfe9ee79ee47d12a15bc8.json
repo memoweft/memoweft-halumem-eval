@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) pets provide relaxation and comfort, (2) this balances a demanding career, and (3) the person is Martin. The extracted memories cover element (1) well ('I've always valued pets that can offer relaxation and comfort', 'Their calm demeanor is something I find crucial for my lifestyle'). However, there is no mention of a 'demanding career' or any career-related balancing context, and the name 'Martin' does not appear in any extracted memory. Two key elements (career context and person name) are missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 743,
+    "total_tokens": 880,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

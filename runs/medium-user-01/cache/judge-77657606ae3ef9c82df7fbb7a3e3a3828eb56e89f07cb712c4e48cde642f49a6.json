@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals'以及'I aim to learn from others' experiences and seek mentorship'，与候选记忆的网络、寻求导师、探索非营利组织岗位等内容一致。字段方面，'networking/mentorship/non-profit roles'对应黄金记忆中'exploring roles in non-profit organizations focused on healthcare access'和'exploring job opportunities'等字段，均在黄金记忆中有对应。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 3883,
+    "total_tokens": 4040,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

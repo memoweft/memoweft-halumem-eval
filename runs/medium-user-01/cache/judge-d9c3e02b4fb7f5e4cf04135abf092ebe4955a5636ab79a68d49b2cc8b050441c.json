@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain 'Fresh smoothies are my favorite because they are nutritious and energizing, perfect for my active lifestyle,' which fully covers the expected memory point about liking fresh smoothies. The name 'Martin Mark Beverages' appears to be a formatting artifact or entity label rather than a substantive memory element, and the core preference for fresh smoothies is completely captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1360,
+    "total_tokens": 1454,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 1344
+    }
+  }
+}

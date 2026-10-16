@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark Beverages likes to drink herbal teas for their calming properties and health benefits. The Extracted Memories contain the item: 'I like herbal teas for their calming properties and health benefits, which support my overall well-being.' This fully covers the preference for herbal teas and the stated reasons (calming properties and health benefits). The only element not explicitly present is the entity name 'Martin Mark Beverages,' but in the context of memory extraction, the first-person statements represent the user's preferences, so the preference and reasons are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1378,
+    "total_tokens": 1512,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update states that Martin is reconsidering wellness retreats due to their shift towards luxury experiences. The Generated Memories contain a memory stating 'I've been thinking a lot about my travel preferences lately, especially wellness retreats,' which reflects the reconsideration aspect. However, it completely omits the key reason for this reconsideration — the shift towards luxury experiences. Therefore, this is a partially omitted update.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 628,
+    "total_tokens": 732,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

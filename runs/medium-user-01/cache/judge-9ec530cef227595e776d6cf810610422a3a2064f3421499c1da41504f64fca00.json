@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I dislike rap music, because I find rap music often too aggressive for my taste and prefer genres that promote positivity.' fully covers the expected memory point, including the dislike of rap music and the exact reason provided.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1373,
+    "total_tokens": 1439,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

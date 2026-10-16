@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I find that pushing my limits in these activities helps me think differently and more creatively'直接来自对话中用户的原话（10:49:52），且与黄金记忆'Engaging in extreme sports helps Martin overcome creative blocks and inspires new ideas'语义一致，完全被支持，无矛盾。字段（创意/思维方面的益处）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3401,
+    "total_tokens": 3519,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

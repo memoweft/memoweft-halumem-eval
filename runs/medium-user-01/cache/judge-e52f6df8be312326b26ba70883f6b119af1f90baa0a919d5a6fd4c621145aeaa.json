@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I found its adaptability really impressive'直接来自对话第一句用户发言，且与金标准记忆'Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations'及'Martin has modified his pet preference from Labradors to Golden Retrievers due to their gentle nature and adaptability'一致，字段为对宠物适应性的评价，属于金标准记忆涵盖的字段，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5454,
+    "total_tokens": 5580,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

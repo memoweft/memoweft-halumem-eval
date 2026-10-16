@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain multiple items that fully cover the expected memory point. Specifically, 'I'm curious about genres that offer a sense of adventure or fantasy' directly captures the curiosity about adventure and fantasy genres. Additionally, 'Fictional narratives help me unwind, and I'm curious to explore different genres for relaxation' and 'I plan to set aside dedicated time each week to explore different genres, allowing me to unwind and recharge' cover the relaxation aspect and the exploration of different genres. All elements of the expected memory point (curiosity, exploring different genres, adventure/fantasy, relaxation) are present.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 901,
+    "total_tokens": 1042,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

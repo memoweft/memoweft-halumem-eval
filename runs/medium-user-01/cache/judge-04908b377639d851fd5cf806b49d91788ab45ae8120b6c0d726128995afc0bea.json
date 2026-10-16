@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin used his social network, (2) to explore new job opportunities, (3) for a higher salary. The extracted memories mention using a network to explore job opportunities ('my network has been instrumental in opening doors for me', 'The insights I've gained from my network have really helped me identify what's most important in my career') and finding a new job, but there is no mention of 'Martin' as the person, and critically, no mention of 'higher salary' as a motivation. The extracted memories focus on work-life balance, values, healthcare, and personal health rather than salary. Two key elements (person name and salary motivation) are missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 843,
+    "total_tokens": 1009,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

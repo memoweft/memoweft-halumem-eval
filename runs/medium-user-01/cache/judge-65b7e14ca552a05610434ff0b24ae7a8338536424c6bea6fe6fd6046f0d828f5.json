@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin expressed enthusiasm over the commercialization of wellness retreats, aligning with his interest in luxury travel. The Extracted Memories contain no mention of Martin's name, no mention of commercialization of wellness retreats, and no mention of luxury travel. In fact, the extracted memories suggest the opposite sentiment regarding wellness retreats (e.g., 'I want my travels to enhance my physical and mental health, much like the wellness retreats used to' implies a past tense or shift away from them, and the focus is on nature hikes and cultural tours rather than luxury or commercialization). None of the key elements (person, enthusiasm for commercialization, luxury travel) are covered.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1048,
+    "total_tokens": 1210,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

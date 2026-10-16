@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) Martin appreciates Golden Retrievers, and (2) for their calm demeanor and ability to adapt to different situations. The Extracted Memories contain multiple items covering calm demeanor ('I find their calm demeanor crucial for my active lifestyle', 'Their calm demeanor is something I find crucial for my lifestyle') and adaptability ('I appreciate how they can adapt to different situations', 'I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well'). The mention of Golden Retrievers is also present. However, the extracted memories do not explicitly name 'Martin' as the person, though this is a common omission in memory extraction where the speaker is implied. The core content about appreciating Golden Retrievers for calm demeanor and adaptability is fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 747,
+    "total_tokens": 932,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

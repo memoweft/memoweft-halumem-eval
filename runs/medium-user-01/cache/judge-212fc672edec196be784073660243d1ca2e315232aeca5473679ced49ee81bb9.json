@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) optimism about pursuing life goals, (2) renewed vigor, and (3) creativity. The Extracted Memories contain 'The new role is empowering me to pursue my goals with more energy' (covers goals + vigor/energy) and 'The creative aspect of my new role is particularly exciting' (covers creativity). Multiple entries also convey strong optimism ('The future feels bright,' 'excited for what's to come'). All three elements are covered, though the memories frame these as attributes of the new role rather than Martin's personal outlook, which is a minor framing difference but semantically equivalent.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 881,
+    "total_tokens": 1031,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

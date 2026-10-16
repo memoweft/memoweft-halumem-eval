@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'Spa vacations are ideal for unwinding and rejuvenating, which helps me maintain balance in my life.' This fully covers the preference for spa vacations and the exact reason provided in the expected memory point. The entity name (Martin Mark) and category (Travel styles) are not explicitly present in the extracted memory, but the core preference and reason are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1377,
+    "total_tokens": 1476,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

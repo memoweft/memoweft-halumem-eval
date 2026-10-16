@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户在[08:36:31]明确表示'I plan to adapt my approach by actively listening to my team and being open to feedback, ensuring we're aligned with our goals'，与候选记忆完全一致。该信息点涉及领导方式/团队管理策略，属于对话中讨论的职业发展与领导力相关话题，与黄金记忆中关于职业转变、领导力发展等主题相关联。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 5726,
+    "total_tokens": 5859,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

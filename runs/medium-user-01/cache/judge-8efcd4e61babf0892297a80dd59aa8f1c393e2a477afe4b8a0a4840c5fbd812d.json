@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) Martin attended a seminar on cognitive development, and (2) this sparked his interest in non-violent action games for their cognitive benefits. The Extracted Memories contain references to interest in non-violent games (avoiding violent games, preferring exploration without aggression, engaging but not too aggressive games) and cognitive benefits (boosting creativity and problem-solving skills, cognitive skills tracking). However, there is no mention of Martin attending a seminar on cognitive development, nor any mention of a seminar or event that sparked this interest. The origin/context of the interest (the seminar) is entirely missing, which is a key element of the expected memory point.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 1082,
+    "total_tokens": 1241,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

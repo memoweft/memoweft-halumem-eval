@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'Fresh smoothies are my favorite because they are nutritious and energizing, perfect for my active lifestyle.' This fully covers the preference for fresh smoothies and the reason provided in the expected memory point. The entity name 'Martin Mark Beverages' appears to be a brand or specific product identifier that is not present in the extracted memory, but the core preference and reason are fully captured. Since the expected memory point's key elements (preference for fresh smoothies and the reason) are fully covered, and the entity name may be a contextual label rather than a critical field, the score is 2.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 1380,
+    "total_tokens": 1527,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

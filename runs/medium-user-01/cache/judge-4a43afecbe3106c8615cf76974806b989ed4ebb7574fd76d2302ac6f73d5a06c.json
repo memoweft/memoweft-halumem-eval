@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：①身体状况为Normal，②无慢性疾病。对话中用户明确说\"My physical condition is Normal. No chronic diseases.\"，与候选记忆完全一致，无矛盾。字段方面，\"身体状况\"字段在金标准记忆中存在（Martin Mark's physical health condition: Normal），\"无慢性疾病\"可视为身体状况的补充描述，属于同一字段范畴，因此字段匹配为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1878,
+    "total_tokens": 2006,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

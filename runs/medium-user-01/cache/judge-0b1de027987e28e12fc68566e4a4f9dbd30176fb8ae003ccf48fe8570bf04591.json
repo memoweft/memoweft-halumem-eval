@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点'希望工作支持改善欠发达社区医疗可及性的愿望'在对话中有直接支持：用户说'I want to ensure that my work supports my aspiration to improve healthcare access for underserved communities'，且与金标准记忆'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals'及'Martin Mark's motivation for career change is driven by his desire for personal well-being and improving healthcare access for underserved communities'一致，无矛盾或幻觉。字段'职业目标/医疗可及性愿望'在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 5719,
+    "total_tokens": 5880,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

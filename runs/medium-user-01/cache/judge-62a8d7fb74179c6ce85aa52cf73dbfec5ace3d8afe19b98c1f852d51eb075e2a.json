@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Financial stability is secondary to me'在对话中有直接支持：用户明确表示'My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being. Financial stability is secondary to me.'该信息点的字段（财务稳定性/职业动机优先级）在金标准记忆中存在对应字段（如'career change motivation'、'humanitarian goals'等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5707,
+    "total_tokens": 5833,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

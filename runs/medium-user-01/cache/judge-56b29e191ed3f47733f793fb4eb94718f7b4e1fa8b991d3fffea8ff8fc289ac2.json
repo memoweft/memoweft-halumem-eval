@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories only contains the user's name and gender (Martin Mark, Male). It completely omits the Target Memory for Update, which is about Martin Mark using tools and collaboration with diverse teams to inspire ideas and overcome creative blocks. There is no memory related to the target update at all.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 510,
+    "total_tokens": 590,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

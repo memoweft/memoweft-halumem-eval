@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark's employment status is Employed'. The Extracted Memories contain 'I am currently Employed, working in the healthcare industry.' Assuming the conversation subject (the 'I' in the memories) is Martin Mark, this item fully covers the expected point: the employment status is Employed. The entity name is implied by the first-person framing of the memory system.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 665,
+    "total_tokens": 765,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

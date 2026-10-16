@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm curious about genres that offer a sense of adventure or fantasy'在对话中有直接支持：用户在07:21:00明确说'I'm curious about genres that offer a sense of adventure or fantasy'。该信息点的字段（电影类型偏好/好奇心）在金标准记忆中存在对应项：'Martin expresses curiosity about exploring different movie genres, such as adventure and fantasy, to find new avenues for relaxation'。信息完全一致，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3613,
+    "total_tokens": 3752,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3584
+    }
+  }
+}

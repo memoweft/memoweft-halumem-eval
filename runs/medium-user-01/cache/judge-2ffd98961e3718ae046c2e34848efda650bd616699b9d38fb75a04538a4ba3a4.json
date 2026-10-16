@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) 寻找同时提供放松和丰富体验的活动——对话中用户明确表示'I look for activities that offer both relaxation and enrichment'；(2) 支持健康和人道主义目标——对话中用户多次提到'health and humanitarian goals'，且黄金记忆中也包含'Martin seeks travel options that balance relaxation with health benefits, aligning with his humanitarian goals'。两个信息点均有充分支持，无矛盾或幻觉内容。字段方面，'活动偏好/旅行目标'和'健康与人道主义目标'均在黄金记忆中有对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 4788,
+    "total_tokens": 4954,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

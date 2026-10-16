@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'They need to resonate with my personal values'在对话中有直接支持：用户在12:58:07提到'activities that offer both relaxation and enrichment, supporting my health and humanitarian goals. They need to resonate with my personal values.'该信息点涉及旅行活动需符合个人价值观，与黄金记忆中'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals'等条目语义一致，属于价值观/旅行偏好字段，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 4779,
+    "total_tokens": 4922,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

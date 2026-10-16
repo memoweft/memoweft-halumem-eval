@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update states that Martin's mental health is mildly abnormal due to the pressures of his role as director at Huaxin Consulting. The Generated Memories include 'I work at Huaxin Consulting as a director' and 'In terms of mental health, I am Mildly Abnormal. No mental health issues.' However, the causal link (that the mild abnormality is due to the pressures of the director role) is not explicitly stated in the generated memories. The memories are split into separate points without connecting the mental health condition to the job pressures. This represents a partial omission of the key causal relationship in the target update.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 594,
+    "total_tokens": 743,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

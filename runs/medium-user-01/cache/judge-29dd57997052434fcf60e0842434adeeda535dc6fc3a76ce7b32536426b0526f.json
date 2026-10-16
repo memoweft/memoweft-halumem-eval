@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point is that Martin Mark likes Yoga as a sport. I searched the extracted memories for any mention of yoga or related activities. While there are mentions of athletic wear, nature hikes, and wellness retreats, there is no explicit mention of yoga anywhere in the extracted memories. The memory system failed to capture this specific preference.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 1355,
+    "total_tokens": 1442,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

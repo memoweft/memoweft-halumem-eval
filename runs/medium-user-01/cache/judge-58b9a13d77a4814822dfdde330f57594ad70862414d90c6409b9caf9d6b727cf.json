@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'll set specific times for these activities and treat them as non-negotiable appointments with myself'直接来自对话中用户在07:19:04的发言，内容关于为自我关怀活动设定具体时间并视为不可协商的约定。该信息点涉及自我关怀/健康管理的计划，与金标准记忆中'Martin Mark重视通过瑜伽等实践平衡职业责任与健康'以及'Martin Mark致力于在保持个人健康和创造力的同时改善医疗可及性'的字段（自我关怀/健康管理计划）相对应，内容完全被对话支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 5720,
+    "total_tokens": 5882,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

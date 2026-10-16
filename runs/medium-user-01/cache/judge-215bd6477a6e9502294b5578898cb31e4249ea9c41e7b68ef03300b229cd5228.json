@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为'MBTI性格类型是ENTP'，与对话中用户所述'According to the MBTI test, my personality type is ENTP'完全一致，且黄金记忆中也包含'Martin Mark's MBTI personality type is ENTP'，字段（MBTI性格类型）在黄金记忆中存在，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1978,
+    "total_tokens": 2090,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 960
+    }
+  }
+}

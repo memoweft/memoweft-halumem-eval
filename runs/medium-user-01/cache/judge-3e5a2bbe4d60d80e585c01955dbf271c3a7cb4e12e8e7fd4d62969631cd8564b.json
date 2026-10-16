@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark Clothing I dislike: Formal wear'. The Extracted Memories contain 'I dislike formal wear, because I find formal wear restrictive and prefer clothing that allows for easy movement and comfort.' This fully covers the dislike of formal wear. However, the specific entity name 'Martin Mark' (likely a brand or person name) is not mentioned in the extracted memory. The extracted memory captures the preference (dislike of formal wear) but omits the specific entity 'Martin Mark'. Since a key element (the entity name) is missing, this is partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1356,
+    "total_tokens": 1494,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    }
+  }
+}

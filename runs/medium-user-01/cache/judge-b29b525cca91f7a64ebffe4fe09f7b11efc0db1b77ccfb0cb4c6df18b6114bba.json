@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark has preferences in Travel Preference. The Extracted Memories contain multiple travel-related preferences: liking nature hikes, wellness retreats, cultural tours, spa vacations, and disliking crowded tourist spots. These clearly cover the travel preference aspect of the expected memory point.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 1355,
+    "total_tokens": 1434,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

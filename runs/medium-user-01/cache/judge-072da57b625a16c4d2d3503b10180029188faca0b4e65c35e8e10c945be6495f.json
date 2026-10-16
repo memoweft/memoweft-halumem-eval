@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I thrive in environments that encourage open communication and innovative thinking'直接来源于对话中用户的原话'I thrive in environments that encourage open communication and innovative thinking'，完全被对话支持。该信息点的字段（工作环境偏好/价值观）在黄金记忆中有所体现，黄金记忆提到'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals, and career aspirations'以及'Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations'，涵盖了对工作环境偏好的字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 5712,
+    "total_tokens": 5863,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

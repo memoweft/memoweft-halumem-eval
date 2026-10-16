@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) emotional fluctuation between concern for health and optimism for future job opportunities, and (2) the person's name (Martin Mark). The extracted memories capture optimism for future job opportunities (e.g., 'I'm looking for a position that better aligns with my life goals', 'I'm hoping to find similar opportunities in my next role') and concern for health (e.g., 'yoga helps me maintain mental clarity', 'I plan to prioritize regular exercise and mindfulness', 'I want to ensure the role supports my health and goals'). However, the extracted memories do not explicitly capture the emotional fluctuation between these two states as a dynamic pattern, nor do they mention the person's name (Martin Mark). The name is a key field that is entirely missing. The emotional fluctuation aspect is only partially implied through separate memories about health concerns and job optimism, but the connection between them as a fluctuating emotional state is not captured.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 218,
+    "prompt_tokens": 1212,
+    "total_tokens": 1430,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

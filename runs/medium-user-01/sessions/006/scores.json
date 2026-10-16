@@ -1,0 +1,225 @@
+{
+  "memory_integrity_records": [
+    {
+      "memory_content": "Martin utilized his social network to explore new job opportunities for a higher salary.",
+      "memory_type": "Event Memory",
+      "reason": "The original memory point focuses on work-life balance, but salary is another common motivation for job changes.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin utilized his social network to explore new job opportunities for better work-life balance.",
+      "reference_memory_index": 1,
+      "reference_memory_type": "Event Memory",
+      "index": 7,
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin feels relief and anticipation about transitioning to a more fulfilling career path.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin secured interviews and job offers through his expanding social network.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 1,
+      "memory_content": "Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_integrity_score": 2
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm eager to contribute more directly to improving healthcare for underserved communities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "Finding a role in a non-profit organization that focuses on healthcare access would be ideal.",
+      "memory_accuracy_score": 1,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "my network has been instrumental in opening doors for me",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm really looking forward to finding a position that supports both my career goals and my personal health.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "Joshua's approach has definitely influenced my leadership style positively.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "The insights I've gained from my network have really helped me identify what's most important in my career.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm focusing on roles that align with my values and offer flexibility and growth.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "It's a relief to know I'm moving towards a career that truly reflects my values and aspirations.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm hopeful about finding a position that allows me to make a meaningful impact while supporting my personal health.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm grateful for the support and insights that have guided me along the way.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm grateful for the opportunities that have come my way and the chance to pursue a career that aligns with my values.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "I'm looking forward to the future and the possibility of making a meaningful impact in my career while maintaining my personal well-being.",
+      "memory_accuracy_score": 1,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_content": "maintaining balance is essential",
+      "memory_accuracy_score": 1,
+      "is_included_in_golden_memories": "false"
+    }
+  ],
+  "memory_update_records": [
+    {
+      "index": 3,
+      "memory_content": "Martin's colleague Daniel offered valuable insights that pushed him to think outside the box in his career.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：The insights I've gained from my network have really helped me identify what's most important in my career.\n记忆：It's a relief to know I'm moving towards a career that truly reflects my values and aspirations.\n记忆：I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals.\n记忆：I'm grateful for the opportunities that have come my way and the chance to pursue a career that aligns with my values.\n记忆：It's about finding the right platform to use them effectively."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin's friend Susan provided crucial support and encouragement during his job transition, helping him stay focused on his goals.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.\n记忆：It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals.\n记忆：Balancing these priorities involves setting clear goals and being adaptable to change while staying focused on my core values.\n记忆：I try to focus on the positive aspects and remind myself of my long-term goals.\n记忆：My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_update_type": "Correct"
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin's colleague Joshua's collaborative approach positively influenced Martin's leadership style.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：Joshua's approach has definitely influenced my leadership style positively."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 6,
+      "memory_update_type": "Omission"
+    }
+  ],
+  "question_answering_records": []
+}

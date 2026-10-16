@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin enjoys extreme sports primarily for social connections rather than thrill and challenge. The Extracted Memories contain information about enjoying the thrill ('I'm just enjoying the thrill and seeing where it takes me'), pushing limits for creativity, and staying active, but there is no mention of social connections being the primary motivation for extreme sports. In fact, the extracted memories emphasize thrill and challenge, which directly contradicts the expected point. The only mention of social connections ('Having a supportive network definitely makes a difference') is about general support, not about extreme sports specifically. The expected point is not covered and is partially contradicted.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 726,
+    "total_tokens": 873,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

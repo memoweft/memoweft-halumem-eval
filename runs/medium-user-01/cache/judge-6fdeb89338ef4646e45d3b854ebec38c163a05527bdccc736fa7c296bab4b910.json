@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points are empty, meaning no information about Martin's middle name is available in memory. The Reference Answer states the middle name is not provided. The Memory System Response provides a specific middle name 'Mark', which is a fabricated fact not supported by any Key Memory Points. This constitutes a hallucination since the system invented information when it should have indicated the information is unknown.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 842,
+    "total_tokens": 941,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 512
+    }
+  }
+}

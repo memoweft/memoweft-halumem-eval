@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm optimistic about how this new preference will fit into my life'表达了Martin对新宠物偏好的乐观态度，与对话中用户多次说'I'm optimistic about how this new preference will fit into my life'完全一致，且与金标准记忆'Martin expressed optimism about integrating his new pet preference into his daily life'语义等价。该信息点的字段（对新偏好的乐观态度）在金标准记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 5460,
+    "total_tokens": 5596,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

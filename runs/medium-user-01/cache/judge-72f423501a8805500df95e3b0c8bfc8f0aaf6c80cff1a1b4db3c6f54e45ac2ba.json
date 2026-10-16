@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's crucial for me to find a role that aligns with my values and supports my well-being'与对话中用户原话'I'm open to negotiating these aspects. It's crucial for me to find a role that aligns with my values and supports my well-being'完全一致，且与金标准记忆'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals, and career aspirations'语义一致。该信息点的字段（求职目标/价值观对齐/健康支持）均在金标准记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 5721,
+    "total_tokens": 5883,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

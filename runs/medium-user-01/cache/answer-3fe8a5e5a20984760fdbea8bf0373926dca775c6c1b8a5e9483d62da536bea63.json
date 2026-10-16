@@ -1,0 +1,17 @@
+{
+  "content": "Golden Retrievers' adaptability suits stressful periods.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 567,
+    "total_tokens": 578,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

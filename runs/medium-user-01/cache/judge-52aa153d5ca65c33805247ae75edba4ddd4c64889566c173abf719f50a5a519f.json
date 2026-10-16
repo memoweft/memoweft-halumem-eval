@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：1) 对获得的机会心存感激——对话中用户明确表示'I'm grateful for the opportunities that have come my way'；2) 有机会追求与自身价值观一致的职业——对话中用户多次提到'roles that align with my values'，且黄金记忆中也提到Martin寻求与人道主义目标一致的新工作。两个信息点均有对话和黄金记忆支持，无矛盾或幻觉。字段层面，'感激/态度'和'职业价值观追求'均对应黄金记忆中的相关字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 4110,
+    "total_tokens": 4259,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) 喜欢舒适的运动服饰；(2) 原因是运动服饰舒适灵活，适合活跃的生活方式。这两点均能在对话和黄金记忆中找到直接支持：黄金记忆中'Martin Mark Clothing I like to wear: Comfortable athletic wear'及对应原因'I prefer athletic wear for its comfort and flexibility, which is ideal for my active lifestyle'完全吻合，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 4675,
+    "total_tokens": 4808,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

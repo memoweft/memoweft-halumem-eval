@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：喜欢健康养生度假（wellness retreats）及其原因（提供放松和促进身心健康的活动，符合生活方式）。该信息点在对话和黄金记忆中均有直接对应：黄金记忆中'Martin Mark Travel styles I like: Wellness retreats'及其原因与候选记忆完全一致，无矛盾或幻觉内容。字段为旅行偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 4674,
+    "total_tokens": 4795,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

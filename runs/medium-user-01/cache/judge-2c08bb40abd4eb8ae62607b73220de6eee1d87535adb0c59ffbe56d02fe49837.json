@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'Improved communication and empathy could lead to more effective collaborations and innovative solutions'在对话中确实有支持：用户在[20:08:58]提到'Improved communication and empathy could lead to more effective collaborations and innovative solutions'，与对话内容一致。但该记忆的字段（沟通技能、协作、创新解决方案）在黄金记忆中没有对应字段——黄金记忆主要围绕非暴力动作游戏、认知发展、价值对齐等主题，不涉及沟通技能和协作方面的内容。因此字段不匹配，标记为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 6401,
+    "total_tokens": 6552,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

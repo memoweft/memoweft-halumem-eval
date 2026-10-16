@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer is 'Unknown' and the Key Memory Points are empty, indicating no relevant information exists. The Memory System Response states that the memories do not contain information about Martin Mark's salary, which is consistent with the Reference Answer of 'Unknown' and does not contradict any Key Memory Points. The response correctly identifies the absence of information rather than fabricating a fact.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 864,
+    "total_tokens": 959,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'希望通过分享愿景和鼓励合作来吸引他人'在对话中确有依据（用户说'I hope to engage others by sharing my vision and encouraging collaboration to achieve common goals'），因此该信息点是被支持的。但该记忆的字段（分享愿景、鼓励合作、吸引他人）在黄金记忆中没有对应字段——黄金记忆聚焦于认知发展、非暴力动作游戏、价值观平衡、个人成长等主题，不涉及'分享愿景/鼓励合作'这一维度，因此is_included_in_golden_memories为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 6404,
+    "total_tokens": 6556,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

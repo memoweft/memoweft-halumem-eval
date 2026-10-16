@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item: 'I dislike violent video games, I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.' This fully covers the expected memory point regarding the dislike of violent video games and the exact reason provided. The category 'Games' is implied by the context of video games.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1380,
+    "total_tokens": 1470,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

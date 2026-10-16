@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories contain a memory stating 'I avoid extreme sports because they carry a high risk of injury,' which directly contradicts the Target Memory for Update that states Martin has developed a newfound appreciation for extreme sports like simulated skydiving. The system failed to update the original memory and instead generated content that reinforces the old dislike rather than the new appreciation.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 622,
+    "total_tokens": 713,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

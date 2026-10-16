@@ -1,0 +1,299 @@
+{
+  "memory_integrity_records": [
+    {
+      "index": 4,
+      "memory_content": "Martin Mark's job title is director",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin Mark works at Huaxin Consulting",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 1,
+      "memory_content": "Martin Mark's employment status is Employed",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin Mark works in the healthcare industry",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin Mark's physical health condition: Normal",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin Mark's savings amount is 43700 USD",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin Mark's mental health condition: Mildly Abnormal",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin Mark's monthly income is 15700 USD",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin Mark's Friend ThomasSusan, Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life.",
+      "memory_type": "Relationship Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 10,
+      "memory_content": "Martin Mark's Colleague MartinezDaniel, Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth.",
+      "memory_type": "Relationship Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 11,
+      "memory_content": "Martin Mark's Colleague WilliamsJoshua, Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style.",
+      "memory_type": "Relationship Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 06, 2025, 01:02:20",
+      "event_source": 1,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_integrity_score": 1
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "MartinezDaniel is my Colleague",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "I work at Huaxin Consulting as a director.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "ThomasSusan is my Friend",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "WilliamsJoshua is my Colleague",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "My monthly income is 15700 USD, and I currently have 43700 USD in savings.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "I am currently Employed, working in the healthcare industry.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "In terms of mental health, I am Mildly Abnormal. No mental health issues.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "memory_content": "My physical condition is Normal. No chronic diseases.",
+      "memory_accuracy_score": null,
+      "is_included_in_golden_memories": "false"
+    }
+  ],
+  "memory_update_records": [],
+  "question_answering_records": [
+    {
+      "question": "What is Martin Mark's job title as of Sep 06, 2025?",
+      "answer": "Director",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's job title is director",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Basic Fact Recall",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.000000013969839,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "The memories provided do not contain information about Martin Mark's job title.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "result_type": "Omission"
+    },
+    {
+      "question": "Is Martin Mark unemployed and struggling financially as of Sep 06, 2025?",
+      "answer": "No, Martin Mark is employed with a monthly income of 15700 USD.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's employment status is Employed",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark's monthly income is 15700 USD",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "medium",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 16.00000006146729,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, Martin Mark is employed and financially stable.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "result_type": "Correct"
+    },
+    {
+      "question": "Did Martin Mark work as a nurse at Huaxin Consulting on Sep 06, 2025?",
+      "answer": "No, Martin Mark is a director at Huaxin Consulting.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark works at Huaxin Consulting",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark's job title is director",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.999999945051968,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, Martin Mark worked as a nurse at Huaxin Consulting on Sep 06, 2025.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 1,
+      "result_type": "Hallucination"
+    }
+  ]
+}

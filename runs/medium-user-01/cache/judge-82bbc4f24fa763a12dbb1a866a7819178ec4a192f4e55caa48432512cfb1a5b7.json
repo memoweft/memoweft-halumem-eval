@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：喜欢绿茶及其原因（抗氧化特性、微妙风味、清新有益）。该信息点在对话中明确出现（'I like green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.'），且在黄金记忆中也有对应条目（'Martin Mark Beverages I like to drink: Green tea'及其原因）。字段为饮料偏好，属于黄金记忆中的字段，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 4669,
+    "total_tokens": 4799,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update states that Martin's friends and colleagues provided support and insights that were instrumental in securing new opportunities. The Generated Memories include: 'Absolutely, my friends and colleagues were instrumental in this transition. Their support was invaluable.' and 'I'm grateful for the support and insights that have guided me along the way.' and 'I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals.' Together, these generated memories capture the key information points: friends and colleagues, support and insights, instrumental role, and securing new opportunities. The original memory (mentioning specific individuals Susan, Daniel, Joshua) has been effectively replaced by a generalized version. The content aligns with the target update.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 607,
+    "total_tokens": 774,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

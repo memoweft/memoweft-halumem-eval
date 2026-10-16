@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update requires three key elements: (1) exploring job opportunities, (2) healthier work-life balance, and (3) focusing on flexibility and alignment with values. The Generated Memories collectively cover all three points: 'finding a role' (job opportunities), 'healthier work-life balance' (explicitly stated), 'flexibility' (explicitly stated), and 'aligns with my values' (explicitly stated). While no single generated memory contains all points together, the combination of the generated memories fully and accurately reflects the intended update without factual errors.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 608,
+    "total_tokens": 744,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

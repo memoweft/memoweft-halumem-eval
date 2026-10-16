@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm ready to take on new challenges and opportunities'直接出现在对话中（[Mar 01, 2026, 08:08:10]user: I'm ready to take on new challenges and opportunities），与对话内容完全一致，无矛盾或幻觉。该信息点的字段（对未来挑战和机会的准备/态度）在黄金记忆中有所对应，如'Martin conveyed optimism about pursuing his life goals with renewed vigor and creativity'等反映了Martin对未来积极乐观的态度。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 5041,
+    "total_tokens": 5187,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

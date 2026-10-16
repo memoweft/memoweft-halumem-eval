@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'这次改变是迈向探索新互动和体验的一步'与对话中用户多次表达的内容一致（如'I think this change is a step towards exploring new interactions and experiences'），且与金标准记忆'Martin's evolving pet preference signifies his desire to explore new interactions and experiences'语义等价，完全被支持，无矛盾。该信息点的字段（对新互动和体验的探索意愿）在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 5460,
+    "total_tokens": 5590,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

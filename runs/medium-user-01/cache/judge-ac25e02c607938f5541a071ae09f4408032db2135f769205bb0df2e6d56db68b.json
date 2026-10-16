@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：①Martin一直重视宠物的适应性——对话中用户多次提到'I've always valued adaptability in pets'和'I think their adaptability is what really drew me to them'，黄金记忆中也有'Martin values adaptability and calm demeanor in pets'；②Golden Retrievers很好地体现了这一特质——对话中用户说'Golden Retrievers seem to embody that trait well'，黄金记忆中提到'Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations'。两个信息点均有充分支持，无矛盾。字段（宠物适应性偏好、Golden Retriever特质）均在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 5466,
+    "total_tokens": 5643,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

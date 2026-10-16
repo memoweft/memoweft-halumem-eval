@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'Networking has always been a key part of my career development'在对话中有直接支持：用户说'Networking has always been a key part of my career development'，内容完全一致，无矛盾。但该信息点的字段（职业发展方式/网络社交）在黄金记忆中没有对应字段，黄金记忆主要涵盖职业变动动机、心理健康、人道主义目标、协作、瑜伽等，未涉及网络社交作为职业发展手段，因此is_included_in_golden_memories为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 5712,
+    "total_tokens": 5854,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

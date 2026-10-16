@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Extracted Memories explicitly state: 'According to the MBTI test, my personality type is ENTP.' This fully and accurately covers the Expected Memory Point that Martin Mark's MBTI personality type is ENTP.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 725,
+    "total_tokens": 788,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

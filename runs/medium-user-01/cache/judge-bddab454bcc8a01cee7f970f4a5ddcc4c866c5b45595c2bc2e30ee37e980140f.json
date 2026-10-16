@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：'approach my goals with renewed creativity and adaptability'对应对话中'I believe they'll help me approach my goals with renewed creativity and adaptability'，且与金标准中'enhancing adaptability and creativity'一致；'essential for my humanitarian initiatives'对应对话中明确提到的humanitarian initiatives。所有信息点均有对话直接支持，无矛盾或幻觉。字段方面，'creativity/adaptability与目标的关系'和'humanitarian initiatives'均在金标准中有对应字段（个人成长/适应性/创造力、humanitarian目标）。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 3623,
+    "total_tokens": 3787,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin shared anecdotes, (2) about past experiences with herbal teas as a staple for relaxation, (3) noting their calming properties. The Extracted Memories mention herbal teas' calming properties and relaxation benefits extensively, but there is no mention of 'Martin' as the person who shared these anecdotes, nor any reference to past experiences being shared as anecdotes. The calming properties element is well covered, but the entity (Martin) and the context of sharing anecdotes about past experiences are entirely missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1090,
+    "total_tokens": 1219,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories contain a memory stating 'The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.' This captures the key elements of the Target Memory: receiving crucial support, staying focused on goals, and navigating a transition (job transition). While it omits the specific name 'Susan' and 'Martin', the core content of the update (crucial support during job transition helping stay focused) is present and accurately reflected. The original memory about Susan's support inspiring focus on well-being is effectively replaced by this new memory about support during transition.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 620,
+    "total_tokens": 758,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

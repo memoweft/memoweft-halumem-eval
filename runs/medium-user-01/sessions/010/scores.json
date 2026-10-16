@@ -1,0 +1,473 @@
+{
+  "memory_integrity_records": [
+    {
+      "index": 5,
+      "memory_content": "Martin shared anecdotes about past wellness retreat experiences that contributed to his personal well-being.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 0
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin seeks travel options that balance relaxation with health benefits, aligning with his humanitarian goals.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin expressed disappointment over the commercialization of wellness retreats, conflicting with his health-focused travel goals.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals, such as nature hikes and cultural tours.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 1
+    },
+    {
+      "memory_content": "Martin expressed enthusiasm over the commercialization of wellness retreats, aligning with his interest in luxury travel.",
+      "memory_type": "Event Memory",
+      "reason": "This interference memory point contradicts Martin's disappointment over commercialization, suggesting a different emotional response.",
+      "source_memory_index": 2,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin expressed disappointment over the commercialization of wellness retreats, conflicting with his health-focused travel goals.",
+      "reference_memory_index": 2,
+      "reference_memory_type": "Event Memory",
+      "index": 9,
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 0
+    },
+    {
+      "memory_content": "Martin is exploring spa weekends and culinary tours as alternatives to wellness retreats.",
+      "memory_type": "Event Memory",
+      "reason": "This interference memory point suggests different types of alternatives Martin is considering, which contrasts with the original focus on nature hikes and cultural tours.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats.",
+      "reference_memory_index": 6,
+      "reference_memory_type": "Event Memory",
+      "index": 8,
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 0
+    },
+    {
+      "memory_content": "Martin is embracing wellness retreats in his travel preferences due to their shift towards health-focused experiences.",
+      "memory_type": "Event Memory",
+      "reason": "This interference memory point suggests a reversal of Martin's reconsideration, indicating a positive shift towards health rather than luxury.",
+      "source_memory_index": 3,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin is reconsidering wellness retreats in his travel preferences due to their shift towards luxury experiences.",
+      "reference_memory_index": 3,
+      "reference_memory_type": "Event Memory",
+      "index": 10,
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_integrity_score": 0
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I've been thinking a lot about my travel preferences lately, especially wellness retreats.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I haven't really considered spa weekends or culinary tours as they don't seem to align with my goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I want to ensure my travels support both personal and global well-being.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I am actually looking into alternatives like nature hikes and cultural tours.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I want my travels to enhance my physical and mental health, much like the wellness retreats used to.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "That's why I'm drawn to nature hikes and cultural tours.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I see the value in exploring new experiences, but I still prefer activities that align with my health and humanitarian goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm really looking forward to the nature hikes.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm planning my next trip to include a series of nature hikes and visits to cultural landmarks. I believe these will provide the enrichment I'm seeking without losing sight of my health values.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "It's important to me that my travels reflect my commitment to health and humanitarian goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I try to choose activities that resonate with my values and contribute to my overall well-being.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "Cultural tours and nature hikes fit perfectly into this vision.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm really focused on finding travel options that balance relaxation with health benefits.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "The hikes will definitely support my mental clarity and physical health.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "They align with my goal of promoting well-being and access to healthcare globally.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I find fulfillment in activities that allow me to learn and grow while staying true to my health-focused lifestyle.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "It's crucial that my travels align with my broader life mission.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "These activities help me stay connected to my values and provide a sense of purpose.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "They need to resonate with my personal values.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I look for activities that offer both relaxation and enrichment, supporting my health and humanitarian goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm focusing on selecting destinations and activities that prioritize health and cultural engagement.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I evaluate new opportunities based on their potential to contribute to my health and personal growth. It's important that they align with my values and goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "Balancing relaxation with enrichment is key for me.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I value experiences that allow me to unwind and recharge while also providing cultural and intellectual engagement.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm planning to include a mix of activities that offer both relaxation and cultural engagement.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I want my travels to be rejuvenating while also offering opportunities for learning and growth.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "It's important that my travels reflect my values and support my goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_content": "I'm excited about the opportunity to explore new cultures and connect with nature.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    }
+  ],
+  "memory_update_records": [
+    {
+      "index": 1,
+      "memory_content": "Martin discovered that many wellness retreats have shifted focus from health to luxury, making them less appealing to him.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark Travel styles I like: Wellness retreats",
+        "Martin Mark Travel styles I like Wellness retreats reason: I love wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle."
+      ],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I want my travels to enhance my physical and mental health, much like the wellness retreats used to.\n记忆：I like wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle.\n记忆：It's important to me that my travels reflect my commitment to health and humanitarian goals.\n记忆：I'm really looking forward to finding a position that supports both my career goals and my personal health.\n记忆：I'm hopeful about finding a position that allows me to make a meaningful impact while supporting my personal health."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin is reconsidering wellness retreats in his travel preferences due to their shift towards luxury experiences.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark Travel styles I like: Wellness retreats",
+        "Martin Mark Travel styles I like Wellness retreats reason: I love wellness retreats because they offer relaxation and activities that promote physical and mental health, aligning with my lifestyle."
+      ],
+      "timestamp": "Oct 16, 2026, 13:25:45",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I've been thinking a lot about my travel preferences lately, especially wellness retreats.\n记忆：I think their adaptability is what really drew me to them.\n记忆：I think this change is a step towards exploring new interactions and experiences.\n记忆：They could help spread awareness and encourage others to prioritize well-being in their lives.\n记忆：I dislike reptiles, like snakes, because I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors in pets."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "memory_update_type": "Omission"
+    }
+  ],
+  "question_answering_records": [
+    {
+      "question": "What is Martin's middle name?",
+      "answer": "The middle name is not provided.",
+      "evidence": [],
+      "difficulty": "easy",
+      "question_type": "Memory Boundary",
+      "context": "记忆：My name is Martin Mark, and I am a Male.\n记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：I think their adaptability is what really drew me to them.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.",
+      "search_duration_ms": 94.0000000409782,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ],
+        [
+          "cognition",
+          "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+        ],
+        [
+          "cognition",
+          "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+        ],
+        [
+          "cognition",
+          "cognition-4a4470ca1c1947606aead7113e9ec87b4895d5a93b6aa08dac0739ed152fd4f6"
+        ],
+        [
+          "cognition",
+          "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+        ]
+      ],
+      "system_response": "Mark",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "result_type": "Hallucination"
+    },
+    {
+      "question": "What was the exact date of Martin's first wellness retreat experience?",
+      "answer": "The exact date is not provided.",
+      "evidence": [],
+      "difficulty": "medium",
+      "question_type": "Memory Boundary",
+      "context": "记忆：It's been a transformative experience.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.\n记忆：My experience at Huaxin Consulting has taught me the importance of aligning work with personal values.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：The potential for impact is what drives me.",
+      "search_duration_ms": 77.9999999795109,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-a3eb075c15263565bf28326e16bfcc37e84758d10ac796d35018f2f0c76751cb"
+        ],
+        [
+          "cognition",
+          "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+        ],
+        [
+          "cognition",
+          "cognition-777eb531be4ff185da532a7ce9f682cde5489cee23cec52d9c0083de07f3f406"
+        ],
+        [
+          "relationship",
+          "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+        ],
+        [
+          "cognition",
+          "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+        ]
+      ],
+      "system_response": "Not mentioned in memories.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "result_type": "Correct"
+    },
+    {
+      "question": "What alternatives is Martin exploring to wellness retreats as of October 16, 2026?",
+      "answer": "Nature hikes and cultural tours.",
+      "evidence": [
+        {
+          "memory_content": "Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats.",
+          "memory_type": "Event Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Basic Fact Recall",
+      "context": "记忆：I think their adaptability is what really drew me to them.\n记忆：I want my travels to enhance my physical and mental health, much like the wellness retreats used to.\n记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 172.0000000204891,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-4a4470ca1c1947606aead7113e9ec87b4895d5a93b6aa08dac0739ed152fd4f6"
+        ],
+        [
+          "cognition",
+          "cognition-55f27ae6a80e99a1da0ea77bf1fd3b34c7fd73dbe03976c832139234338625ef"
+        ],
+        [
+          "cognition",
+          "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+        ],
+        [
+          "cognition",
+          "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+        ],
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Based on the memories provided, there is no mention of specific alternatives Martin is exploring to wellness retreats. The memories only state that he wants his travels to enhance his physical and mental health, \"much like the wellness retreats used to.\"",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 10,
+      "result_type": "Omission"
+    }
+  ]
+}

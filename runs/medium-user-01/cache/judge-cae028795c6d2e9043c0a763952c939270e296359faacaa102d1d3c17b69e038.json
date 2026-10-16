@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Yes, the emotional support and companionship they offer are invaluable.'表达了用户认为宠物提供的情感支持和陪伴非常宝贵，这与对话中用户原话'Yes, the emotional support and companionship they offer are invaluable.'完全一致，且与金标准记忆'Martin sees pets as essential for emotional support and companionship, enhancing his mental well-being.'相符，字段（情感支持与陪伴的价值）在金标准中存在，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 5459,
+    "total_tokens": 5592,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

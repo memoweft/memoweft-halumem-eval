@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'新角色正在赋予我更多能量去追求目标'与对话中用户原话'I'm really optimistic about the future. The new role is empowering me to pursue my goals with more energy'完全一致，且与金标准记忆'Martin feels empowered to pursue his humanitarian care goals through his new role'语义相符，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5044,
+    "total_tokens": 5155,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

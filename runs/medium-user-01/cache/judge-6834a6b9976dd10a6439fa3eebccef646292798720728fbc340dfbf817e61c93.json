@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has several elements: (1) changes in movie preferences, (2) effect on overall lifestyle and personal growth, (3) enhancing adaptability and creativity. The extracted memories cover: changes in movie preferences ('gravitating more towards fictional narratives'), personal growth ('enhance my adaptability and openness to new experiences, which are crucial for personal growth'), and enhancing adaptability and creativity ('approach my goals with renewed creativity and adaptability'). The connection to overall lifestyle is also implied through work-life balance mentions. All key elements are covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 901,
+    "total_tokens": 1033,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

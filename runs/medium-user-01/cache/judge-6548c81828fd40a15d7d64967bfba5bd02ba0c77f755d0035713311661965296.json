@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'It's about finding the right platform to use them effectively'来自对话中用户提到的关于辩论和主动思考技能的表述，该内容在对话中确实出现（'It's about finding the right platform to use them effectively'），因此是被支持的。但该信息点的字段（技能使用的平台/方式）在黄金记忆中没有对应的字段，黄金记忆主要涵盖心理健康、职业转变、人道主义目标、宠物偏好、工作生活平衡等内容，不涉及技能使用平台这一维度，故is_included_in_golden_memories为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 3871,
+    "total_tokens": 4027,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

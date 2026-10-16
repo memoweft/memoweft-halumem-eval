@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm ready to make a difference and inspire change'表达了Martin准备做出改变、激发变革的意愿。对话中用户明确表示'I'm ready to make a difference and inspire change'，且与金标准记忆中'Martin conveyed optimism about pursuing his life goals with renewed vigor and creativity'及'Martin feels empowered to pursue his humanitarian care goals through his new role'等语义一致，属于对未来目标和行动意愿的表达，字段（目标/意愿）在金标准记忆中存在，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 5041,
+    "total_tokens": 5187,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

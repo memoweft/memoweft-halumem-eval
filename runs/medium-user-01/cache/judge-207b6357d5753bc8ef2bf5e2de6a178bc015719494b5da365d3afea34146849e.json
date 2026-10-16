@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories cover the key elements of the expected memory point: embracing new perspectives leading to personal growth ('Yes, embracing new perspectives has often led to personal growth and improved problem-solving'), and the context of non-violent action games (multiple memories about avoiding violent games, preferring engaging but not aggressive games, and exploring games like 'Journey'). The connection between personal growth and non-violent games is implied through the combination of these memories.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1077,
+    "total_tokens": 1185,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

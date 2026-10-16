@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain two items directly covering this expected memory point: 'I dislike extreme sports (such as skydiving)' and 'I avoid extreme sports because they carry a high risk of injury...' Both the dislike of extreme sports and the specific example of skydiving are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 1360,
+    "total_tokens": 1438,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

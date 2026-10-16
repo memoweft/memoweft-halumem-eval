@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point requires that Martin shared anecdotes about past wellness retreat experiences. The Extracted Memories mention wellness retreats only as a past reference ('much like the wellness retreats used to'), but there is no mention of Martin sharing anecdotes or stories about those experiences. The entity name 'Martin' and the act of sharing anecdotes are both missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1043,
+    "total_tokens": 1132,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

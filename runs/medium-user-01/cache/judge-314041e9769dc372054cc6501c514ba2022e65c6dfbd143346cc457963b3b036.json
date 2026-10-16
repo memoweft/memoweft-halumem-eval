@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark has preferences in Beverage Preference. The Extracted Memories contain multiple beverage-related preferences: avoiding sugary sodas, liking fresh smoothies, liking herbal teas, and liking green tea. These items fully cover the concept of beverage preferences, even though the person's name (Martin Mark) is not explicitly mentioned in the extracted memories. Since the core content (beverage preferences) is fully captured, the score is 2.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1355,
+    "total_tokens": 1467,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

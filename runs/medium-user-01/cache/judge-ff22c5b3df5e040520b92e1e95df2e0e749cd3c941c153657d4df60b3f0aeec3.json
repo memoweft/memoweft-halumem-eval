@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has multiple elements: (1) Martin's evolving beverage preferences, (2) openness to new experiences and personal growth, (3) exploring coffee for relaxation. The Extracted Memories cover elements (1) and (2) well - they discuss evolving preferences, openness to new options, and personal growth extensively. However, there is no mention of 'coffee' or 'exploring coffee for relaxation' anywhere in the extracted memories. The extracted memories focus entirely on herbal teas, not coffee. Since a key element (coffee for relaxation) is completely missing, this is only partially covered.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1091,
+    "total_tokens": 1232,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three elements: (1) Martin seeks recommendations, (2) for non-violent action games, (3) that enhance cognitive skills. The extracted memories cover: non-violent preference ('avoided violent video games', 'not too aggressive', 'exploration without aggression'), cognitive enhancement goals ('boost my creativity and problem-solving skills', 'changes in my cognitive skills'), and an implicit seeking of recommendations ('Those sound interesting, especially Journey' implies receiving suggestions). However, the specific framing of 'action games' as a genre is not explicitly captured, and the seeking of recommendations is only implied rather than stated. The core intent (non-violent games for cognitive benefits) is well covered, but the 'action' genre specificity and explicit seeking are somewhat loose.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 1073,
+    "total_tokens": 1250,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

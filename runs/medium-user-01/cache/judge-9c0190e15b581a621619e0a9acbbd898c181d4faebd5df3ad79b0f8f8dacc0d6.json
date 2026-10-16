@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆指出'gentle nature'令用户印象深刻且是其欣赏的宠物特质。对话中用户明确说'I think their gentle nature really impressed me. It's something I appreciate in pets.'，与对话完全一致。该信息点的字段（对宠物特质的欣赏/偏好）在金标准记忆中存在（如'Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt'及'Martin has modified his pet preference...due to their gentle nature and adaptability'），无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 5463,
+    "total_tokens": 5608,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

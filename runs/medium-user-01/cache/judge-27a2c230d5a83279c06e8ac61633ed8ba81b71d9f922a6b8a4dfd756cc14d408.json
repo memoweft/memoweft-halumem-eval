@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'通过沉浸于虚构叙事，我可以从工作压力中抽身，带着新鲜视角回归'在对话中有直接支持：用户在07:26:27明确表示'通过沉浸于虚构叙事，我可以从工作压力中抽身，带着新鲜视角回归'，与候选记忆语义一致。该信息点涉及'虚构叙事的放松作用'和'工作压力/工作生活平衡'字段，均在黄金记忆中有对应字段（如'平衡休闲活动与放松以维持健康的工作生活平衡'）。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 3620,
+    "total_tokens": 3775,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

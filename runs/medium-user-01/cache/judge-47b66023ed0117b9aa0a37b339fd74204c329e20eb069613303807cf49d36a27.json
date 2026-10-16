@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point requires information about Martin's previous role, including stress and pressure affecting his mental health. The Extracted Memories only mention that the new role has improved his mental health and that he has transitioned to a new role, but there is no mention of Martin's name, the previous role, or the specific challenges of stress and pressure. The key elements (person name, previous role, stress/pressure) are all missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 886,
+    "total_tokens": 994,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    }
+  }
+}

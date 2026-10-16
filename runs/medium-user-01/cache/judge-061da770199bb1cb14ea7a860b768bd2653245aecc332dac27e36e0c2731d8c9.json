@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：'Employed'（就业状态）和'working in the healthcare industry'（工作行业）。两者均在对话和金标准记忆中得到直接支持：'Martin Mark's employment status is Employed' 和 'Martin Mark works in the healthcare industry'。无矛盾或幻觉内容。字段'就业状态'和'工作行业'均存在于金标准记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1880,
+    "total_tokens": 2000,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 832
+    }
+  }
+}

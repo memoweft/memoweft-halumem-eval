@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark Beverages I like to drink: Green tea'. The Extracted Memories contain 'I like green tea for its antioxidant properties and subtle flavor, which I find refreshing and beneficial.' This fully covers the preference for green tea. The entity name 'Martin Mark Beverages' is not explicitly mentioned in the extracted memories, but the core preference (liking green tea) is fully captured. Since the entity name is missing, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1359,
+    "total_tokens": 1476,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

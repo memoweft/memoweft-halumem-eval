@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话和黄金记忆中找到支持：'focus on finding a role that aligns with humanitarian goals and personal well-being' 对应用户原话 'My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being'，且与黄金记忆中 'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals' 一致。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 5720,
+    "total_tokens": 5850,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

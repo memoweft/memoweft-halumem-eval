@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I want to ensure my travels support both personal and global well-being'直接出现在对话中（用户原话），且与金标准记忆'Martin seeks travel options that balance relaxation with health benefits, aligning with his humanitarian goals'语义一致，属于旅行目标/价值观字段，完全被金标准覆盖，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4784,
+    "total_tokens": 4891,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

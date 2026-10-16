@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I see them as a way to enhance my adaptability and openness to new experiences, which are crucial for personal growth'直接来自对话中用户的原话（07:29:08），且与金标准记忆'Martin considers how changes in movie preferences might affect his overall lifestyle and personal growth, enhancing adaptability and creativity'语义一致，完全被支持，无矛盾。字段（个人成长/适应性/开放性）均在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3623,
+    "total_tokens": 3760,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I've always valued pets that can offer relaxation and comfort'（我一直重视能提供放松和舒适的宠物）与对话中用户多次表达的内容一致，如'I've always valued pets that can offer relaxation and comfort'（原话出现多次），且与金标准记忆'Martin discussed how pets provide relaxation and comfort, balancing his demanding career'相符，信息点字段（对宠物提供放松舒适的重视）在金标准中存在，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 5458,
+    "total_tokens": 5590,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

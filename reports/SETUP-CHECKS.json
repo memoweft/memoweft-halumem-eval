@@ -1,0 +1,17 @@
+{
+  "runner_sha256": "38148ae52400b22eee3d923bd412e6d21c2835864b58d7289d5211dd3a480306",
+  "dependency_lock_sha256": "d802773e9bbf314d21fca2079efa757bf2b6cb61c08deec1e3b91b21a4304178",
+  "transport_preflight": {
+    "http_status": 200,
+    "json_mode": true,
+    "model": "mimo-v2.6-flash",
+    "prompt_tokens": 21,
+    "completion_tokens": 10,
+    "total_tokens": 31
+  },
+  "adapter_tests": "3 passed",
+  "pilot_sessions_completed": 1,
+  "pilot_judgments_valid": 27,
+  "duplicate_run_guard": "exit 2; no API calls",
+  "original_project_edits": false
+}

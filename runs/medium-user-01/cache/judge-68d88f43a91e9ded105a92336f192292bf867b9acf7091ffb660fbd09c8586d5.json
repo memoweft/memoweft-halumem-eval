@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm eager to contribute more directly to improving healthcare for underserved communities'在对话中有直接支持：用户在17:27:35明确表示'Finding a role in a non-profit organization that focuses on healthcare access would be ideal. I'm eager to contribute more directly to improving healthcare for underserved communities.'。该信息点的字段（职业目标/贡献方向）与黄金记忆中'Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals'的字段（职业目标）语义对应，属于同一字段范畴。信息完全由对话支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 4100,
+    "total_tokens": 4269,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

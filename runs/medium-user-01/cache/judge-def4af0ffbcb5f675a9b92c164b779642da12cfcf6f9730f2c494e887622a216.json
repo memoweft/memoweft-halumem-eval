@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：喜欢鹦鹉及其原因（聪明、可模仿语言、互动有趣）。该信息点在对话和黄金记忆中均有明确对应：'Martin Mark Pets I like: Parrots' 及其原因完全一致，无任何矛盾或幻觉内容。字段（宠物偏好）也存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 4673,
+    "total_tokens": 4780,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Spa vacations are ideal for unwinding and rejuvenating, which helps me maintain balance in my life.'与对话中用户关于旅行偏好的表述完全一致，且在黄金记忆中存在对应的'Martin Mark Travel styles I like Spa vacations reason'字段，内容完全匹配，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 4670,
+    "total_tokens": 4770,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

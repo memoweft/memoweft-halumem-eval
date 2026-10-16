@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆指出'冷静的举止对其生活方式至关重要'，这与对话中用户多次表达的内容一致（如'Their calm demeanor is something I find crucial for my lifestyle'），且与黄金记忆'Martin values adaptability and calm demeanor in pets, which he finds crucial for his active lifestyle'语义相符，完全被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5458,
+    "total_tokens": 5569,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

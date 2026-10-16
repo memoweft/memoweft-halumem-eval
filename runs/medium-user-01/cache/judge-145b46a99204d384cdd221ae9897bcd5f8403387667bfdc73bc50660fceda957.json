@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm grateful for the support and insights that have guided me along the way'表达了Martin对支持和见解的感激之情。对话中用户明确说'I'm grateful for the support and insights that have guided me along the way'，与对话原文完全一致。该记忆涉及的字段（支持/insights）在金标准记忆中均有对应：Susan的支持、Daniel的见解等。所有信息点均被对话和金标准记忆支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 4101,
+    "total_tokens": 4237,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

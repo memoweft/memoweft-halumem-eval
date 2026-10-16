@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：喜欢古典音乐，原因是古典音乐是放松和专注的选择，能营造宁静氛围。该信息点在对话和黄金记忆中均有直接对应：'Martin Mark Music I like to listen to: Classical music' 及其原因 'Classical music is my choice for relaxation and focus, as it creates a peaceful atmosphere.'，完全一致，无矛盾或幻觉。字段为音乐偏好，黄金记忆中存在该字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4672,
+    "total_tokens": 4803,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

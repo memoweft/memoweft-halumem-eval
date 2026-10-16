@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer states that the name of Martin's friend is not provided, and the Key Memory Points are empty, indicating no relevant information exists. The Memory System Response provides specific names ('ThomasSusan'), which directly contradicts the Reference Answer's indication that the information is not available. Providing a definite fact when the reference indicates the information is unknown constitutes a hallucination.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 867,
+    "total_tokens": 963,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

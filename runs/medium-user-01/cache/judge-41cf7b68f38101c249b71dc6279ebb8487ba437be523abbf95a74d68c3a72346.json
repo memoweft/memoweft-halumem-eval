@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'瑜伽帮助我保持心智清晰和灵活性，这对于我要求苛刻的角色至关重要'。该记忆涉及'瑜伽/健康实践'和'职业角色'两个字段，均在金标准记忆中存在（如'Martin Mark重视通过瑜伽等实践平衡职业责任与健康'）。所有信息点均被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 5717,
+    "total_tokens": 5840,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

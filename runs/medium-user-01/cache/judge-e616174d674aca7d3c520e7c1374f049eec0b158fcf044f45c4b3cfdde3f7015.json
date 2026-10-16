@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin (the person), (2) a job that supports his artistic goals, and (3) maintaining a healthy lifestyle. The Extracted Memories mention a new role that has improved mental health (partially related to healthy lifestyle), a creative aspect of the new role (partially related to artistic goals), and balance (partially related to healthy lifestyle). However, the person's name 'Martin' is never mentioned in any extracted memory, and the explicit connection between artistic goals and job support is only loosely implied through 'creative aspect.' The compound nature of this memory point means missing the person's name and the explicit emphasis on the importance of this balance results in only partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 885,
+    "total_tokens": 1053,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 384
+    }
+  }
+}

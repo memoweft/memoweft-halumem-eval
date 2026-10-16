@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到直接支持：用户明确表示'Success for me would be measured by the impact I have on healthcare access and my ability to maintain personal health and creativity'，与对话原文完全一致。该信息点涉及的字段（成功标准/衡量方式、医疗可及性影响、个人健康与创造力）均在黄金记忆中有对应字段（如'committed to improving healthcare access while maintaining his personal health and creativity'）。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 5724,
+    "total_tokens": 5862,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

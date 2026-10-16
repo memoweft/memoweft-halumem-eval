@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆中的信息点（寻找重视创新和同理心的导师、这些品质与自己在医疗领域的做法相契合）在对话中有直接支持：用户说'I'm looking for a mentor who values innovation and empathy, qualities that resonate with my own approach to healthcare.'，因此准确性为2。但该信息点的字段（导师偏好/导师品质要求）在黄金记忆中没有对应字段，黄金记忆未涉及导师相关内容，故is_included_in_golden_memories为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3881,
+    "total_tokens": 4020,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

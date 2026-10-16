@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) 对整合新体验（如偏好金毛犬）持乐观态度；(2) 将其视为帮助管理压力的方式。对话中用户明确表示\"I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress\"，且黄金记忆中也包含\"Martin expressed optimism about integrating his new pet preference into his daily life, seeing it as a way to help manage stress\"，两者完全吻合，无矛盾或幻觉。字段（宠物偏好、乐观态度、压力管理）均在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3880,
+    "total_tokens": 4040,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

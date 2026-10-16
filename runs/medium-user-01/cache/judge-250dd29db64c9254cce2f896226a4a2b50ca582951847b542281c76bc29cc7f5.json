@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I like puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession.' fully covers the expected memory point about liking puzzle games and the reason (challenging mind, improving problem-solving skills, crucial in profession).\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 1382,
+    "total_tokens": 1459,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

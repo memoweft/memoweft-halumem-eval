@@ -1,0 +1,17 @@
+{
+  "content": "No, Martin Mark is employed and financially stable.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 503,
+    "total_tokens": 514,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

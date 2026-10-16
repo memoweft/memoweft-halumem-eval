@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我喜欢猫，因为猫独立且有感情，它们的呼噜声令人舒缓，这让我在漫长工作后感到放松'与对话内容完全一致，且在黄金记忆中有对应条目'Martin Mark Pets I like: Cats'及其理由，所有信息点均被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 4680,
+    "total_tokens": 4785,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4672
+    }
+  }
+}

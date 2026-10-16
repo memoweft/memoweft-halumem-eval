@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm open to negotiating these aspects'在对话中有直接支持：用户在讨论工作与生活平衡时说'I'm open to negotiating these aspects. It's crucial for me to find a role that aligns with my values and supports my well-being.'该信息点涉及用户对协商工作条件的态度，属于求职/职业转型相关领域，与黄金记忆中'Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations'等字段语义相关，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 5708,
+    "total_tokens": 5853,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

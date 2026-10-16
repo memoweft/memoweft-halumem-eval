@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm considering a career change to improve my mental health'与对话首句'I'm considering a career change to improve my mental health'完全一致，且与金标准记忆'Martin is considering a career change to improve his mental health'语义等价，完全被支持，无矛盾。该信息点的字段（职业变动/心理健康）在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3871,
+    "total_tokens": 3988,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point is 'Martin Mark Clothing I like to wear: Casual business attire'. The Extracted Memories contain 'I like casual business attire, Casual business attire is my go-to for work as it strikes a balance between professionalism and comfort.' This fully covers the clothing preference (Casual business attire). The name 'Martin Mark' is not explicitly mentioned in the extracted memory, but the preference itself is fully captured. Since the core content (the clothing preference) is fully covered and the name is likely a user identifier rather than a key content element of the memory point, the coverage is essentially complete.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1359,
+    "total_tokens": 1500,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

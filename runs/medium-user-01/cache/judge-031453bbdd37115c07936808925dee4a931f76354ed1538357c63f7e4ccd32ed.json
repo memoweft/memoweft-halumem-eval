@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm grateful for the balance I've found'直接对应对话中用户原话'I'm grateful for the balance I've found. It's been a long journey, but worth it.'，表达了Martin对找到工作与生活平衡的感激之情。该信息点的字段（对平衡的感激/满意度）在金标准记忆中有对应，如'Martin feels relief and satisfaction after transitioning to a new role'以及'Martin successfully transitioned to a new role offering a healthier balance between professional demands and personal well-being'。信息完全被支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 5040,
+    "total_tokens": 5196,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4992
+    }
+  }
+}

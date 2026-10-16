@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the items 'I'm optimistic about how this new preference will fit into my life' and 'I think this change is a step towards exploring new interactions and experiences.' These directly cover the expected memory point about Martin expressing optimism about integrating his new pet preference into his daily life. The sentiment (optimism), the subject (new preference/change), and the context (fitting into life) are all present.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 743,
+    "total_tokens": 848,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

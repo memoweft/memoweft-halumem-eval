@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories fully cover the expected memory point. Multiple items explicitly mention exploring nature hikes and cultural tours as alternatives to wellness retreats (e.g., 'I am actually looking into alternatives like nature hikes and cultural tours,' 'I want my travels to enhance my physical and mental health, much like the wellness retreats used to,' 'That's why I'm drawn to nature hikes and cultural tours'). The only minor gap is that the name 'Martin' is not explicitly mentioned in the extracted memories, but the content about exploring nature hikes and cultural tours as alternatives to wellness retreats is thoroughly captured.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1042,
+    "total_tokens": 1182,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

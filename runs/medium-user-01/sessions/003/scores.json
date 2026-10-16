@@ -1,0 +1,469 @@
+{
+  "memory_integrity_records": [
+    {
+      "index": 10,
+      "memory_content": "Martin Mark shared anecdotes of resolving past conflicts through innovation and teamwork.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_integrity_score": 0
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin Mark's current job as director at Huaxin Consulting is negatively affecting his mental health.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_integrity_score": 0
+    },
+    {
+      "memory_content": "Martin Mark is considering a career change due to a desire for higher financial stability.",
+      "memory_type": "Event Memory",
+      "reason": "This interference memory point introduces an alternative motivation for Martin Mark's career change, focusing on financial stability rather than health impacts.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin Mark is considering a career change due to health impacts from his current role.",
+      "reference_memory_index": 1,
+      "reference_memory_type": "Event Memory",
+      "index": 11,
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_integrity_score": 0
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin Mark's emotional state fluctuates between concern for his health and optimism for future job opportunities.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_integrity_score": 1
+    },
+    {
+      "memory_content": "Martin Mark's creative motivation is to collaborate with diverse teams to generate innovative solutions.",
+      "memory_type": "Persona Memory",
+      "reason": "This interference memory point suggests a different aspect of Martin Mark's creative motivation, emphasizing collaboration instead of using assistant tools.",
+      "source_memory_index": 2,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin Mark's creative motivation is to use assistant tools to inspire ideas and overcome creative blocks.",
+      "reference_memory_index": 6,
+      "reference_memory_type": "Persona Memory",
+      "index": 12,
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 1.0,
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_integrity_score": 2
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Yes, there were projects where teamwork led to innovative healthcare solutions, which was very fulfilling.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I want to ensure that my work supports my aspiration to improve healthcare access for underserved communities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Collaboration is definitely something I value.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'm hoping to find similar opportunities in my next role.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Using tools to inspire ideas has always been a part of my process.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I thrive in environments that encourage open communication and innovative thinking.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "It's important for me to be in a place where my ideas can contribute to meaningful change.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'm looking for a position that better aligns with my life goals and promotes personal well-being.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I try to focus on the positive aspects and remind myself of my long-term goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I want to ensure they align with my own values and aspirations.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Networking has always been a key part of my career development.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I plan to research companies' values and their impact on communities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "yoga helps me maintain mental clarity and flexibility, which are essential for my demanding role.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I plan to prioritize regular exercise and mindfulness, ensuring I take time for self-care amidst work demands.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I want to ensure the role supports my health and goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'll set specific times for these activities and treat them as non-negotiable appointments with myself.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "It's crucial for me to find a role that aligns with my values and supports my well-being.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Yes, discussing work-life balance during interviews is important to me.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'm open to negotiating these aspects.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Financial stability is secondary to me.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Success for me would be measured by the impact I have on healthcare access and my ability to maintain personal health and creativity.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I aim to enhance my leadership skills and deepen my understanding of global health initiatives to better serve communities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'll track progress by setting milestones and celebrating small victories.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Staying motivated is about reminding myself of the bigger picture.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I'm considering enrolling in online courses and seeking mentorship from industry leaders to support my growth.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I believe these interactions will offer new perspectives and inspire innovative approaches to healthcare challenges.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I plan to share my experiences through workshops and collaborative projects, fostering a culture of innovation and learning.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "My empathetic nature helps me understand diverse perspectives, while my debate skills encourage open dialogue and idea exchange.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Balancing these priorities involves setting clear goals and being adaptable to change while staying focused on my core values.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Empowering my team involves providing resources, fostering a supportive culture, and encouraging continuous learning and growth.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I envision my team working together to develop solutions that enhance healthcare access and promote well-being in underserved communities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I plan to apply these lessons by fostering a collaborative environment and encouraging innovative problem-solving in my team.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I aim to ensure these factors complement my goals by aligning them with my long-term vision and being open to new opportunities.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I hope my leadership inspires others to prioritize healthcare access and well-being, creating a ripple effect of positive change.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "Balancing guidance with autonomy involves setting clear expectations and trusting my team to execute their ideas.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_content": "I plan to adapt my approach by actively listening to my team and being open to feedback, ensuring we're aligned with our goals.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    }
+  ],
+  "memory_update_records": [
+    {
+      "index": 1,
+      "memory_content": "Martin Mark is considering a career change due to the impact of his current role on his mental health.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark is considering a career change due to health impacts from his current role."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin Mark's motivation for career change is driven by his desire for personal well-being and improving healthcare access for underserved communities.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark's motivation for career change is driven by his desire for personal well-being and humanitarian care."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations to improve healthcare access.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals, and career aspirations.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark aims to find a job that better aligns with his personal well-being and career goals."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin Mark values balancing professional responsibilities with health, especially through practices like yoga.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark values balancing professional responsibilities with health."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin Mark is committed to improving healthcare access while maintaining his personal health and creativity.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark expressed his commitment to improving healthcare access while maintaining personal health."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin Mark uses tools and collaboration with diverse teams to inspire ideas and overcome creative blocks.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark's creative motivation is to use assistant tools to inspire ideas and overcome creative blocks."
+      ],
+      "timestamp": "Dec 15, 2025, 08:41:23",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：My name is Martin Mark, and I am a Male."
+      ],
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 3,
+      "memory_update_type": "Omission"
+    }
+  ],
+  "question_answering_records": []
+}

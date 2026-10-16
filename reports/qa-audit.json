@@ -1,0 +1,1020 @@
+[
+  {
+    "session": 1,
+    "question_index": 0,
+    "question": "What is Martin Mark's middle name?",
+    "answer": "Unknown; not provided by the user.",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 15.999999945051968,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Mark",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 1,
+    "question_index": 1,
+    "question": "What is Martin Mark's birth date?",
+    "answer": "1996-08-02",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark's birth date is 1996-08-02",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 15.000000013969839,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Not mentioned in memories.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 1,
+    "question_index": 2,
+    "question": "Did Martin Mark establish a global health initiative with his partner in 2025?",
+    "answer": "Martin Mark has no partner; he aims to establish a health initiative.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark's partner status: no_relationship",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark's life goal statement: Establish a global health initiative to improve access to healthcare for underserved communities.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 0.0,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, there is no such memory.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 2,
+    "question_index": 0,
+    "question": "Did Martin Mark work as a nurse at Huaxin Consulting on Sep 06, 2025?",
+    "answer": "No, Martin Mark is a director at Huaxin Consulting.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark works at Huaxin Consulting",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark's job title is director",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 15.999999945051968,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, Martin Mark worked as a nurse at Huaxin Consulting on Sep 06, 2025.",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 2,
+    "question_index": 1,
+    "question": "Is Martin Mark unemployed and struggling financially as of Sep 06, 2025?",
+    "answer": "No, Martin Mark is employed with a monthly income of 15700 USD.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark's employment status is Employed",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark's monthly income is 15700 USD",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 16.00000006146729,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, Martin Mark is employed and financially stable.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 2,
+    "question_index": 2,
+    "question": "What is Martin Mark's job title as of Sep 06, 2025?",
+    "answer": "Director",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark's job title is director",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 15.000000013969839,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "The memories provided do not contain information about Martin Mark's job title.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 3,
+    "question_index": 0,
+    "question": "What is Martin Mark's middle name?",
+    "answer": "Unknown, not provided by the user.",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 63.00000008195639,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Mark",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 3,
+    "question_index": 1,
+    "question": "Did Martin Mark mention a preference for reptiles as pets on Sep 07, 2025?",
+    "answer": "No, Martin dislikes reptiles, especially snakes.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark Pets I dislike: Reptiles, like snakes",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark Pets I dislike Reptiles, like snakes reason: I find snakes unsettling due to their unpredictable movements and the fact that they don't exhibit the social behaviors I appreciate in pets.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 108.99999993853271,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, Martin Mark did not mention a preference for reptiles as pets on Sep 07, 2025.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 3,
+    "question_index": 2,
+    "question": "What type of pets does Martin Mark like?",
+    "answer": "Dogs, cats, and parrots.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark Pets I like: Dogs, especially Labradors",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark Pets I like: Cats",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin Mark Pets I like: Parrots",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 47.0000000204891,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "The memories do not mention any pets.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 5,
+    "question_index": 0,
+    "question": "Did Martin express a preference for Labradors over Golden Retrievers on Jan 06, 2026?",
+    "answer": "No, Martin prefers Golden Retrievers over Labradors.",
+    "evidence": [
+      {
+        "memory_content": "Martin has modified his pet preference from Labradors to Golden Retrievers due to their gentle nature and adaptability.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin's interaction with a friend's Golden Retriever impressed him and influenced his pet preference.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 32.00000000651926,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, Martin did not express such a preference.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 5,
+    "question_index": 1,
+    "question": "What is Martin's friend's name whose Golden Retriever he interacted with on Jan 06, 2026?",
+    "answer": "The name of Martin's friend is not provided.",
+    "evidence": [],
+    "difficulty": "medium",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.\n记忆：ThomasSusan is my Friend\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+    "search_duration_ms": 47.0000000204891,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ],
+      [
+        "relationship",
+        "relationship-5bd27880ed983b5b28c19ebe398fe1f8775a24efb5cb0bc7aa68f6d9ad6c2129"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ]
+    ],
+    "system_response": "ThomasSusan",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 5,
+    "question_index": 2,
+    "question": "How might Martin's preference for Golden Retrievers influence his choice of pet during stressful work periods in 2026?",
+    "answer": "Golden Retrievers provide relaxation and emotional support.",
+    "evidence": [
+      {
+        "memory_content": "Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin sees pets as essential for emotional support and companionship, enhancing his mental well-being.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin discussed how pets provide relaxation and comfort, balancing his demanding career.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Generalization & Application",
+    "context": "记忆：I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：It's important for me to be in a place where my ideas can contribute to meaningful change.",
+    "search_duration_ms": 45.999999972991645,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-4066afb9336db916d1cc85b6ebd67d9fc5c5e568b59b00615d2f68fb74b23bed"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-d2816d0af67af2e0cf5a2f089dfadc2b1be0f0e4764b3d830a58a9caa3459ef1"
+      ]
+    ],
+    "system_response": "Golden Retrievers' adaptability suits stressful periods.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 8,
+    "question_index": 0,
+    "question": "What is Martin Mark's middle name?",
+    "answer": "Unknown",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 108.99999993853271,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Mark",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 8,
+    "question_index": 1,
+    "question": "What was Martin Mark's salary as a director at Huaxin Consulting?",
+    "answer": "Unknown",
+    "evidence": [],
+    "difficulty": "medium",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 63.00000008195639,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "The memories provided do not contain information about Martin Mark's salary as a director at Huaxin Consulting.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 8,
+    "question_index": 2,
+    "question": "What is Martin Mark's blood type?",
+    "answer": "Unknown",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 77.9999999795109,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Not mentioned in memories.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 8,
+    "question_index": 3,
+    "question": "Did Martin Mark have any siblings mentioned in the dialogues?",
+    "answer": "Unknown",
+    "evidence": [],
+    "difficulty": "medium",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 94.0000000409782,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "No, no siblings were mentioned.",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 8,
+    "question_index": 4,
+    "question": "What role did Martin transition to on March 01, 2026, that improved his mental health?",
+    "answer": "A role offering a healthier work-life balance.",
+    "evidence": [
+      {
+        "memory_content": "Martin successfully transitioned to a new role offering a healthier balance between professional demands and personal well-being.",
+        "memory_type": "Event Memory"
+      },
+      {
+        "memory_content": "Martin's new role has improved his mental health and job satisfaction.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Multi-hop Inference",
+    "context": "记忆：Yes, the new role has definitely improved my mental health.\n记忆：I want to ensure the role supports my health and goals.\n记忆：I'm considering a career change to improve my mental health.\n记忆：I'm excited to see what I can achieve in this new role.\n记忆：Finding a role in a non-profit organization that focuses on healthcare access would be ideal.",
+    "search_duration_ms": 63.00000008195639,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-e17bd9501d91a32e27dca476bdc1b166ed5c6ec1c57073a0df11225f1854e7d4"
+      ],
+      [
+        "cognition",
+        "cognition-225a3ae474bea0c60891c257ce8bef0557f914b2658563b67c2e53274382481d"
+      ],
+      [
+        "cognition",
+        "cognition-ae0e125b8314fdcaa97ee074d799c3a9466bafc97e4d13eb6bc0500c9664f761"
+      ],
+      [
+        "cognition",
+        "cognition-e68d91761bf44e131ae0d3678a6166a8facb21f18b3ca65554e9a88a77b335ab"
+      ],
+      [
+        "cognition",
+        "cognition-6ceb54456478e2166be6f3335391a75a8d05c7f41cca45cacc2f1aaf71125f7e"
+      ]
+    ],
+    "system_response": "Based on the memories provided, Martin transitioned to a role in a **non-profit organization focusing on healthcare access**.",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 8,
+    "question_index": 5,
+    "question": "How did Martin's change in pet preference reflect his openness to new experiences as of January 10, 2026?",
+    "answer": "Switching from Labradors to Golden Retrievers.",
+    "evidence": [
+      {
+        "memory_content": "Martin's recent change in pet preference from Labradors to Golden Retrievers reflects his openness to new experiences.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin expressed optimism about integrating his new pet preference into his daily life, seeing it as a way to help manage stress.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Multi-hop Inference",
+    "context": "记忆：I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.\n记忆：It's important for me to be in a place where my ideas can contribute to meaningful change.\n记忆：I'm excited to see what I can achieve in this new role.\n记忆：I think this change is a step towards exploring new interactions and experiences.\n记忆：I'm optimistic about how this new preference will fit into my life.",
+    "search_duration_ms": 77.9999999795109,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-242661769e1262cba388a09f164df9d9ab5e3d7c9f13690ffe62d7f70632e8eb"
+      ],
+      [
+        "cognition",
+        "cognition-d2816d0af67af2e0cf5a2f089dfadc2b1be0f0e4764b3d830a58a9caa3459ef1"
+      ],
+      [
+        "cognition",
+        "cognition-e68d91761bf44e131ae0d3678a6166a8facb21f18b3ca65554e9a88a77b335ab"
+      ],
+      [
+        "cognition",
+        "cognition-499818f48be6868fbb614a4241f00df77e635a0dabc4ab59a230c1bd3ea8e026"
+      ],
+      [
+        "cognition",
+        "cognition-8baa526572c126bcf123df8db2ba9b84834f115458741343ee449b3e313764c8"
+      ]
+    ],
+    "system_response": "Martin's preference for Golden Retrievers reflected his openness to new experiences.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 8,
+    "question_index": 6,
+    "question": "What was the main reason Martin wanted to change his career according to dialogues on December 15, 2025?",
+    "answer": "Impact on his mental health.",
+    "evidence": [
+      {
+        "memory_content": "Martin Mark is considering a career change due to the impact of his current role on his mental health.",
+        "memory_type": "Event Memory"
+      },
+      {
+        "memory_content": "Martin Mark's current job as director at Huaxin Consulting is negatively affecting his mental health.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Multi-hop Inference",
+    "context": "记忆：According to the MBTI test, my personality type is ENTP.\n记忆：I'm considering a career change to improve my mental health.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：Balancing these priorities involves setting clear goals and being adaptable to change while staying focused on my core values.",
+    "search_duration_ms": 63.00000008195639,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-6bd345c86b2f7cba5f42fb7a070765ab58e7399c623e9f82682ecb60c90a5201"
+      ],
+      [
+        "cognition",
+        "cognition-ae0e125b8314fdcaa97ee074d799c3a9466bafc97e4d13eb6bc0500c9664f761"
+      ],
+      [
+        "cognition",
+        "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-11e8e380dab9f8f0da1fa8da1c78d573435af1a35c2a73f24850e4c1bffae697"
+      ]
+    ],
+    "system_response": "To improve his mental health.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 8,
+    "question_index": 7,
+    "question": "How did Martin's colleagues influence his career transition as discussed on February 05, 2026?",
+    "answer": "Through insights and a collaborative approach.",
+    "evidence": [
+      {
+        "memory_content": "Martin's colleague Daniel offered valuable insights that pushed him to think outside the box in his career.",
+        "memory_type": "Relationship Memory"
+      },
+      {
+        "memory_content": "Martin's colleague Joshua's collaborative approach positively influenced Martin's leadership style.",
+        "memory_type": "Relationship Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Multi-hop Inference",
+    "context": "记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+    "search_duration_ms": 62.000000034458935,
+    "selected_item_ids": [
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ]
+    ],
+    "system_response": "The memories provided do not contain any information about Martin's colleagues or a discussion on February 05, 2026.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 9,
+    "question_index": 0,
+    "question": "What type of new physical activity might Martin be interested in trying after April 10, 2026?",
+    "answer": "Other extreme sports.",
+    "evidence": [
+      {
+        "memory_content": "Martin has developed a newfound appreciation for extreme sports like simulated skydiving, valuing the thrill and challenge they offer while maintaining a commitment to safety measures.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin's experience at a team-building event led to a shift in his sports preferences, embracing extreme sports for their adrenaline and adventure.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Generalization & Application",
+    "context": "记忆：I'm excited to see what I can achieve in this new role.\n记忆：The creative aspect of my new role is particularly exciting.",
+    "search_duration_ms": 141.0000000614673,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-e68d91761bf44e131ae0d3678a6166a8facb21f18b3ca65554e9a88a77b335ab"
+      ],
+      [
+        "cognition",
+        "cognition-e438db5e4c3cb5fa587b4cbe181cc02b24112b612bf504ccb213aafc7172f8b5"
+      ]
+    ],
+    "system_response": "The memories provided do not contain information about Martin or any physical activities.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 9,
+    "question_index": 1,
+    "question": "How might Martin's approach to overcoming creative blocks influence his choice of activities in the future?",
+    "answer": "Choosing challenging physical activities.",
+    "evidence": [
+      {
+        "memory_content": "Engaging in extreme sports helps Martin overcome creative blocks and inspires new ideas.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin's openness to new experiences is reflected in his evolving sports preferences and his willingness to explore new dimensions of personal growth.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Generalization & Application",
+    "context": "记忆：The future is full of possibilities, and I'm eager to explore them.\n记忆：I'm looking forward to the future and the possibility of making a meaningful impact in my career while maintaining my personal well-being.\n记忆：I'm ready to embrace the future with open arms.\n记忆：The creative aspect of my new role is particularly exciting.\n记忆：It's about finding the right platform to use them effectively.",
+    "search_duration_ms": 94.0000000409782,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-b52e2a0fc8108fc5969a55f519002b3fcde1840bfe873f0f5f1e0a66e6f99831"
+      ],
+      [
+        "cognition",
+        "cognition-2d7f8c7eebf4adc1899edcbeedbc5f803a4d7e6e2612647a9a5a483316ae68e8"
+      ],
+      [
+        "cognition",
+        "cognition-fcd2c648f8252d3948dc2df3a83ecb796a8a480955da1518881449693f00e3c3"
+      ],
+      [
+        "cognition",
+        "cognition-e438db5e4c3cb5fa587b4cbe181cc02b24112b612bf504ccb213aafc7172f8b5"
+      ],
+      [
+        "cognition",
+        "cognition-bace8b02406702affa3ed805004deef971fe68b3c0fcebecd7bd8c92c212195a"
+      ]
+    ],
+    "system_response": "He'll seek platforms to use his skills effectively.",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 9,
+    "question_index": 2,
+    "question": "What activity did Martin participate in during a team-building event on April 10, 2026?",
+    "answer": "Simulated skydiving",
+    "evidence": [
+      {
+        "memory_content": "Martin participated in a simulated skydiving experience during a team-building event, which influenced his sports preferences.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：I recently had an interesting experience at a team-building event where I tried simulated skydiving.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：My name is Martin Mark, and I am a Male.\n记忆：I'm excited to see what I can achieve in this new role.",
+    "search_duration_ms": 77.9999999795109,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-f529a4bf515cd781a6b41ae8d22449fcd897ab34b98c4e7add1c40a049592f49"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ],
+      [
+        "cognition",
+        "cognition-e68d91761bf44e131ae0d3678a6166a8facb21f18b3ca65554e9a88a77b335ab"
+      ]
+    ],
+    "system_response": "Simulated skydiving",
+    "verdict": "Correct"
+  },
+  {
+    "session": 10,
+    "question_index": 0,
+    "question": "Based on Martin's interests, what type of non-violent action games could he explore after July 14, 2026?",
+    "answer": "Games enhancing cognitive skills and aligning with peace values.",
+    "evidence": [
+      {
+        "memory_content": "Martin attended a seminar on cognitive development, which sparked his interest in non-violent action games for their cognitive benefits.",
+        "memory_type": "Event Memory"
+      },
+      {
+        "memory_content": "Martin is open to exploring non-violent action games to enhance cognitive functions, aligning with his values of peace and well-being.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin seeks recommendations for non-violent action games that enhance cognitive skills.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Generalization & Application",
+    "context": "记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+    "search_duration_ms": 125.0,
+    "selected_item_ids": [
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ]
+    ],
+    "system_response": "Based on the memories provided, there is no information about Martin's interest in non-violent action games. The memories only mention his interest in health, inspired by his father.",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 10,
+    "question_index": 1,
+    "question": "What type of games is Martin interested in exploring as of July 14, 2026?",
+    "answer": "Non-violent action games",
+    "evidence": [
+      {
+        "memory_content": "Martin attended a seminar on cognitive development, which sparked his interest in non-violent action games for their cognitive benefits.",
+        "memory_type": "Event Memory"
+      },
+      {
+        "memory_content": "Martin is open to exploring non-violent action games to enhance cognitive functions, aligning with his values of peace and well-being.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：I like puzzle games as they challenge my mind and help improve my problem-solving skills, which are crucial in my profession.\n记忆：I dislike violent video games, I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.\n记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 77.9999999795109,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+      ],
+      [
+        "cognition",
+        "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+      ],
+      [
+        "cognition",
+        "cognition-ec908eec5ab3d6ae42d1be8cfa182e86447252f44a6236582bba0fe3fbaedc94"
+      ],
+      [
+        "cognition",
+        "cognition-82079519b66182d676cdee45a78f12bd0b8152f536ae190388f93a986506f170"
+      ],
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Puzzle games",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 10,
+    "question_index": 2,
+    "question": "Did Martin express interest in violent video games on July 14, 2026?",
+    "answer": "No, he is skeptical about violent games but interested in non-violent ones.",
+    "evidence": [
+      {
+        "memory_content": "Martin is skeptical about violent video games but interested in the cognitive benefits non-violent games may offer.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Memory Conflict",
+    "context": "记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：I've always avoided violent video games because they don't align with my values.\n记忆：I dislike violent video games, I avoid violent video games because they promote aggression, which is contrary to my values of peace and well-being.",
+    "search_duration_ms": 109.00000005494803,
+    "selected_item_ids": [
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-d1820a200039d5af98b510e5f8cbd02f8afffb1f876b4cf4318e4dd2ffe7e2c9"
+      ],
+      [
+        "cognition",
+        "cognition-82079519b66182d676cdee45a78f12bd0b8152f536ae190388f93a986506f170"
+      ]
+    ],
+    "system_response": "No, Martin expressed no interest in violent video games.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 11,
+    "question_index": 0,
+    "question": "What alternatives is Martin exploring to wellness retreats as of October 16, 2026?",
+    "answer": "Nature hikes and cultural tours.",
+    "evidence": [
+      {
+        "memory_content": "Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "easy",
+    "question_type": "Basic Fact Recall",
+    "context": "记忆：I think their adaptability is what really drew me to them.\n记忆：I want my travels to enhance my physical and mental health, much like the wellness retreats used to.\n记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：My name is Martin Mark, and I am a Male.",
+    "search_duration_ms": 172.0000000204891,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-4a4470ca1c1947606aead7113e9ec87b4895d5a93b6aa08dac0739ed152fd4f6"
+      ],
+      [
+        "cognition",
+        "cognition-55f27ae6a80e99a1da0ea77bf1fd3b34c7fd73dbe03976c832139234338625ef"
+      ],
+      [
+        "cognition",
+        "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+      ],
+      [
+        "cognition",
+        "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+      ],
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ]
+    ],
+    "system_response": "Based on the memories provided, there is no mention of specific alternatives Martin is exploring to wellness retreats. The memories only state that he wants his travels to enhance his physical and mental health, \"much like the wellness retreats used to.\"",
+    "verdict": "Omission"
+  },
+  {
+    "session": 11,
+    "question_index": 1,
+    "question": "What is Martin's middle name?",
+    "answer": "The middle name is not provided.",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.\n记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：I think their adaptability is what really drew me to them.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.",
+    "search_duration_ms": 94.0000000409782,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ],
+      [
+        "cognition",
+        "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+      ],
+      [
+        "cognition",
+        "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+      ],
+      [
+        "cognition",
+        "cognition-4a4470ca1c1947606aead7113e9ec87b4895d5a93b6aa08dac0739ed152fd4f6"
+      ],
+      [
+        "cognition",
+        "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+      ]
+    ],
+    "system_response": "Mark",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 11,
+    "question_index": 2,
+    "question": "What was the exact date of Martin's first wellness retreat experience?",
+    "answer": "The exact date is not provided.",
+    "evidence": [],
+    "difficulty": "medium",
+    "question_type": "Memory Boundary",
+    "context": "记忆：It's been a transformative experience.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.\n记忆：My experience at Huaxin Consulting has taught me the importance of aligning work with personal values.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：The potential for impact is what drives me.",
+    "search_duration_ms": 77.9999999795109,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-a3eb075c15263565bf28326e16bfcc37e84758d10ac796d35018f2f0c76751cb"
+      ],
+      [
+        "cognition",
+        "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+      ],
+      [
+        "cognition",
+        "cognition-777eb531be4ff185da532a7ce9f682cde5489cee23cec52d9c0083de07f3f406"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+      ]
+    ],
+    "system_response": "Not mentioned in memories.",
+    "verdict": "Correct"
+  },
+  {
+    "session": 12,
+    "question_index": 0,
+    "question": "What is Martin's middle name as of Jan 19, 2027?",
+    "answer": "This information is not provided.",
+    "evidence": [],
+    "difficulty": "easy",
+    "question_type": "Memory Boundary",
+    "context": "记忆：My name is Martin Mark, and I am a Male.\n记忆：The potential for impact is what drives me.\n记忆：The potential for impact is what motivates me.\n记忆：I think their adaptability is what really drew me to them.\n记忆：The journey has definitely been worth it. I'm excited for what's to come.",
+    "search_duration_ms": 109.00000005494803,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+      ],
+      [
+        "cognition",
+        "cognition-168cc7c467197a0732a53777edd676a4e1c230495a6ac0b9c8afa1f49a78355d"
+      ],
+      [
+        "cognition",
+        "cognition-a9761ad447f28f9fe52a4de9d998ea2623b3c0fd19dd3841caf0353816acbd73"
+      ],
+      [
+        "cognition",
+        "cognition-4a4470ca1c1947606aead7113e9ec87b4895d5a93b6aa08dac0739ed152fd4f6"
+      ],
+      [
+        "cognition",
+        "cognition-decd225ba25d1a5eaf94a732e45eedf8e4a774f2db886bb6732ee5c73102fe79"
+      ]
+    ],
+    "system_response": "Mark",
+    "verdict": "Hallucination"
+  },
+  {
+    "session": 12,
+    "question_index": 1,
+    "question": "Did Martin's movie preference shift from fictional narratives to documentaries after a relaxing week on Jan 19, 2027?",
+    "answer": "No, Martin's preference shifted to fictional narratives after a stressful week.",
+    "evidence": [
+      {
+        "memory_content": "Martin's movie preference has shifted from documentaries to fictional narratives that provide a mental escape.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin finds himself drawn towards fictional narratives that offer a mental break after a stressful week.",
+        "memory_type": "Event Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Memory Conflict",
+    "context": "记忆：By indulging in fictional narratives, I can step back from work pressures and return with a fresh perspective.\n记忆：I've been thinking a lot about my movie preferences lately. It seems I've been gravitating more towards fictional narratives that offer a mental escape,\n记忆：Fictional narratives help me unwind, and I'm curious to explore different genres for relaxation.\n记忆：My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.\n记忆：They offer a break from reality, allowing me to recharge and approach my work with renewed creativity.",
+    "search_duration_ms": 125.0,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-d9d3f1abae6a068018d5f1ca9ee6e8a9284524652c675a48a306ec261f00a268"
+      ],
+      [
+        "cognition",
+        "cognition-6a09935d073a5e41ee7437877827e405372ec3a6f45615606dc422e72a0f373b"
+      ],
+      [
+        "cognition",
+        "cognition-69100ba8276e1959d7460a6d25e4a4a29d995b39fcc99d6017f909934513e86f"
+      ],
+      [
+        "relationship",
+        "relationship-c252179083b0f11af2d9cebe41591d676b0f3cd67ca6c4e36780ff55b08b2a84"
+      ],
+      [
+        "cognition",
+        "cognition-35014be8d91cdd15046dcd8dbb86472826d7bfd4d7c9ada52ad20e42cb4ed135"
+      ]
+    ],
+    "system_response": "No, memories show continued preference for fictional narratives.",
+    "verdict": "Omission"
+  },
+  {
+    "session": 12,
+    "question_index": 2,
+    "question": "What type of movie genres might Martin explore to relax after a stressful week in 2027?",
+    "answer": "Adventure and fantasy genres.",
+    "evidence": [
+      {
+        "memory_content": "Martin's exploratory motivation leads him to test boundaries and find new ways to unwind through movie choices, particularly adventure and fantasy genres.",
+        "memory_type": "Persona Memory"
+      },
+      {
+        "memory_content": "Martin expresses curiosity about exploring different movie genres, such as adventure and fantasy, to find new avenues for relaxation.",
+        "memory_type": "Persona Memory"
+      }
+    ],
+    "difficulty": "medium",
+    "question_type": "Generalization & Application",
+    "context": "记忆：I might keep a journal to note any changes in my cognitive skills and overall well-being.\n记忆：I plan to set aside dedicated time each week to explore different genres, allowing me to unwind and recharge.\n记忆：I'm excited to see what I can achieve in this new role.\n记忆：The future is full of possibilities, and I'm eager to explore them.\n记忆：I'm curious about genres that offer a sense of adventure or fantasy.",
+    "search_duration_ms": 125.0,
+    "selected_item_ids": [
+      [
+        "cognition",
+        "cognition-a935b084748ae5879cc59e73007172581e9350104ed157bbaadd0078e1dca856"
+      ],
+      [
+        "cognition",
+        "cognition-bfe424f3e1944dabbed653d967947695cbbbf6719b72f31dab39542abe874622"
+      ],
+      [
+        "cognition",
+        "cognition-e68d91761bf44e131ae0d3678a6166a8facb21f18b3ca65554e9a88a77b335ab"
+      ],
+      [
+        "cognition",
+        "cognition-b52e2a0fc8108fc5969a55f519002b3fcde1840bfe873f0f5f1e0a66e6f99831"
+      ],
+      [
+        "cognition",
+        "cognition-c4af901735308ae921790e4158747007775978f62420f7ecabc47663735ec837"
+      ]
+    ],
+    "system_response": "Adventure or fantasy genres",
+    "verdict": "Correct"
+  }
+]

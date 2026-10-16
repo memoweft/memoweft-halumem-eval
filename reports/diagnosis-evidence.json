@@ -1,0 +1,173 @@
+{
+  "scope": "Sessions 1-12 only; 3 pre-stop invalid memory judgments retained. Stopped session 13 is not included.",
+  "formation_counts": {
+    "jobs": 225,
+    "terminal_no_change": 24,
+    "rewrites": 65,
+    "rewrite_first_model_no_change": 60,
+    "terminal_applied": 201,
+    "rewrite_first_missing_entity": 1,
+    "rewrite_first_invalid_model_result": 2,
+    "rewrite_first_unexpected_entity_reference": 1,
+    "rewrite_first_invalid_cognition_batch": 1
+  },
+  "formation_actions": {
+    "form": 264
+  },
+  "naming_filter": {
+    "snapshot_rows": 9,
+    "eligible_named": 1,
+    "stored_birthday": "I was born on 1996-08-02, and I am now 29 years old.",
+    "actual_recall": "记忆：My name is Martin Mark, and I am a Male.",
+    "name_only_qa_count": 14,
+    "name_only_verdicts": {
+      "Hallucination": 5,
+      "Omission": 5,
+      "Correct": 4
+    }
+  },
+  "ranking_example": [
+    {
+      "content": "I think their adaptability is what really drew me to them.",
+      "shared_tokens": [
+        "is",
+        "to",
+        "what"
+      ],
+      "literal_score": 0.25
+    },
+    {
+      "content": "I want my travels to enhance my physical and mental health, much like the wellness retreats used to.",
+      "shared_tokens": [
+        "retreats",
+        "to",
+        "wellness"
+      ],
+      "literal_score": 0.20689655172413793
+    },
+    {
+      "content": "The potential for impact is what drives me.",
+      "shared_tokens": [
+        "is",
+        "what"
+      ],
+      "literal_score": 0.19047619047619047
+    },
+    {
+      "content": "The potential for impact is what motivates me.",
+      "shared_tokens": [
+        "is",
+        "what"
+      ],
+      "literal_score": 0.19047619047619047
+    },
+    {
+      "content": "My name is Martin Mark, and I am a Male.",
+      "shared_tokens": [
+        "is",
+        "martin"
+      ],
+      "literal_score": 0.17391304347826086
+    },
+    {
+      "content": "I am actually looking into alternatives like nature hikes and cultural tours.",
+      "shared_tokens": [
+        "alternatives"
+      ],
+      "literal_score": 0.08
+    }
+  ],
+  "formation_traces": [
+    {
+      "session": 1,
+      "evidence": [
+        "Specifically, Establish a global health initiative to improve access to healthcare for underserved communities. The motivation for this goal is Inspired by his family's medical background and a desire to promote well-being globally. I hope to Provide healthcare access to 1 million people in underserved areas."
+      ],
+      "model_output": "{\"schema_version\":8,\"result\":\"no_change\"}",
+      "world_result": {
+        "reason": "model_no_change",
+        "schema_version": 1,
+        "state": "no_change"
+      },
+      "rewrite_final_error": "model_no_change"
+    },
+    {
+      "session": 10,
+      "evidence": [
+        "I recently attended a seminar on cognitive development, and it got me thinking about action games. They mentioned some interesting cognitive benefits."
+      ],
+      "model_output": "{\"schema_version\":8,\"result\":\"no_change\"}",
+      "world_result": {
+        "reason": "model_no_change",
+        "schema_version": 1,
+        "state": "no_change"
+      },
+      "rewrite_final_error": "model_no_change"
+    },
+    {
+      "session": 11,
+      "evidence": [
+        "I've been thinking a lot about my travel preferences lately, especially wellness retreats. I used to love them for their focus on health and relaxation, but it seems like many have shifted towards luxury experiences. It's disappointing because it doesn't align with my health-focused travel goals."
+      ],
+      "model_output": "{\"schema_version\":8,\"result\":\"cognitions\",\"cognitions\":[{\"action\":\"form\",\"target\":\"owner_self\",\"statement_kind\":\"preference\",\"formed_by\":\"stated\",\"proposition\":\"I've been thinking a lot about my travel preferences lately, especially wellness retreats.\",\"supports\":[{\"evidence_id\":\"4aff5f40-3c6f-4826-b5a5-7db41f6e4535\",\"sentence_id\":\"t0\"}]}]}",
+      "world_result": {
+        "boundary_event_id": "weftmate-turn-boundary-v1:f56dc4b8ff7cc7ae2b2845128926cd3e:ab7cb149989b96adaae7191a043cd95b2339d6b21b0414b19d576cbb32813cae",
+        "cognitions": [
+          {
+            "action": "form",
+            "cognition_id": "cognition-4bece0ef2bd0f0d1add1e1ae7badfd4771994a2e5f73681c5459cd70b0a5999b",
+            "confidence": 600,
+            "cred_status": "limited",
+            "evidence_count": 1,
+            "formed_by": "stated",
+            "statement_kind": "preference"
+          }
+        ],
+        "schema_version": 8,
+        "state": "applied",
+        "world_revision": 168
+      },
+      "rewrite_final_error": null
+    },
+    {
+      "session": 12,
+      "evidence": [
+        "I've been thinking a lot about my movie preferences lately. It seems I've been gravitating more towards fictional narratives that offer a mental escape, especially after a particularly stressful week. It's a shift from my usual documentary choices."
+      ],
+      "model_output": "{\"schema_version\":8,\"result\":\"cognitions\",\"cognitions\":[{\"action\":\"form\",\"target\":\"owner_self\",\"statement_kind\":\"preference\",\"formed_by\":\"stated\",\"proposition\":\"placeholder\",\"supports\":[{\"evidence_id\":\"f73dfaff-a7a3-4a47-ad8a-69e2cf045f50\",\"segment_id\":\"s0\"}]}]}",
+      "world_result": {
+        "boundary_event_id": "weftmate-turn-boundary-v1:76f62dbe414ae3a025048928f3c46ae8:9649a94f98b58cea694a9e0e07e1d0bcdaace421824b50c5d327f3c4d70520d6",
+        "cognitions": [
+          {
+            "action": "form",
+            "cognition_id": "cognition-6a09935d073a5e41ee7437877827e405372ec3a6f45615606dc422e72a0f373b",
+            "confidence": 600,
+            "cred_status": "limited",
+            "evidence_count": 1,
+            "formed_by": "stated",
+            "statement_kind": "preference"
+          }
+        ],
+        "schema_version": 8,
+        "state": "applied",
+        "world_revision": 187
+      },
+      "rewrite_final_error": null
+    }
+  ],
+  "middle_name_verdicts": {
+    "Hallucination": 5
+  },
+  "context_truncation_count": 0,
+  "usage_at_stop": {
+    "prompt_tokens": 7452104,
+    "completion_tokens": 94331,
+    "cached_tokens": 3094080,
+    "total_tokens": 7546435,
+    "calls": 822
+  },
+  "estimated_cny_at_published_price": 4.6085676,
+  "diagnostic_api_calls": 0,
+  "database_total_changes": 0,
+  "database_sha256_before_after": "ca1f43727f2d97ddd708cd0afdbc02f2f8b8849941f76c28d658b04d466a095d"
+}

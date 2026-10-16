@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到直接支持：用户在07:38:25明确表示'I plan to set aside dedicated time each week to explore different genres, allowing me to unwind and recharge'，与候选记忆完全一致。该信息点的字段（探索不同电影类型的计划/习惯）在金标准记忆中也有对应，如'Martin expresses curiosity about exploring different movie genres...to find new avenues for relaxation'，属于同一语义维度。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3620,
+    "total_tokens": 3762,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

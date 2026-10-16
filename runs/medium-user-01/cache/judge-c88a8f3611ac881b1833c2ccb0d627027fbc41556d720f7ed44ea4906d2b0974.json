@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories cover both elements of the expected memory point. The skepticism about violent video games is captured by 'I've always avoided violent video games because they don't align with my values' and 'I want games that are engaging but not too aggressive.' The interest in cognitive benefits of non-violent games is captured by 'I'm hopeful it will boost my creativity and problem-solving skills, providing a fresh perspective' and 'I think it can complement my focus on mental well-being, offering a way to unwind and stimulate my mind.' Both parts are fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1079,
+    "total_tokens": 1212,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

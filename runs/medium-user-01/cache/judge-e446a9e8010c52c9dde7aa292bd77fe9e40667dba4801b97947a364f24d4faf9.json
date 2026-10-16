@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I dislike automobile racing, I am not fond of automobile racing because of the environmental impact and the lack of physical engagement.' fully covers the expected memory point, including the dislike of automobile racing and the exact reasons (environmental impact and lack of physical engagement). The only element not explicitly present is the person's name 'Martin Mark Sports', but the preference and reasoning are fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1375,
+    "total_tokens": 1475,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

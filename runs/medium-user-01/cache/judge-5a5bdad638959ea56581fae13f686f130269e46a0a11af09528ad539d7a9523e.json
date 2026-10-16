@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm looking forward to making a real impact'表达了Martin对未来产生影响的期待，这与对话中用户说的'I'm looking forward to making a real impact. The new role feels like the perfect fit'直接对应，且与金标准记忆中'Martin feels empowered to pursue his humanitarian care goals through his new role'以及'Martin conveyed optimism about pursuing his life goals with renewed vigor and creativity'语义一致，完全有对话支持，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 5040,
+    "total_tokens": 5176,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

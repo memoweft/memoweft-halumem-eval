@@ -1,0 +1,335 @@
+{
+  "start_time": "Sep 04, 2025, 18:42:18",
+  "end_time": "Sep 04, 2025, 21:12:18",
+  "memory_points_count": 15,
+  "memory_points": [
+    {
+      "index": 1,
+      "memory_content": "User's name is Martin Mark",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin Mark's gender is Male",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin Mark's birth date is 1996-08-02",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin Mark lives in Columbus",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin Mark's age in January 2025 is 29 years old",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin Mark's highest education level is Bachelor",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin Mark's major is Public Health",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin Mark's MBTI personality type is ENTP",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin Mark's personality tags include: Innovative Spirit, Active Thinking, Debate Skills, Empathetic",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 10,
+      "memory_content": "Martin Mark's parent status: Both parents are alive",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 11,
+      "memory_content": "Martin Mark's partner status: no_relationship",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 12,
+      "memory_content": "Martin Mark's child status: No children",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 13,
+      "memory_content": "Martin Mark's life goal statement: Establish a global health initiative to improve access to healthcare for underserved communities.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 14,
+      "memory_content": "Martin Mark's motivation for pursuing goals: Inspired by his family's medical background and a desire to promote well-being globally.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    },
+    {
+      "index": 15,
+      "memory_content": "Martin Mark's target metrics: Provide healthcare access to 1 million people in underserved areas.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system"
+    }
+  ],
+  "dialogue_turn_num": 6,
+  "dialogue": [
+    {
+      "role": "user",
+      "content": "Hello! I'd like to share my basic personal information with you so you can better understand me and provide more thoughtful help in future conversations.",
+      "timestamp": "Sep 04, 2025, 18:42:18",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! Nice to meet you. Please tell me your basic information.",
+      "timestamp": "Sep 04, 2025, 18:42:18",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "user",
+      "content": "My name is Martin Mark, and I am a Male. I was born on 1996-08-02, and I am now 29 years old. I currently live in Columbus.",
+      "timestamp": "Sep 04, 2025, 18:47:28",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me about your educational background?",
+      "timestamp": "Sep 04, 2025, 18:47:28",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Of course. My highest education level is Bachelor, and my major is Public Health.",
+      "timestamp": "Sep 04, 2025, 18:50:22",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of personality do you have?",
+      "timestamp": "Sep 04, 2025, 18:50:22",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "user",
+      "content": "According to the MBTI test, my personality type is ENTP. Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+      "timestamp": "Sep 04, 2025, 19:17:16",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Can you introduce your family life?",
+      "timestamp": "Sep 04, 2025, 19:17:16",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Good, let me introduce my family. Both parents are alive, no_relationship, No children. My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health. My Mother was born on 1963-08-02, Nurse with a passion for community health. Overall, Martin comes from a family deeply rooted in the medical field, which has greatly influenced his passion for promoting well-being.",
+      "timestamp": "Sep 04, 2025, 19:38:09",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "What are your life goals?",
+      "timestamp": "Sep 04, 2025, 19:38:09",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "user",
+      "content": "Specifically, Establish a global health initiative to improve access to healthcare for underserved communities. The motivation for this goal is Inspired by his family's medical background and a desire to promote well-being globally. I hope to Provide healthcare access to 1 million people in underserved areas.",
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your detailed introduction. I have a comprehensive understanding of your basic information. I will remember this information and provide more thoughtful help in future conversations.",
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "dialogue_turn": 5
+    }
+  ],
+  "dialogue_token_length": 335,
+  "questions": [
+    {
+      "question": "What is Martin Mark's middle name?",
+      "answer": "Unknown; not provided by the user.",
+      "evidence": [],
+      "difficulty": "easy",
+      "question_type": "Memory Boundary",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.999999945051968,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Mark"
+    },
+    {
+      "question": "What is Martin Mark's birth date?",
+      "answer": "1996-08-02",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's birth date is 1996-08-02",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Basic Fact Recall",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.000000013969839,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Not mentioned in memories."
+    },
+    {
+      "question": "Did Martin Mark establish a global health initiative with his partner in 2025?",
+      "answer": "Martin Mark has no partner; he aims to establish a health initiative.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's partner status: no_relationship",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark's life goal statement: Establish a global health initiative to improve access to healthcare for underserved communities.",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "medium",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 0.0,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, there is no such memory."
+    }
+  ],
+  "question_count": 3,
+  "extracted_memories": [
+    "My Mother was born on 1963-08-02, Nurse with a passion for community health.",
+    "My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+    "My name is Martin Mark, and I am a Male.",
+    "I was born on 1996-08-02, and I am now 29 years old.",
+    "I currently live in Columbus.",
+    "My highest education level is Bachelor, and my major is Public Health.",
+    "According to the MBTI test, my personality type is ENTP.",
+    "Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+    "Both parents are alive, no_relationship, No children."
+  ],
+  "add_dialogue_duration_ms": 28702.99999997951,
+  "semantic_status": {
+    "state": "ready",
+    "reason": null,
+    "enabled": true,
+    "model_id": "intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3:qint8:mean:l2:512",
+    "threshold": 0.87,
+    "max_additions": 3,
+    "indexed_count": 9,
+    "backfill_complete": true
+  }
+}

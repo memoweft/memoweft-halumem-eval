@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.' This fully covers the Expected Memory Point regarding the dislike of sugary sodas and the reason. The only element not present is the entity name 'Martin Mark Beverages,' which appears to be a brand or source identifier rather than a core memory element about the user's preference. Since the preference and reason are fully captured, this is essentially fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1385,
+    "total_tokens": 1508,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

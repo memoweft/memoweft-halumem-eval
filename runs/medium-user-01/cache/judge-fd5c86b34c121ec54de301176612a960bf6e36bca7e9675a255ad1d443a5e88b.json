@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Yes, the new role has definitely improved my mental health.'与对话中用户原话完全一致，且与金标准记忆'Martin's new role has improved his mental health and job satisfaction.'语义一致，完全被支持，无矛盾或幻觉。该信息点的字段（新角色对心理健康的影响）在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 5042,
+    "total_tokens": 5153,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

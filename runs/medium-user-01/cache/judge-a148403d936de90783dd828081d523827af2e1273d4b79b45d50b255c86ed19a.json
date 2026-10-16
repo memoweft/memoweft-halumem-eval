@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'I'm ready to embrace the future with open arms'表达了Martin对未来持开放态度，这与对话中Martin表达的乐观情绪和对未来的期待相符（如'I'm ready to take on new challenges and opportunities'），因此该信息点有对话支持。但该记忆属于情绪/态度类信息，而黄金记忆中并未包含'对未来持开放态度'这一字段，黄金记忆主要关注的是新角色、心理健康、社交网络支持、人道关怀目标等具体事实性信息。因此该记忆虽有对话支持，但其字段不在黄金记忆范围内。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 5041,
+    "total_tokens": 5197,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

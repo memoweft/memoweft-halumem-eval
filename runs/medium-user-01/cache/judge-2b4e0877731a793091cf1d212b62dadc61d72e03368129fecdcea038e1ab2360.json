@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'支持对我的成功至关重要'与对话中用户多次表达的内容一致（如'The support I've received has been instrumental in my success'），且与金标准记忆'Martin's friends and colleagues provided support and insights that were instrumental in securing new opportunities'语义相符，属于支持网络/社交网络对职业转型的作用这一字段，完全被金标准覆盖。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 5042,
+    "total_tokens": 5156,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

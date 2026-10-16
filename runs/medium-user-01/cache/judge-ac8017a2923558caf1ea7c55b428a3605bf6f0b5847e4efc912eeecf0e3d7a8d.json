@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory item 'Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic' fully covers all four personality tags in the expected memory point (Innovative Spirit, Active Thinking, Debate Skills, Empathetic).\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 734,
+    "total_tokens": 808,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

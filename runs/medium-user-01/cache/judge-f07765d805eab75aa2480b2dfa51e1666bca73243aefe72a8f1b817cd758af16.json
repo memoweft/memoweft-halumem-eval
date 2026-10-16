@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Susan, Daniel, and Joshua really helped me see things differently'在对话中有直接支持：用户在07:16:19明确说'Susan, Daniel, and Joshua really helped me see things differently'。该信息点的字段（社交网络/朋友同事对职业转型的帮助）与黄金记忆中'Martin acknowledged the role of his social network in facilitating his career transition'和'Martin's friends and colleagues provided support and insights that were instrumental in securing new opportunities'对应，属于同一字段。信息完全被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 5043,
+    "total_tokens": 5195,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

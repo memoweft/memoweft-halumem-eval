@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin is motivated by humanitarian care goals, and (2) he is exploring roles in non-profit organizations focused on healthcare access. The extracted memories contain 'I've been considering roles in non-profit organizations focused on healthcare access' which directly covers element (2). For element (1), multiple memories cover the humanitarian/care motivation: 'They align with my desire to improve healthcare for underserved communities', 'My experience at Huaxin Consulting has taught me the importance of aligning work with personal values', and 'My ideal role would allow me to contribute to healthcare initiatives while maintaining a balanced and fulfilling life.' Both elements are fully covered.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 916,
+    "total_tokens": 1074,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

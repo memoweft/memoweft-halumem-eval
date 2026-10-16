@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆指出Martin正在探索自然徒步和文化之旅作为替代方案，这与对话中用户明确表述'I am actually looking into alternatives like nature hikes and cultural tours'完全一致，且与金标准记忆'Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats'相匹配。该信息点的字段（旅行偏好/替代方案）在金标准记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 4783,
+    "total_tokens": 4906,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

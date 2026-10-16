@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'I envision my team working together to develop solutions that enhance healthcare access and promote well-being in underserved communities'，与对话原文一致。该记忆涉及的字段（团队愿景、改善医疗可及性、促进社区福祉）均在黄金记忆中有对应字段（如改善医疗可及性、服务欠发达社区等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 5722,
+    "total_tokens": 5847,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

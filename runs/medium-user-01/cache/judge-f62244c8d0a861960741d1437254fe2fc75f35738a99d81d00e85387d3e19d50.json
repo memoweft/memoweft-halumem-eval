@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark has preferences in Game Preference. The Extracted Memories contain two game-related items: 'I like puzzle games as they challenge my mind and help improve my problem-solving skills' and 'I dislike violent video games, I avoid violent video games because they promote aggression.' These clearly demonstrate game preferences (liking puzzle games, disliking violent video games), which fully covers the expected memory point about having game preferences.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1355,
+    "total_tokens": 1465,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

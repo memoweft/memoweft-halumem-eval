@@ -1,0 +1,17 @@
+{
+  "content": "No, memories show continued preference for fictional narratives.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 622,
+    "total_tokens": 633,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

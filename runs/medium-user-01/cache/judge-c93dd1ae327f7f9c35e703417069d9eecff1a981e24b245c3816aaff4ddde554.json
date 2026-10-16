@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The first extracted memory fully covers the expected memory point: it states the dislike of reptiles (like snakes), the reason (unsettling due to unpredictable movements), and the lack of social behaviors appreciated in pets. All key elements are present.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 1385,
+    "total_tokens": 1454,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

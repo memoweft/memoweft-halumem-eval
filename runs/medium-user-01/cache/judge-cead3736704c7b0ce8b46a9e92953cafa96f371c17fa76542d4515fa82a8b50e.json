@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memory 'I currently have 43700 USD in savings' fully covers the savings amount of 43700 USD. The person name 'Martin Mark' is not explicitly mentioned in the extracted memories, but the savings figure matches exactly. Since the entity name is missing but the key value is correct, this is a partial coverage.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 670,
+    "total_tokens": 763,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update contains two key elements: (1) Martin's emphasis on a job supporting humanitarian care goals, and (2) maintaining a healthy lifestyle. The Generated Memories include multiple entries that capture both elements: finding a job aligned with humanitarian goals (e.g., 'aligns with my humanitarian goals') and maintaining personal well-being/health (e.g., 'maintaining my personal well-being', 'supports my health and goals'). While the name 'Martin' is not explicitly mentioned in the generated memories (likely because the system uses first-person perspective), the core content points about humanitarian goals and healthy lifestyle are all present. The original memory about career change motivation has been effectively superseded by the updated focus on job requirements.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 611,
+    "total_tokens": 778,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories mention the new role, its creative aspect ('The creative aspect of my new role is particularly exciting'), and the potential for impact ('The potential for impact is what drives me', 'I'm ready to make a difference and inspire change'). However, there is no mention of the healthcare sector, nor is the specific combination of leveraging creativity to inspire and innovate in that sector captured. The healthcare sector is a key element of the expected memory point and is entirely missing.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 886,
+    "total_tokens": 1001,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

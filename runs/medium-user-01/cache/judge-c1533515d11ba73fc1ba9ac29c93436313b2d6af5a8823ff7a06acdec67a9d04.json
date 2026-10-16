@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：居住地为Columbus。该信息在对话中明确出现（'I currently live in Columbus'），且与金标准记忆'Martin Mark lives in Columbus'一致，完全被支持，无矛盾或幻觉。该信息点的字段（居住地）也存在于金标准记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1970,
+    "total_tokens": 2076,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 960
+    }
+  }
+}

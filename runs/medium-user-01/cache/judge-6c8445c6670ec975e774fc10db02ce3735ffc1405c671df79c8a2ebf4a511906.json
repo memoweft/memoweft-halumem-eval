@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户明确表示'I plan to prioritize regular exercise and mindfulness, ensuring I take time for self-care amidst work demands'，与候选记忆完全一致。该信息点涉及自我关怀/健康管理的字段，在金标准记忆中对应'Martin Mark values balancing professional responsibilities with health'以及'Martin Mark is committed to improving healthcare access while maintaining his personal health and creativity'等字段，属于健康管理/自我关怀范畴，因此字段匹配为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 5720,
+    "total_tokens": 5857,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

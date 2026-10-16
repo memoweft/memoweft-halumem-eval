@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm excited to see what I can achieve in this new role'表达了Martin对新角色的兴奋和期待，这与对话中用户多次表达的乐观态度（如'I'm excited to see what I can achieve in this new role'原文出现）以及黄金记忆中'Martin feels relief and satisfaction after transitioning to a new role'和'Martin conveyed optimism about pursuing his life goals'等要点一致，信息点完全被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 5044,
+    "total_tokens": 5175,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

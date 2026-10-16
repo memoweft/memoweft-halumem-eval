@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：Martin在团队建设活动中尝试了模拟跳伞。该信息在对话中明确出现（'I recently had an interesting experience at a team-building event where I tried simulated skydiving'），且与金标准记忆'Martin participated in a simulated skydiving experience during a team-building event'完全一致，无任何矛盾或幻觉。字段（活动经历/事件）在金标准记忆中存在，故包含性为true。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3403,
+    "total_tokens": 3537,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

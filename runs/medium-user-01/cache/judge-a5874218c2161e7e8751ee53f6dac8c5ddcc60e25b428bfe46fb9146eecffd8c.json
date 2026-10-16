@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我可以通过工作坊或讨论分享我的经验，鼓励他人探索新视角'在对话中有明确支持：用户在[Jul 14, 2026, 19:25:05]说'我可以通过工作坊或讨论分享我的经验，鼓励他人探索新视角'。该信息点涉及'分享经验/鼓励他人探索新视角'的字段，与金标准记忆中'Martin分享了从拥抱新视角中获得个人成长的经验'相关联，属于同一语义维度（个人成长/新视角探索），因此字段匹配成立。内容与对话完全一致，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 6404,
+    "total_tokens": 6576,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'having pets around has been a great source of comfort and relaxation for me'与对话中用户原话'True, having pets around has been a great source of comfort and relaxation for me'完全一致，且与金标准记忆'Martin finds comfort and relaxation in having pets, particularly Golden Retrievers, which provide emotional support and companionship'语义一致，完全被支持，无矛盾。字段'宠物带来的舒适与放松'在金标准中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3401,
+    "total_tokens": 3535,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2368
+    }
+  }
+}

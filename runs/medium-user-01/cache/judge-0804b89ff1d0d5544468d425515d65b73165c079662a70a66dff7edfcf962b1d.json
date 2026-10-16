@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆仅包含一个信息点：用户喜欢自然徒步（nature hikes）及其原因。该内容在对话中明确出现（'I like nature hikes, because Nature hikes allow me to connect with the environment and enjoy the tranquility, which is a perfect escape from my busy work life.'），且与金标准记忆'Martin Mark Travel styles I like: Nature hikes'及其原因完全一致，无任何矛盾或幻觉内容。字段'旅行偏好'也存在于金标准记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 4682,
+    "total_tokens": 4819,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

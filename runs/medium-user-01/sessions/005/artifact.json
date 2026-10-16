@@ -1,0 +1,317 @@
+{
+  "start_time": "Jan 10, 2026, 07:21:20",
+  "end_time": "Jan 10, 2026, 08:11:20",
+  "memory_points_count": 7,
+  "memory_points": [
+    {
+      "index": 1,
+      "memory_content": "Martin's mental health is mildly abnormal due to the pressures of his role as director at Huaxin Consulting.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark's mental health condition: Mildly Abnormal"
+      ],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I work at Huaxin Consulting as a director.\n记忆：In terms of mental health, I am Mildly Abnormal. No mental health issues.\n记忆：My experience at Huaxin Consulting has taught me the importance of aligning work with personal values.\n记忆：I want to ensure the role supports my health and goals.\n记忆：I dislike gambling games, I steer clear of gambling games because they can lead to addiction and financial stress, which are detrimental to mental health."
+      ]
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin is considering a career change to improve his mental health and find a role that aligns with his personal and professional goals.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin Mark is considering a career change due to health impacts from his current role."
+      ],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I'm considering a career change to improve my mental health.\n记忆：My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being.\n记忆：I believe finding a role that aligns with my personal and professional goals could offer a healthier work-life balance.\n记忆：It's crucial for me to find a role that aligns with my values and supports my well-being.\n记忆：I'm looking for a position that better aligns with my life goals and promotes personal well-being."
+      ]
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin is motivated by humanitarian care goals and is exploring roles in non-profit organizations focused on healthcare access.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin's recent change in pet preference from Labradors to Golden Retrievers reflects his openness to new experiences.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin has modified his pet preference from Labradors to Golden Retrievers due to their gentle nature and adaptability."
+      ],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.\n记忆：I've always valued adaptability in pets, and Golden Retrievers seem to embody that trait well.\n记忆：It's important for me to be in a place where my ideas can contribute to meaningful change.\n记忆：I think this change is a step towards exploring new interactions and experiences.\n记忆：I aim to learn from others' experiences and seek mentorship to guide my path."
+      ]
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin is exploring job opportunities that can provide a healthier work-life balance, focusing on flexibility and alignment with his values.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Martin aims to find a job that better aligns with his personal well-being and career goals."
+      ],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：I believe finding a role that aligns with my personal and professional goals could offer a healthier work-life balance.\n记忆：My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being.\n记忆：It's crucial for me to find a role that aligns with my values and supports my well-being.\n记忆：My name is Martin Mark, and I am a Male.\n记忆：I think a job that offers flexibility would help me manage both my professional responsibilities and personal well-being."
+      ]
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin expressed optimism about integrating his new pet preference into his daily life, seeing it as a way to help manage stress.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 0.75
+    },
+    {
+      "memory_content": "Martin expressed skepticism about integrating his new pet preference into his daily life.",
+      "memory_type": "Event Memory",
+      "reason": "This interference memory point contrasts with Martin's optimism by introducing doubt, which is a logical but incorrect twist on his expressed attitude.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin expressed optimism about integrating his new pet preference into his daily life.",
+      "reference_memory_index": 6,
+      "reference_memory_type": "Event Memory",
+      "index": 7,
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "importance": 1.0
+    }
+  ],
+  "dialogue_turn_num": 15,
+  "dialogue": [
+    {
+      "role": "user",
+      "content": "Lately, I've been feeling the weight of my role as director at Huaxin Consulting. The mental strain is starting to affect me, and I'm considering a career change to improve my mental health.",
+      "timestamp": "Jan 10, 2026, 07:21:20",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "It's understandable that the pressures of such a demanding role could impact your mental health, especially when it's mildly abnormal. Considering a career change to improve your well-being is a significant step. Balancing professional responsibilities with health is crucial, and your motivation to pursue humanitarian care goals aligns well with this. It's also interesting how your recent change in pet preference from Labradors to Golden Retrievers reflects your openness to new experiences. However, I remember you expressing skepticism about integrating this new preference into your daily life. How do you see these changes contributing to your overall well-being?",
+      "timestamp": "Jan 10, 2026, 07:21:20",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "user",
+      "content": "I believe finding a role that aligns with my personal and professional goals could offer a healthier work-life balance. I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.",
+      "timestamp": "Jan 10, 2026, 07:23:11",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "Your optimism about integrating new experiences, such as your preference for Golden Retrievers, is a positive sign of your adaptability. Exploring job opportunities that provide a healthier work-life balance is a wise move. It's essential to find a position that not only supports your humanitarian goals but also allows you to maintain your mental health. Your openness to change and new experiences is a strength that can guide you in your career transition. Have you identified any specific roles or industries that might align with your aspirations?",
+      "timestamp": "Jan 10, 2026, 07:23:11",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "user",
+      "content": "I've been considering roles in non-profit organizations focused on healthcare access. They align with my desire to improve healthcare for underserved communities.",
+      "timestamp": "Jan 10, 2026, 07:28:06",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Non-profit organizations dedicated to healthcare access seem like a perfect fit for your humanitarian goals. Your background in public health and your innovative spirit could make a significant impact in such roles. It's important to ensure that these roles also support your mental health and provide the balance you're seeking. While you're exploring these opportunities, remember to consider how your new pet preference might play a role in your daily routine. Though you expressed skepticism about fully integrating this preference, it could be a source of comfort and stability. How do you envision balancing these professional and personal aspects?",
+      "timestamp": "Jan 10, 2026, 07:28:06",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "user",
+      "content": "I think a job that offers flexibility would help me manage both my professional responsibilities and personal well-being. Pets can definitely provide emotional support, which is valuable.",
+      "timestamp": "Jan 10, 2026, 07:30:21",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Flexibility in a job is indeed crucial for managing both professional and personal aspects of life. Pets, like your preferred Golden Retrievers, can offer significant emotional support and help in maintaining mental well-being. Your ability to adapt and embrace new experiences, even amidst skepticism, is commendable. As you continue to explore job opportunities, consider how these elements can contribute to a fulfilling career and a balanced life. Have you thought about how your skills in debate and active thinking could enhance your contributions in a new role?",
+      "timestamp": "Jan 10, 2026, 07:30:21",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Yes, I believe my skills in debate and active thinking could be beneficial in advocating for healthcare initiatives. It's about finding the right platform to use them effectively.",
+      "timestamp": "Jan 10, 2026, 07:35:14",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "Your skills in debate and active thinking are indeed powerful tools for advocating healthcare initiatives. Finding the right platform to utilize these skills will amplify your impact. As you seek roles that align with your goals, consider how your empathetic nature can further enhance your advocacy. Balancing this with your mental health needs, and possibly the calming presence of a pet, will create a holistic approach to your career and personal life. Have you considered how your experiences at Huaxin Consulting might inform your future decisions?",
+      "timestamp": "Jan 10, 2026, 07:35:14",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "user",
+      "content": "My experience at Huaxin Consulting has taught me the importance of aligning work with personal values. It's a lesson I'll carry forward.",
+      "timestamp": "Jan 10, 2026, 07:37:21",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "The lesson of aligning work with personal values is invaluable. Your time at Huaxin Consulting has provided you with insights that will guide your future decisions. As you transition to a new role, remember the importance of finding a position that supports your humanitarian goals and mental health. The skepticism you felt about integrating new experiences, like your pet preference change, can be a reminder to approach changes with an open mind. What steps are you planning to take next in your career exploration?",
+      "timestamp": "Jan 10, 2026, 07:37:21",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "user",
+      "content": "I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals. It's a step towards finding the right fit.",
+      "timestamp": "Jan 10, 2026, 07:43:11",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "Networking with professionals in the non-profit sector is a strategic step towards finding roles that align with your goals. Engaging with like-minded individuals can provide insights and opportunities that resonate with your aspirations. As you embark on this journey, your openness to new experiences, even amidst skepticism, will serve you well. Consider how your innovative spirit and empathetic nature can enrich your interactions and lead to meaningful connections. How do you plan to leverage these interactions to further your career objectives?",
+      "timestamp": "Jan 10, 2026, 07:43:11",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "user",
+      "content": "I aim to learn from others' experiences and seek mentorship to guide my path. It's about building a support system that aligns with my vision.",
+      "timestamp": "Jan 10, 2026, 07:46:29",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Seeking mentorship and learning from others' experiences is a wise approach to building a support system aligned with your vision. Mentors can offer guidance and perspective, helping you navigate your career transition. Your ability to adapt and embrace new experiences, despite initial skepticism, will be an asset in these relationships. As you build this support system, consider how your humanitarian care goals and mental health priorities can shape your path. What qualities are you looking for in a mentor to support your journey?",
+      "timestamp": "Jan 10, 2026, 07:46:29",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "user",
+      "content": "I'm looking for a mentor who values innovation and empathy, qualities that resonate with my own approach to healthcare.",
+      "timestamp": "Jan 10, 2026, 07:48:34",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "Finding a mentor who values innovation and empathy will complement your approach to healthcare and support your career goals. Such a mentor can provide valuable insights and encouragement as you navigate new opportunities. Your openness to new experiences, even when met with skepticism, demonstrates your willingness to grow and adapt. As you continue your search, consider how your experiences and skills can contribute to a collaborative mentoring relationship. How do you envision this mentorship influencing your career trajectory?",
+      "timestamp": "Jan 10, 2026, 07:48:34",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "user",
+      "content": "I envision mentorship providing guidance and helping me refine my skills to make a more significant impact in healthcare.",
+      "timestamp": "Jan 10, 2026, 07:50:09",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Mentorship can indeed provide the guidance and skill refinement needed to make a significant impact in healthcare. With your innovative spirit and empathetic approach, you have the potential to drive meaningful change. As you pursue this path, remember the importance of balancing professional responsibilities with mental health. Your skepticism about integrating new experiences, like your pet preference, can be an opportunity to embrace growth and adaptability. What strategies do you plan to implement to maintain this balance as you move forward?",
+      "timestamp": "Jan 10, 2026, 07:50:09",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "user",
+      "content": "I plan to prioritize self-care and set boundaries to ensure I maintain a healthy balance. It's crucial for sustaining my well-being.",
+      "timestamp": "Jan 10, 2026, 07:52:13",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Prioritizing self-care and setting boundaries are essential strategies for maintaining a healthy balance. These practices will support your well-being and enable you to sustain your efforts in healthcare. Your openness to new experiences, despite initial skepticism, can enhance your ability to adapt and thrive. As you implement these strategies, consider how your humanitarian care goals and career aspirations can align with your personal health priorities. How do you see these strategies influencing your daily routine and overall satisfaction?",
+      "timestamp": "Jan 10, 2026, 07:52:13",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "user",
+      "content": "I believe these strategies will help me manage stress and increase my overall satisfaction by aligning my work with my values.",
+      "timestamp": "Jan 10, 2026, 08:04:17",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Aligning your work with your values is a powerful way to manage stress and increase overall satisfaction. By prioritizing self-care and setting boundaries, you create a foundation for sustainable success. Your willingness to embrace new experiences, even amidst skepticism, reflects your commitment to personal growth. As you continue to explore career opportunities, remember the importance of finding roles that support your humanitarian care goals and mental health. What additional steps might you take to ensure your career aligns with your values?",
+      "timestamp": "Jan 10, 2026, 08:04:17",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "user",
+      "content": "I'll continue to evaluate opportunities critically and ensure they align with both my professional goals and personal well-being.",
+      "timestamp": "Jan 10, 2026, 08:05:39",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "Critically evaluating opportunities to ensure alignment with your professional goals and personal well-being is a thoughtful approach. This process will help you identify roles that truly resonate with your aspirations. Your ability to adapt and embrace new experiences, despite skepticism, will guide you in making informed decisions. As you navigate this journey, consider how your skills, values, and experiences can shape your career path. How do you envision your ideal role contributing to your long-term goals?",
+      "timestamp": "Jan 10, 2026, 08:05:39",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "user",
+      "content": "My ideal role would allow me to contribute to healthcare initiatives while maintaining a balanced and fulfilling life.",
+      "timestamp": "Jan 10, 2026, 08:08:02",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "An ideal role that allows you to contribute to healthcare initiatives while maintaining balance and fulfillment is certainly achievable. Your humanitarian care goals and commitment to mental health are guiding principles in this pursuit. Embracing new experiences, even when met with skepticism, will enrich your journey and open doors to opportunities that align with your vision. As you continue exploring, consider how each step brings you closer to realizing your long-term goals. What are your next immediate actions to move towards this ideal role?",
+      "timestamp": "Jan 10, 2026, 08:08:02",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "user",
+      "content": "I'll focus on networking, seeking mentorship, and exploring non-profit roles to find the right fit for my aspirations.",
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "dialogue_turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Focusing on networking, seeking mentorship, and exploring non-profit roles are strategic actions that align with your aspirations. These steps will help you connect with opportunities that resonate with your humanitarian care goals and personal well-being. Your openness to new experiences, even amidst skepticism, will enhance your ability to navigate this transition successfully. As you take these steps, remember the importance of maintaining balance and prioritizing your mental health. I look forward to hearing about your progress and supporting you on this journey.",
+      "timestamp": "Jan 10, 2026, 08:11:20",
+      "dialogue_turn": 14
+    }
+  ],
+  "dialogue_token_length": 1837,
+  "extracted_memories": [
+    "I'm considering a career change to improve my mental health.",
+    "I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.",
+    "I believe finding a role that aligns with my personal and professional goals could offer a healthier work-life balance.",
+    "They align with my desire to improve healthcare for underserved communities.",
+    "I've been considering roles in non-profit organizations focused on healthcare access.",
+    "I think a job that offers flexibility would help me manage both my professional responsibilities and personal well-being.",
+    "It's about finding the right platform to use them effectively.",
+    "Yes, I believe my skills in debate and active thinking could be beneficial in advocating for healthcare initiatives.",
+    "My experience at Huaxin Consulting has taught me the importance of aligning work with personal values.",
+    "I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals.",
+    "I aim to learn from others' experiences and seek mentorship to guide my path.",
+    "I'm looking for a mentor who values innovation and empathy, qualities that resonate with my own approach to healthcare.",
+    "I envision mentorship providing guidance and helping me refine my skills to make a more significant impact in healthcare.",
+    "I plan to prioritize self-care and set boundaries to ensure I maintain a healthy balance.",
+    "I believe these strategies will help me manage stress and increase my overall satisfaction by aligning my work with my values.",
+    "I'll continue to evaluate opportunities critically and ensure they align with both my professional goals and personal well-being.",
+    "My ideal role would allow me to contribute to healthcare initiatives while maintaining a balanced and fulfilling life.",
+    "I'll focus on networking, seeking mentorship, and exploring non-profit roles to find the right fit for my aspirations."
+  ],
+  "add_dialogue_duration_ms": 49515.99999994505,
+  "semantic_status": {
+    "state": "ready",
+    "reason": null,
+    "enabled": true,
+    "model_id": "intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3:qint8:mean:l2:512",
+    "threshold": 0.87,
+    "max_additions": 3,
+    "indexed_count": 118,
+    "backfill_complete": true
+  }
+}

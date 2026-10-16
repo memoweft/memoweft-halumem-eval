@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Yes, their insights were really valuable.'直接来自对话中用户的原话（07:17:57），且与黄金记忆中'Martin's friends and colleagues provided support and insights that were instrumental in securing new opportunities'一致，属于对朋友和同事见解价值的肯定，信息点字段（对社交网络/朋友同事见解的评价）在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 5038,
+    "total_tokens": 5156,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

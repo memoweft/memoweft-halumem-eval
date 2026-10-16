@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The first generated memory ('I've been thinking a lot about my movie preferences lately. It seems I've been gravitating more towards fictional narratives that offer a mental escape') captures the key information of the target update: the shift in movie preference from documentaries to fictional narratives that provide a mental escape. The original memory about documentaries is effectively superseded by this new memory.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 683,
+    "total_tokens": 776,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

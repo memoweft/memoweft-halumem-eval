@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin is embracing wellness retreats in his travel preferences due to their shift towards health-focused experiences. The Extracted Memories actually show the opposite: the user has moved away from wellness retreats and is now focused on nature hikes and cultural tours. Multiple extracted memories explicitly state that wellness retreats 'used to' be the preference, and the user is now looking at alternatives. This directly contradicts the expected memory point, making it incorrect rather than merely missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1046,
+    "total_tokens": 1163,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 1024
+    }
+  }
+}

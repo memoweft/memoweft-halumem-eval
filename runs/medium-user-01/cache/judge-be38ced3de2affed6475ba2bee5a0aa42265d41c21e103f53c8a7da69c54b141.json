@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到直接支持：用户在07:43:11明确表示'I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals'，与对话原文完全一致。该信息点涉及的字段（职业探索计划/非营利领域网络）在金标准记忆中已有对应字段（探索非营利组织中的角色、职业变更计划），因此字段匹配为true，且内容无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3880,
+    "total_tokens": 4018,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

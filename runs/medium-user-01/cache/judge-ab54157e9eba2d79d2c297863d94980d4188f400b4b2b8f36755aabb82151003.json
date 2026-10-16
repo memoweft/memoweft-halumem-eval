@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two elements: (1) Martin transitioning to a new role, and (2) Martin feeling relief and satisfaction. The extracted memories clearly cover the transition to a new role ('I've finally transitioned to a new role'). Regarding relief and satisfaction, the memories express gratitude, excitement, feeling that the journey was 'worth it,' finding 'balance,' and that the new role is 'the perfect fit' — these strongly imply satisfaction. Relief is less explicitly stated but is reasonably implied by the improved mental health and the positive framing of the transition. Both elements are covered or strongly implied.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 879,
+    "total_tokens": 1021,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

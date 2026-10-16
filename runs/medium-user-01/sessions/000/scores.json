@@ -1,0 +1,353 @@
+{
+  "memory_integrity_records": [
+    {
+      "index": 2,
+      "memory_content": "Martin Mark's gender is Male",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin Mark lives in Columbus",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 1,
+      "memory_content": "User's name is Martin Mark",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin Mark's birth date is 1996-08-02",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin Mark's highest education level is Bachelor",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin Mark's age in January 2025 is 29 years old",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 7,
+      "memory_content": "Martin Mark's major is Public Health",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 8,
+      "memory_content": "Martin Mark's MBTI personality type is ENTP",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 9,
+      "memory_content": "Martin Mark's personality tags include: Innovative Spirit, Active Thinking, Debate Skills, Empathetic",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 11,
+      "memory_content": "Martin Mark's partner status: no_relationship",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 12,
+      "memory_content": "Martin Mark's child status: No children",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    },
+    {
+      "index": 13,
+      "memory_content": "Martin Mark's life goal statement: Establish a global health initiative to improve access to healthcare for underserved communities.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 0
+    },
+    {
+      "index": 15,
+      "memory_content": "Martin Mark's target metrics: Provide healthcare access to 1 million people in underserved areas.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 0
+    },
+    {
+      "index": 14,
+      "memory_content": "Martin Mark's motivation for pursuing goals: Inspired by his family's medical background and a desire to promote well-being globally.",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 1
+    },
+    {
+      "index": 10,
+      "memory_content": "Martin Mark's parent status: Both parents are alive",
+      "memory_type": "Persona Memory",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Sep 04, 2025, 21:12:18",
+      "event_source": 0,
+      "importance": 0.75,
+      "memory_source": "system",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_integrity_score": 2
+    }
+  ],
+  "memory_accuracy_records": [
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "My name is Martin Mark, and I am a Male.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "I was born on 1996-08-02, and I am now 29 years old.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "My Father was born on 1963-08-02, Retired doctor who inspired Martin's interest in health.",
+      "memory_accuracy_score": 1,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "My highest education level is Bachelor, and my major is Public Health.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "My Mother was born on 1963-08-02, Nurse with a passion for community health.",
+      "memory_accuracy_score": 1,
+      "is_included_in_golden_memories": "false"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "I currently live in Columbus.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "Both parents are alive, no_relationship, No children.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "Friends usually describe me with these words: Innovative Spirit, Active Thinking, Debate Skills, Empathetic.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    },
+    {
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "memory_content": "According to the MBTI test, my personality type is ENTP.",
+      "memory_accuracy_score": 2,
+      "is_included_in_golden_memories": "true"
+    }
+  ],
+  "memory_update_records": [],
+  "question_answering_records": [
+    {
+      "question": "What is Martin Mark's birth date?",
+      "answer": "1996-08-02",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's birth date is 1996-08-02",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "easy",
+      "question_type": "Basic Fact Recall",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.000000013969839,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Not mentioned in memories.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "result_type": "Omission"
+    },
+    {
+      "question": "Did Martin Mark establish a global health initiative with his partner in 2025?",
+      "answer": "Martin Mark has no partner; he aims to establish a health initiative.",
+      "evidence": [
+        {
+          "memory_content": "Martin Mark's partner status: no_relationship",
+          "memory_type": "Persona Memory"
+        },
+        {
+          "memory_content": "Martin Mark's life goal statement: Establish a global health initiative to improve access to healthcare for underserved communities.",
+          "memory_type": "Persona Memory"
+        }
+      ],
+      "difficulty": "medium",
+      "question_type": "Memory Conflict",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 0.0,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "No, there is no such memory.",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "result_type": "Omission"
+    },
+    {
+      "question": "What is Martin Mark's middle name?",
+      "answer": "Unknown; not provided by the user.",
+      "evidence": [],
+      "difficulty": "easy",
+      "question_type": "Memory Boundary",
+      "context": "记忆：My name is Martin Mark, and I am a Male.",
+      "search_duration_ms": 15.999999945051968,
+      "selected_item_ids": [
+        [
+          "cognition",
+          "cognition-543653dc1ab4cd258d54cce8816008bc2075aa19e70b22be6d331b33ba2f03b5"
+        ]
+      ],
+      "system_response": "Mark",
+      "uuid": "2f1f897e-d67f-dbc5-6a7b-b7634a9e294f",
+      "ssession_id": 0,
+      "result_type": "Hallucination"
+    }
+  ]
+}

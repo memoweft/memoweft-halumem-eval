@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'我相信它们将帮助我保持适应性并对新机会持开放态度，支持我的成长'与对话中用户所说'I believe they'll help me remain adaptable and open to new opportunities, supporting my growth'完全一致，且与黄金记忆中'Martin分享了拥抱新视角带来个人成长的经验'及'Martin不断演进的游戏偏好反映了他对新体验的开放态度和个人成长'相吻合，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 6405,
+    "total_tokens": 6534,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

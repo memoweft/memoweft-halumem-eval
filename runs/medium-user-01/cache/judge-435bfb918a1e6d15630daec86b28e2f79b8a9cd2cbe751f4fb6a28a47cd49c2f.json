@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories capture the team-building event and simulated skydiving experience, and mention being more open to trying new things and enjoying the thrill. However, the expected memory point specifically mentions a 'shift in his sports preferences' and 'embracing extreme sports' — the extracted memories don't explicitly frame this as a change in sports preferences or use the term 'extreme sports.' The shift toward thrill-seeking and openness to new activities is implied but not explicitly stated as a sports preference change.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 733,
+    "total_tokens": 851,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 704
+    }
+  }
+}

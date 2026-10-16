@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含三个信息点：'Both parents are alive'对应黄金记忆'Martin Mark's parent status: Both parents are alive'；'no_relationship'对应'Martin Mark's partner status: no_relationship'；'No children'对应'Martin Mark's child status: No children'。三个信息点均被黄金记忆完全支持，无矛盾或幻觉内容，且所有字段均存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1975,
+    "total_tokens": 2097,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 960
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢摔跤（wrestling），原因是觉得摔跤太具对抗性，更喜欢强调团队合作和个人成长的运动。该信息点在对话中明确出现（'I dislike wrestling, because I find wrestling too confrontational and prefer sports that emphasize teamwork and personal growth.'），且与金标准记忆'Martin Mark Sports I dislike: Wrestling'及其理由完全一致，无任何矛盾或幻觉。字段为运动偏好（Sports Preference），在金标准记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4671,
+    "total_tokens": 4813,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

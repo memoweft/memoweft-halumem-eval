@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：1) 对探索新文化的期待；2) 与自然连接的期待。对话中用户明确表示'I'm excited about the opportunity to explore new cultures and connect with nature'，且黄金记忆中包含'Martin is exploring nature hikes and cultural tours as alternatives'以及'travel preferences are evolving to focus on activities that support his health and humanitarian goals'，涵盖文化探索和自然连接的字段。所有信息点均有支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 4785,
+    "total_tokens": 4920,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

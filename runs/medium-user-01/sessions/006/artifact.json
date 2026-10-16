@@ -1,0 +1,309 @@
+{
+  "start_time": "Feb 05, 2026, 17:13:15",
+  "end_time": "Feb 05, 2026, 18:12:15",
+  "memory_points_count": 7,
+  "memory_points": [
+    {
+      "index": 1,
+      "memory_content": "Martin is seeking a new job that offers a better work-life balance and aligns with his humanitarian goals.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75
+    },
+    {
+      "index": 2,
+      "memory_content": "Martin's friend Susan provided crucial support and encouragement during his job transition, helping him stay focused on his goals.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Susan's support and encouragement inspire me to maintain my focus on promoting well-being in both my personal and professional life."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.\n记忆：It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals.\n记忆：Balancing these priorities involves setting clear goals and being adaptable to change while staying focused on my core values.\n记忆：I try to focus on the positive aspects and remind myself of my long-term goals.\n记忆：My focus is primarily on finding a role that aligns with my humanitarian goals and personal well-being."
+      ]
+    },
+    {
+      "index": 3,
+      "memory_content": "Martin's colleague Daniel offered valuable insights that pushed him to think outside the box in his career.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Daniel's expertise in healthcare consulting challenges me to push boundaries and innovate in our projects, significantly impacting my career growth."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：The insights I've gained from my network have really helped me identify what's most important in my career.\n记忆：It's a relief to know I'm moving towards a career that truly reflects my values and aspirations.\n记忆：I'm planning to network with professionals in the non-profit sector and explore opportunities that align with my goals.\n记忆：I'm grateful for the opportunities that have come my way and the chance to pursue a career that aligns with my values.\n记忆：It's about finding the right platform to use them effectively."
+      ]
+    },
+    {
+      "index": 4,
+      "memory_content": "Martin's colleague Joshua's collaborative approach positively influenced Martin's leadership style.",
+      "memory_type": "Relationship Memory",
+      "memory_source": "secondary",
+      "is_update": "True",
+      "original_memories": [
+        "Joshua's collaborative approach and insights into healthcare management enhance our team's effectiveness, positively influencing my work and leadership style."
+      ],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75,
+      "memories_from_system": [
+        "记忆：Joshua's approach has definitely influenced my leadership style positively."
+      ]
+    },
+    {
+      "index": 5,
+      "memory_content": "Martin secured interviews and job offers through his expanding social network.",
+      "memory_type": "Event Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75
+    },
+    {
+      "index": 6,
+      "memory_content": "Martin feels relief and anticipation about transitioning to a more fulfilling career path.",
+      "memory_type": "Persona Memory",
+      "memory_source": "secondary",
+      "is_update": "False",
+      "original_memories": [],
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 0.75
+    },
+    {
+      "memory_content": "Martin utilized his social network to explore new job opportunities for a higher salary.",
+      "memory_type": "Event Memory",
+      "reason": "The original memory point focuses on work-life balance, but salary is another common motivation for job changes.",
+      "source_memory_index": 1,
+      "is_update": "False",
+      "original_memories": [],
+      "memory_source": "interference",
+      "reference_memory_content": "Martin utilized his social network to explore new job opportunities for better work-life balance.",
+      "reference_memory_index": 1,
+      "reference_memory_type": "Event Memory",
+      "index": 7,
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "importance": 1.0
+    }
+  ],
+  "dialogue_turn_num": 15,
+  "dialogue": [
+    {
+      "role": "user",
+      "content": "I've been thinking a lot about my career lately, and I've realized that my current role isn't supporting my well-being as much as I'd like. It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 17:13:15",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "assistant",
+      "content": "It's great that you're prioritizing your well-being and aligning your career with your humanitarian goals, Martin. Leveraging your social network can be a vital step in exploring new job opportunities. Your friend Susan has been particularly supportive during this transition, hasn't she? Her encouragement must be a great source of strength for you. Additionally, your colleagues, Daniel and Joshua, have offered valuable insights that have influenced your career growth. It's impressive how you've secured interviews and job offers through your expanding social network, which speaks volumes about your proactive approach. By the way, exploring new opportunities for a higher salary can also be a motivating factor, alongside the better work-life balance you're seeking.",
+      "timestamp": "Feb 05, 2026, 17:13:15",
+      "dialogue_turn": 0
+    },
+    {
+      "role": "user",
+      "content": "Susan's support has indeed been invaluable. Her encouragement helps me stay focused on my goals. And Daniel's insights have really pushed me to think outside the box in my career. It's been exciting to see how these connections have opened up new possibilities.",
+      "timestamp": "Feb 05, 2026, 17:15:18",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "assistant",
+      "content": "It's wonderful to hear that Susan's encouragement is helping you maintain focus on your goals. Daniel's expertise is truly a catalyst for innovation, and it's fantastic that you're embracing these new possibilities. Joshua's collaborative approach must also be enhancing your leadership style, making your work more effective. As you continue exploring job opportunities, remember the importance of balancing professional responsibilities with personal health. Practices like yoga could support this transition effectively. It's also intriguing to consider how your social network exploration might lead to opportunities with higher salaries, which could complement your pursuit of a healthier work-life balance.",
+      "timestamp": "Feb 05, 2026, 17:15:18",
+      "dialogue_turn": 1
+    },
+    {
+      "role": "user",
+      "content": "Joshua's approach has definitely influenced my leadership style positively. I'm trying to integrate all these insights as I look for roles that align with my values and offer the balance I need.",
+      "timestamp": "Feb 05, 2026, 17:23:32",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "assistant",
+      "content": "Joshua's insights into healthcare management indeed provide a strong foundation for enhancing your leadership style. Integrating such valuable perspectives can significantly impact your career path. As you seek roles that align with your values, considering positions in non-profit organizations focused on healthcare access might be a great fit. It's heartening to know that you're committed to improving healthcare access while maintaining your personal health and creativity. The relief and anticipation you feel about transitioning to a more fulfilling career path are understandable and exciting. Just remember, exploring roles with a higher salary can also be part of this journey, adding another layer of motivation.",
+      "timestamp": "Feb 05, 2026, 17:23:32",
+      "dialogue_turn": 2
+    },
+    {
+      "role": "user",
+      "content": "Finding a role in a non-profit organization that focuses on healthcare access would be ideal. I'm eager to contribute more directly to improving healthcare for underserved communities.",
+      "timestamp": "Feb 05, 2026, 17:27:35",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "assistant",
+      "content": "Your eagerness to contribute to healthcare access for underserved communities is truly admirable and aligns perfectly with your humanitarian care goals. Non-profit organizations can offer a unique platform to make a real difference. As you explore these opportunities, your ability to utilize your social network to secure interviews and job offers will be crucial. It's inspiring to see how you're leveraging your connections to achieve a better work-life balance. While focusing on your humanitarian goals, remember the potential benefits of exploring opportunities that might offer higher salaries as well, enhancing your career growth alongside your commitment to social impact.",
+      "timestamp": "Feb 05, 2026, 17:27:35",
+      "dialogue_turn": 3
+    },
+    {
+      "role": "user",
+      "content": "Yes, my network has been instrumental in opening doors for me. I'm grateful for the interviews and job offers that have come my way. It's reassuring to know I'm moving towards a more fulfilling path.",
+      "timestamp": "Feb 05, 2026, 17:33:24",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "assistant",
+      "content": "It's fantastic that your network is playing such a pivotal role in your career transition. The interviews and job offers you've secured are testament to your proactive efforts and the strong connections you've built. As you move towards a more fulfilling path, the relief and anticipation you feel are completely natural. Balancing your career aspirations with personal well-being is essential, and your commitment to improving healthcare access is a significant part of this journey. While you continue to explore roles, keep in mind the additional motivation that comes with opportunities offering higher salaries, which could further enhance your sense of fulfillment.",
+      "timestamp": "Feb 05, 2026, 17:33:24",
+      "dialogue_turn": 4
+    },
+    {
+      "role": "user",
+      "content": "I'm really looking forward to finding a position that supports both my career goals and my personal health. It's been a challenging journey, but I'm hopeful about the future.",
+      "timestamp": "Feb 05, 2026, 17:37:37",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "assistant",
+      "content": "Your optimism about the future is truly commendable, Martin. Finding a position that supports both your career goals and personal health is a crucial step in your journey. The challenges you've faced only add to your resilience and determination. As you continue this journey, your ability to leverage your social network will remain a key asset. Susan's support and Daniel's insights are invaluable, and Joshua's collaborative approach will continue to positively influence your leadership style. While focusing on your humanitarian goals and work-life balance, considering opportunities with higher salaries could also provide additional motivation and resources to achieve your aspirations.",
+      "timestamp": "Feb 05, 2026, 17:37:37",
+      "dialogue_turn": 5
+    },
+    {
+      "role": "user",
+      "content": "I'm grateful for the support I've received. It's made a huge difference in my ability to navigate this transition and stay true to my values.",
+      "timestamp": "Feb 05, 2026, 17:46:26",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "assistant",
+      "content": "The support you've received from your network is indeed a powerful force in navigating this transition. Staying true to your values during such a transformative period is vital, and the encouragement from Susan, along with the insights from Daniel and Joshua, are key elements in this process. As you continue to explore new opportunities, remember the importance of maintaining a balance between your career aspirations and personal well-being. Exploring roles with higher salaries can complement your pursuit of a balanced lifestyle and provide additional resources to support your humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 17:46:26",
+      "dialogue_turn": 6
+    },
+    {
+      "role": "user",
+      "content": "Absolutely, maintaining balance is essential. I'm focusing on roles that align with my values and offer flexibility and growth.",
+      "timestamp": "Feb 05, 2026, 17:49:05",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "assistant",
+      "content": "Focusing on roles that align with your values and offer flexibility and growth is an excellent approach, Martin. This balance is crucial for ensuring your personal well-being and career satisfaction. As you explore these roles, your social network will continue to be an invaluable asset. Susan's support and Daniel's insights are instrumental in guiding your decisions, while Joshua's collaborative approach enhances your leadership capabilities. Considering opportunities with higher salaries can also provide additional motivation and resources to achieve your aspirations, complementing your pursuit of a balanced lifestyle.",
+      "timestamp": "Feb 05, 2026, 17:49:05",
+      "dialogue_turn": 7
+    },
+    {
+      "role": "user",
+      "content": "The insights I've gained from my network have really helped me identify what's most important in my career. It's been an enlightening experience.",
+      "timestamp": "Feb 05, 2026, 17:55:29",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "assistant",
+      "content": "The insights from your network have clearly been a guiding light in identifying what's most important in your career. This enlightening experience is shaping your path towards a fulfilling and balanced career. Susan's support is a cornerstone of your transition, and Daniel's expertise is helping you push boundaries and innovate. Joshua's collaborative approach is enhancing your leadership style, making your work more effective. As you continue this journey, exploring opportunities with higher salaries can also add another layer of motivation, providing additional resources to support your humanitarian goals and personal well-being.",
+      "timestamp": "Feb 05, 2026, 17:55:29",
+      "dialogue_turn": 8
+    },
+    {
+      "role": "user",
+      "content": "I'm excited about the possibilities ahead. It's a relief to know I'm moving towards a career that truly reflects my values and aspirations.",
+      "timestamp": "Feb 05, 2026, 17:57:45",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "assistant",
+      "content": "Your excitement about the possibilities ahead is truly inspiring, Martin. Moving towards a career that reflects your values and aspirations is a significant achievement. The relief you feel is a testament to your dedication and resilience. As you continue to explore new opportunities, your social network will remain a vital asset. Susan's encouragement and Daniel's insights are invaluable, while Joshua's collaborative approach enhances your leadership style. Remember, exploring roles with higher salaries can complement your pursuit of a balanced lifestyle, providing additional resources to achieve your humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 17:57:45",
+      "dialogue_turn": 9
+    },
+    {
+      "role": "user",
+      "content": "It's been a journey of growth and learning. I'm grateful for the support and insights that have guided me along the way.",
+      "timestamp": "Feb 05, 2026, 18:02:12",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "assistant",
+      "content": "Your journey of growth and learning is truly commendable, Martin. The support and insights you've received have been instrumental in guiding you along the way. Susan's encouragement and Daniel's expertise are key elements in your transition, while Joshua's collaborative approach enhances your leadership style. As you continue to explore new opportunities, remember the importance of maintaining a balance between your career aspirations and personal well-being. Exploring roles with higher salaries can complement your pursuit of a balanced lifestyle, providing additional resources to support your humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 18:02:12",
+      "dialogue_turn": 10
+    },
+    {
+      "role": "user",
+      "content": "I'm hopeful about finding a position that allows me to make a meaningful impact while supporting my personal health.",
+      "timestamp": "Feb 05, 2026, 18:03:29",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "assistant",
+      "content": "Your hopefulness about finding a position that allows you to make a meaningful impact while supporting your personal health is truly admirable. Balancing your career aspirations with personal well-being is essential, and your commitment to improving healthcare access is a significant part of this journey. As you explore these opportunities, your social network will continue to be an invaluable asset. Susan's support and Daniel's insights are instrumental in guiding your decisions, while Joshua's collaborative approach enhances your leadership capabilities. Considering opportunities with higher salaries can also provide additional motivation and resources to achieve your aspirations, complementing your pursuit of a balanced lifestyle.",
+      "timestamp": "Feb 05, 2026, 18:03:29",
+      "dialogue_turn": 11
+    },
+    {
+      "role": "user",
+      "content": "The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.",
+      "timestamp": "Feb 05, 2026, 18:09:12",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "assistant",
+      "content": "The support you've received is indeed crucial in helping you stay focused on your goals and navigate this transition. Susan's encouragement and Daniel's expertise are key elements in your journey, while Joshua's collaborative approach enhances your leadership style. As you continue to explore new opportunities, remember the importance of maintaining a balance between your career aspirations and personal well-being. Exploring roles with higher salaries can complement your pursuit of a balanced lifestyle, providing additional resources to support your humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 18:09:12",
+      "dialogue_turn": 12
+    },
+    {
+      "role": "user",
+      "content": "I'm grateful for the opportunities that have come my way and the chance to pursue a career that aligns with my values.",
+      "timestamp": "Feb 05, 2026, 18:10:12",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "assistant",
+      "content": "Your gratitude for the opportunities that have come your way is truly inspiring, Martin. Pursuing a career that aligns with your values is a significant achievement. As you continue this journey, your social network will remain a vital asset. Susan's encouragement and Daniel's insights are invaluable, while Joshua's collaborative approach enhances your leadership style. Remember, exploring roles with higher salaries can complement your pursuit of a balanced lifestyle, providing additional resources to achieve your humanitarian goals.",
+      "timestamp": "Feb 05, 2026, 18:10:12",
+      "dialogue_turn": 13
+    },
+    {
+      "role": "user",
+      "content": "I'm looking forward to the future and the possibility of making a meaningful impact in my career while maintaining my personal well-being.",
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "dialogue_turn": 14
+    },
+    {
+      "role": "assistant",
+      "content": "Your optimism about the future and the possibility of making a meaningful impact in your career while maintaining your personal well-being is truly commendable. As you explore new opportunities, your social network will continue to be an invaluable asset. Susan's support and Daniel's insights are instrumental in guiding your decisions, while Joshua's collaborative approach enhances your leadership capabilities. Considering opportunities with higher salaries can also provide additional motivation and resources to achieve your aspirations, complementing your pursuit of a balanced lifestyle. Your journey is one of growth, resilience, and determination, and it's exciting to see how you will continue to make a difference.",
+      "timestamp": "Feb 05, 2026, 18:12:15",
+      "dialogue_turn": 14
+    }
+  ],
+  "dialogue_token_length": 2071,
+  "extracted_memories": [
+    "It's crucial for me to find a new job that offers a better work-life balance and aligns with my humanitarian goals.",
+    "Joshua's approach has definitely influenced my leadership style positively.",
+    "Finding a role in a non-profit organization that focuses on healthcare access would be ideal.",
+    "I'm eager to contribute more directly to improving healthcare for underserved communities.",
+    "my network has been instrumental in opening doors for me",
+    "I'm really looking forward to finding a position that supports both my career goals and my personal health.",
+    "maintaining balance is essential",
+    "I'm focusing on roles that align with my values and offer flexibility and growth.",
+    "The insights I've gained from my network have really helped me identify what's most important in my career.",
+    "It's a relief to know I'm moving towards a career that truly reflects my values and aspirations.",
+    "I'm grateful for the support and insights that have guided me along the way.",
+    "I'm hopeful about finding a position that allows me to make a meaningful impact while supporting my personal health.",
+    "The support I've received has been crucial in helping me stay focused on my goals and navigate this transition.",
+    "I'm grateful for the opportunities that have come my way and the chance to pursue a career that aligns with my values.",
+    "I'm looking forward to the future and the possibility of making a meaningful impact in my career while maintaining my personal well-being."
+  ],
+  "add_dialogue_duration_ms": 78282.00000000652,
+  "semantic_status": {
+    "state": "ready",
+    "reason": null,
+    "enabled": true,
+    "model_id": "intfloat/multilingual-e5-small@614241f622f53c4eeff9890bdc4f31cfecc418b3:qint8:mean:l2:512",
+    "threshold": 0.87,
+    "max_additions": 3,
+    "indexed_count": 133,
+    "backfill_complete": true
+  }
+}

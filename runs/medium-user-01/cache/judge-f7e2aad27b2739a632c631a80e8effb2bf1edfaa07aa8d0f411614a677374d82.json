@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Generated Memories do not contain any memory related to Daniel offering valuable insights that pushed Martin to think outside the box. None of the generated memories mention Daniel, his colleague role, or the specific insight about thinking outside the box. The target memory has been completely omitted.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 612,
+    "total_tokens": 686,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

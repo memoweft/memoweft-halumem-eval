@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The expected memory point is 'Martin Mark Beverages I like to drink: Herbal teas'. The extracted memories contain 'I like herbal teas for their calming properties and health benefits, which support my overall well-being.' This fully covers the beverage preference (herbal teas) and the fact that the user likes them. The entity name 'Martin Mark' is not present in the extracted memory, but the core preference for herbal teas is fully captured. Since the key preference element is fully covered, this scores a 2.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1359,
+    "total_tokens": 1482,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 1344
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Reference Answer states 'Choosing challenging physical activities,' and the Key Memory Points emphasize engaging in extreme sports and evolving sports preferences to overcome creative blocks. The Memory System Response ('He'll seek platforms to use his skills effectively') does not mention challenging physical activities, extreme sports, or sports preferences at all. It introduces a different concept (seeking platforms to use skills) that is not supported by the Key Memory Points and does not align with the Reference Answer. This is a contradiction/misalignment with the expected answer rather than a simple omission of a sub-element.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 898,
+    "total_tokens": 1033,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

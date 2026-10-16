@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'成功可以通过获得医疗服务的人数和他们健康状况的改善来衡量'在对话中有直接支持：用户在[20:28:38]明确表示'Success could be measured by the number of people who gain access to healthcare and improvements in their well-being'，与候选记忆完全一致。但该信息点的字段（项目成功衡量标准/指标）在黄金记忆中没有对应字段，黄金记忆主要关注Martin对非暴力动作游戏的兴趣、价值观平衡、个人成长等，不涉及项目成功衡量标准。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 6408,
+    "total_tokens": 6558,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

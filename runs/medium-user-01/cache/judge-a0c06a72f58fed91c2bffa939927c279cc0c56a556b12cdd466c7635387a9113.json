@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm excited to see where this new path will lead me'表达了Martin对新职业道路的乐观与期待，这与对话中'I'm excited to see where this new path will lead me'（08:21:28）完全一致，且与黄金记忆中'Martin conveyed optimism about pursuing his life goals with renewed vigor and creativity'语义相符，属于对新角色/新道路的乐观态度，字段（对新道路/未来的乐观态度）在黄金记忆中有对应，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 5043,
+    "total_tokens": 5191,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4032
+    }
+  }
+}

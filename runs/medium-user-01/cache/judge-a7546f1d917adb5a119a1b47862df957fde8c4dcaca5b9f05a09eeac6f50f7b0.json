@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Balancing relaxation with enrichment is key for me'直接来源于对话中用户原话'Balancing relaxation with enrichment is key for me'（13:03:41），且与黄金记忆中'Martin seeks travel options that balance relaxation with health benefits'等要点语义一致，完全被对话和黄金记忆支持，无矛盾。字段层面，该记忆涉及'旅行偏好/价值观'字段，在黄金记忆中存在对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4780,
+    "total_tokens": 4911,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

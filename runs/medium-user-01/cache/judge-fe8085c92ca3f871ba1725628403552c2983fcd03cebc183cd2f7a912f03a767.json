@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'It's important for me to be in a place where my ideas can contribute to meaningful change'直接来自对话中用户的原话（06:48:23），表达了Martin对工作环境的期望，与黄金记忆中'寻找与个人价值观和改善医疗可及性目标一致的工作'这一字段相吻合，属于工作环境/职业期望字段，完全被对话和黄金记忆支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 5719,
+    "total_tokens": 5845,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin Mark as the person, (2) anecdotes/stories shared, and (3) resolving past conflicts through innovation and teamwork. The Extracted Memories contain references to teamwork and innovation (e.g., 'projects where teamwork led to innovative healthcare solutions', 'fostering a collaborative environment and encouraging innovative problem-solving'), but there is no mention of Martin Mark as the person, no mention of anecdotes being shared, and no mention of resolving past conflicts specifically. The person's name and the specific context of sharing anecdotes about conflict resolution are entirely missing.\",\n  \"score\": \"0\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1206,
+    "total_tokens": 1347,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

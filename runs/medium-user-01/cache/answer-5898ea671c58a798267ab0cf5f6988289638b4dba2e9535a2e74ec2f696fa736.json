@@ -1,0 +1,17 @@
+{
+  "content": "Based on the memories provided, there is no information about Martin's interest in non-violent action games. The memories only mention his interest in health, inspired by his father.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 528,
+    "total_tokens": 564,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

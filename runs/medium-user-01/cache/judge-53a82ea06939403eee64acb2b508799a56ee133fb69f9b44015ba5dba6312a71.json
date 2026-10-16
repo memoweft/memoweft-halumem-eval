@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has three key elements: (1) Martin's motivation, (2) seeking guidance on integrating new herbal tea blends into his lifestyle, and (3) focusing on relaxation and well-being. The Extracted Memories extensively cover elements (2) and (3): there are numerous references to incorporating herbal teas into routine, relaxation, well-being, health goals, and lifestyle integration. However, the name 'Martin' does not appear anywhere in the Extracted Memories, and there is no explicit mention of 'seeking guidance' (the memories read more as personal reflections rather than a request for guidance). Since the person's name (a critical entity field) is missing, but the core substance about integrating herbal teas with a focus on relaxation and well-being is well covered, this warrants a partial coverage score.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 184,
+    "prompt_tokens": 1095,
+    "total_tokens": 1279,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 64
+    }
+  }
+}

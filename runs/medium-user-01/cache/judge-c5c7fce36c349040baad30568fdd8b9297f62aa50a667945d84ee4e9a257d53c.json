@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆提到'apply insights to design projects addressing underserved communities'，对话中用户确实说过'I hope to apply these insights to design more effective projects and initiatives that address the needs of underserved communities'，因此该内容有对话支持。但该记忆的字段（项目设计/服务社区）在黄金记忆中没有对应字段——黄金记忆聚焦于认知发展、非暴力动作游戏、游戏偏好等，不涉及项目设计或服务社区的字段，故is_included为false。同时该记忆与黄金记忆的主题（游戏认知益处）不匹配，属于部分支持但字段不在黄金记忆范围内。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 6409,
+    "total_tokens": 6573,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

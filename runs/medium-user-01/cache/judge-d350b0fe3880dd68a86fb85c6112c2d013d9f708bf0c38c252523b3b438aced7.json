@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Cultural tours and nature hikes fit perfectly into this vision'直接来源于对话中用户原话'I find fulfillment in activities that allow me to learn and grow while staying true to my health-focused lifestyle. Cultural tours and nature hikes fit perfectly into this vision.'，与对话完全一致，无矛盾。该记忆涉及的字段为旅行偏好（nature hikes和cultural tours），在金标准记忆中'Martin is exploring nature hikes and cultural tours as alternatives to wellness retreats'等条目均有对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 4781,
+    "total_tokens": 4922,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

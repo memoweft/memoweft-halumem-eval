@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update contains two key information points: (1) Martin is considering a career change to improve his mental health, and (2) he wants to find a role that aligns with his personal and professional goals. The Generated Memories include the first point directly ('I'm considering a career change to improve my mental health') and the second point across multiple memories ('finding a role that aligns with my humanitarian goals and personal well-being', 'finding a role that aligns with my personal and professional goals', etc.). Together, all information from the target memory is covered. The original memory about health impacts from the current role is effectively superseded. Synonymous expressions are acceptable.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 607,
+    "total_tokens": 765,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm hoping to find similar opportunities in my next role'直接来源于对话中用户原话'I'm hoping to find similar opportunities in my next role'，且与金标准记忆'Martin Mark aims to find a job that better aligns with his personal well-being, humanitarian goals, and career aspirations'及'Martin Mark seeks guidance on pursuing a new job opportunity'语义一致，属于求职期望/职业目标字段，完全被金标准覆盖，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 5712,
+    "total_tokens": 5848,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

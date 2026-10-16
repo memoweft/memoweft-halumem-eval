@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I envision mentorship providing guidance and helping me refine my skills to make a more significant impact in healthcare'在对话中有直接支持：用户在[07:50:09]明确表示'I envision mentorship providing guidance and helping me refine my skills to make a more significant impact in healthcare'。该信息点涉及mentorship期望和career/healthcare目标，这些字段在黄金记忆中均有对应（如探索职业机会、humanitarian care goals等），无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3880,
+    "total_tokens": 4022,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

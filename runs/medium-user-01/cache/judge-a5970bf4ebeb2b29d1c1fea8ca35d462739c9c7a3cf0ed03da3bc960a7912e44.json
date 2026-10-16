@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I'm hopeful about finding a position that allows me to make a meaningful impact while supporting my personal health'包含两个信息点：1) 希望找到能产生有意义影响的职位——与对话中'contributing more directly to improving healthcare for underserved communities'及黄金记忆中的人道主义目标一致；2) 支持个人健康——与对话中'position that supports both my career goals and personal health'一致。两个信息点均被对话和黄金记忆支持，无矛盾或幻觉内容。字段层面，'职业目标/期望'和'个人健康/工作生活平衡'均在黄金记忆中有对应字段。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 4106,
+    "total_tokens": 4278,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3072
+    }
+  }
+}

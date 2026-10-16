@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：出生日期1996-08-02和年龄29岁。两者均与对话及黄金记忆一致（'Martin Mark's birth date is 1996-08-02'，'Martin Mark's age in January 2025 is 29 years old'），无矛盾或幻觉。字段（出生日期、年龄）均存在于黄金记忆中。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1990,
+    "total_tokens": 2118,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

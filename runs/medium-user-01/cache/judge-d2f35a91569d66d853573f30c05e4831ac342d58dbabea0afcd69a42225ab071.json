@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states 'Martin Mark works in the healthcare industry.' The Extracted Memories contain 'I am currently Employed, working in the healthcare industry.' This covers the healthcare industry aspect but does not mention 'Martin Mark' as the person. Since the entity name (Martin Mark) is missing from the extracted memory, only partial coverage is achieved.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 664,
+    "total_tokens": 755,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

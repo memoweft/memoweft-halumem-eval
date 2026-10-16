@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories cover the key elements of the expected memory point: the user wants engaging but not aggressive games (non-violent action games), plans to integrate them into their routine (short sessions during downtime, specific times for gaming), and is optimistic about benefits for cognitive enhancement (boost creativity and problem-solving skills) and relaxation (unwind, complement mental well-being). The optimism is clearly expressed ('I'm hopeful it will boost my creativity...'). All elements are present.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1078,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

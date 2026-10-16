@@ -1,0 +1,22 @@
+test_even_perfect_semantic_nomination_is_blocked_by_name_filter (test_diagnosis.Diagnosis.test_even_perfect_semantic_nomination_is_blocked_by_name_filter) ... expected failure
+test_explicit_travel_alternatives_should_be_retrieved (test_diagnosis.Diagnosis.test_explicit_travel_alternatives_should_be_retrieved) ... expected failure
+test_named_owner_question_should_keep_known_birthday_eligible (test_diagnosis.Diagnosis.test_named_owner_question_should_keep_known_birthday_eligible) ... expected failure
+test_original_name_failure_is_reproduced (test_diagnosis.Diagnosis.test_original_name_failure_is_reproduced) ... ok
+test_stop_should_abort_scoring_instead_of_becoming_invalid_judgement (test_diagnosis.Diagnosis.test_stop_should_abort_scoring_instead_of_becoming_invalid_judgement) ... 
+Memory Integrity Evaluation([1]test): 0it [00:00, ?it/s]
+Memory Integrity Evaluation([1]test): 0it [00:00, ?it/s]
+
+Memory Accuracy Evaluation([1]test): 0it [00:00, ?it/s]
+Memory Accuracy Evaluation([1]test): 0it [00:00, ?it/s]
+
+Memory Update Evaluation([1]test): 0it [00:00, ?it/s]
+Memory Update Evaluation([1]test): 0it [00:00, ?it/s]
+
+Question-Answering Evaluation([1]test):   0%|          | 0/1 [00:00<?, ?it/s]
+Question-Answering Evaluation([1]test): 100%|██████████| 1/1 [00:00<00:00, 998.41it/s]
+expected failure
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.089s
+
+OK (expected failures=4)

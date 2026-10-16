@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'保持动力是关于提醒自己更大的图景'直接来源于对话中用户的原话'I'll track progress by setting milestones and celebrating small victories. Staying motivated is about reminding myself of the bigger picture.'，该信息点在对话中有明确支持，且其字段（保持动力的方式/策略）与黄金记忆中关于Martin Mark职业发展和目标追求的字段相关联。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 5712,
+    "total_tokens": 5828,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

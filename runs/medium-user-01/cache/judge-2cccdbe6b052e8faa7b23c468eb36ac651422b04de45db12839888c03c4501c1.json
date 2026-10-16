@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：'aligning them with my long-term vision and being open to new opportunities'对应对话中用户提到的'align with my long-term vision and being open to new opportunities'，且与黄金记忆中关于Martin Mark追求与价值观和目标一致的职业转变、保持开放心态等内容相符，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 5725,
+    "total_tokens": 5839,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

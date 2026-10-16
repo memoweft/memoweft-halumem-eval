@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points state that Martin Mark's job title is director, and the Reference Answer is 'Director'. The Memory System Response claims there is no information about Martin Mark's job title, which directly contradicts the Key Memory Points that do contain this information. This is a case where relevant information exists in the Key Memory Points but the system explicitly states it cannot find it, which qualifies as Omission rather than Hallucination since no fabricated or contradictory fact was provided.\",\n  \"evaluation_result\": \"Omission\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 870,
+    "total_tokens": 986,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 640
+    }
+  }
+}

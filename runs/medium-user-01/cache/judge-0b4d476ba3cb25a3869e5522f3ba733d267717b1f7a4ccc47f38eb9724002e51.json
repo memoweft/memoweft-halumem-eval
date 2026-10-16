@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'Collaboration is definitely something I value'（重视协作）在对话中有直接支持：用户说'Collaboration is definitely something I value. It has helped me resolve past conflicts through innovation and teamwork.'，且黄金记忆中'Martin Mark shared anecdotes of resolving past conflicts through innovation and teamwork'也涵盖了协作这一主题。该信息点的字段（协作/团队合作价值观）在黄金记忆中存在，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 5707,
+    "total_tokens": 5838,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

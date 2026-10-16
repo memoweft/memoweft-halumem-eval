@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The extracted memories contain the item 'I dislike crowded tourist spots, I avoid crowded tourist spots as they can be overwhelming and stressful, detracting from the enjoyment of travel.' This fully covers the Expected Memory Point regarding Martin Mark's travel style dislike of crowded tourist spots and the exact reason provided.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 1380,
+    "total_tokens": 1458,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到直接支持：用户在07:41:49明确表示'I hope to gain a deeper understanding of different storytelling styles and how they can influence my creativity and problem-solving'，与对话原文完全一致。该信息点涉及的字段（对故事风格的理解、对创造力和问题解决能力的影响）在金标准记忆中均有对应，如'enhancing adaptability and creativity'等。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3621,
+    "total_tokens": 3756,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

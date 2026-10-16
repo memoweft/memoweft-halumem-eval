@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1) 不喜欢汽车赛车；(2) 原因是环境影响和缺乏身体参与。对话中用户明确表示'I dislike automobile racing, I am not fond of automobile racing because of the environmental impact and the lack of physical engagement'，与黄金记忆'Martin Mark Sports I dislike: Automobile racing'及其原因完全一致，无任何矛盾或幻觉。字段属于Sports Preference领域，在黄金记忆中存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 4674,
+    "total_tokens": 4805,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}

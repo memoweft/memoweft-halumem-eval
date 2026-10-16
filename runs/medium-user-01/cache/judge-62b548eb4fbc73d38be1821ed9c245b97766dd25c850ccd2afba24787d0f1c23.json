@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'I appreciate how they can adapt to different situations'表达了Martin欣赏宠物适应不同情况的能力，这与对话中用户多次提到的'I appreciate how they can adapt to different situations'以及金标准记忆'Martin appreciates Golden Retrievers for their calm demeanor and ability to adapt to different situations'和'Martin values adaptability and calm demeanor in pets'完全一致，属于宠物适应性偏好的字段，无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 5456,
+    "total_tokens": 5583,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

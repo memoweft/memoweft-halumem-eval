@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点均可在对话中找到支持：用户在[08:04:17]明确表示'这些策略将帮助我管理压力并提高整体满意度，通过使工作与价值观保持一致'，与对话原文完全一致。该信息点涉及的字段（压力管理、工作与价值观对齐、满意度）均在黄金记忆中有对应字段（如'aligning work with values'、'manage stress'等），因此完全被包含。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3882,
+    "total_tokens": 4017,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2816
+    }
+  }
+}

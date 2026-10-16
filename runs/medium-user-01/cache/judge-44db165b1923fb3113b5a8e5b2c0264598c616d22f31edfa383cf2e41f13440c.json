@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：(1)认可探索新体验的价值——对话中用户多次提到愿意保持开放心态探索新体验；(2)偏好与健康和人道主义目标一致的活动——对话中用户明确表示'I still prefer activities that align with my health and humanitarian goals'，与黄金记忆中'Martin's travel preferences are evolving to focus on activities that support his health and humanitarian goals'一致。所有信息点均有对话和黄金记忆支持，无矛盾。字段（旅行偏好/价值观）在黄金记忆中均存在。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 4793,
+    "total_tokens": 4943,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3776
+    }
+  }
+}

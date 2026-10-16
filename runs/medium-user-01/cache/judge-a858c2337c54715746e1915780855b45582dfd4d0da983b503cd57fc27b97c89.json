@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point has two key elements: (1) Martin's recent pet preference change, and (2) his willingness to try unconventional pet choices. The Extracted Memories contain items like 'I'm optimistic about how this new preference will fit into my life' and 'I think this change is a step towards exploring new interactions and experiences,' which partially cover the idea of a preference change. However, there is no mention of Martin by name, no indication that the new preference is 'unconventional,' and no explicit statement about willingness to try unconventional choices. The memories only vaguely reference a change in preference and optimism about it, missing the critical 'unconventional' aspect and the entity name.\",\n  \"score\": \"1\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 744,
+    "total_tokens": 905,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    }
+  }
+}

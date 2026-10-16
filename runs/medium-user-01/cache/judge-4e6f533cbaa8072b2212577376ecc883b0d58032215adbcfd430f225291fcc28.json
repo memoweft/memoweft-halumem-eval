@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆'讨论工作与生活平衡在面试中对我很重要'在对话中有直接支持：用户明确表示'Yes, discussing work-life balance during interviews is important to me. I want to ensure the role supports my health and goals.'该信息点的字段（面试中讨论工作生活平衡/求职偏好）与黄金记忆中'Martin Mark seeks guidance on pursuing a new job opportunity that aligns with his values and aspirations'及'Martin Mark aims to find a job that better aligns with his personal well-being'等字段语义相关，属于求职偏好/面试关注点范畴，无矛盾或幻觉。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 5713,
+    "total_tokens": 5877,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

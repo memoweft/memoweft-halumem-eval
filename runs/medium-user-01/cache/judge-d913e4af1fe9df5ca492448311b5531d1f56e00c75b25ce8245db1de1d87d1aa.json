@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆包含两个信息点：①认为calm demeanor对其active lifestyle至关重要——对话中用户明确说'Their calm demeanor is something I find crucial for my lifestyle'，且黄金记忆中有'Martin values adaptability and calm demeanor in pets, which he finds crucial for his active lifestyle'；②'especially after a long day'——对话中用户说'I find their calm demeanor crucial for my active lifestyle, especially after a long day'，直接支持。字段方面，'calm demeanor对active lifestyle的重要性'对应黄金记忆中的'calm demeanor/active lifestyle'字段，'after a long day'属于对active lifestyle的补充描述，可归入同一字段。所有信息点均被支持，无矛盾。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 189,
+    "prompt_tokens": 5463,
+    "total_tokens": 5652,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

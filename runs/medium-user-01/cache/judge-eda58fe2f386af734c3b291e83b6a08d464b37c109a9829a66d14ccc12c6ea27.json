@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Expected Memory Point states that Martin Mark dislikes formal wear because he finds it restrictive and prefers clothing that allows for easy movement and comfort. The Extracted Memories list contains: 'I dislike formal wear, because I find formal wear restrictive and prefer clothing that allows for easy movement and comfort.' This fully covers the preference and the reason. The only element not explicitly present is the entity name 'Martin Mark,' but since the memory system stores memories in first-person form (as seen throughout the list), the identity of the speaker is implied by the system's context. The core content — the dislike of formal wear and the exact reason — is fully captured.\",\n  \"score\": \"2\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1372,
+    "total_tokens": 1521,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    }
+  }
+}

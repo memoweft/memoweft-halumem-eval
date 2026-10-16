@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reason\": \"The Target Memory for Update states that Martin's change in pet preference from Labradors to Golden Retrievers reflects his openness to new experiences. The first Generated Memory ('I'm optimistic about integrating new experiences, like my preference for Golden Retrievers, to help manage stress.') captures the key elements: the preference for Golden Retrievers and the connection to openness/new experiences. While it doesn't explicitly mention the shift from Labradors, the core semantic update — linking the Golden Retriever preference to openness to new experiences — is present. The original memory's specific reasons (gentle nature and adaptability) are effectively replaced by the new framing. This is a reasonable, synonymous expression of the target update.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 607,
+    "total_tokens": 768,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 576
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[submodule "memoweft"]
+	path = memoweft
+	url = https://github.com/memoweft/memoweft.git
+[submodule "halumem"]
+	path = halumem
+	url = https://github.com/MemTensor/HaluMem.git

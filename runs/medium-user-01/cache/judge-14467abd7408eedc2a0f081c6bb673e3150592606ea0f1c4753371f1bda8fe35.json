@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"1\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'Feedback can help me identify areas for improvement and tailor the content to better meet participants' needs'在对话中确实有支持：用户提到'Feedback can help me identify areas for improvement and tailor the content to better meet participants' needs'，因此该信息点在对话中有依据。但该记忆涉及的字段是关于'反馈用于改进工作坊内容'，而黄金记忆中没有任何关于工作坊反馈或内容改进的字段，黄金记忆主要关注认知发展、非暴力动作游戏、价值观平衡等主题。因此该记忆虽然在对话中有支持，但其字段不在黄金记忆范围内。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 6406,
+    "total_tokens": 6568,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

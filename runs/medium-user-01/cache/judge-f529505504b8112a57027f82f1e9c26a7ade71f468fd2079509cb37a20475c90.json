@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points state that Martin wants to change his career due to the impact of his current role on his mental health. The Reference Answer is 'Impact on his mental health.' The Memory System Response says 'To improve his mental health,' which is semantically equivalent to the reference answer — both convey that mental health is the main reason. No contradictions or fabrications are present.\",\n  \"evaluation_result\": \"Correct\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 904,
+    "total_tokens": 1001,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

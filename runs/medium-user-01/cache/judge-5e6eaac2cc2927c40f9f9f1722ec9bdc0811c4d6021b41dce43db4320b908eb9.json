@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'Balancing guidance with autonomy involves setting clear expectations and trusting my team to execute their ideas'在对话中有直接支持：用户在08:29:32明确表示'Balancing guidance with autonomy involves setting clear expectations and trusting my team to execute their ideas'，完全一致。但该记忆的字段（领导力/团队管理方式）在黄金记忆中没有对应字段，黄金记忆主要关注职业变更、心理健康、医疗可及性等主题，不涉及团队管理的具体方法。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 5718,
+    "total_tokens": 5859,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 4096
+    }
+  }
+}

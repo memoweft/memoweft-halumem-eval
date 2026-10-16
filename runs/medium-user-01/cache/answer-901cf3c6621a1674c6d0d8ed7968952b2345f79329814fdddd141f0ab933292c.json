@@ -1,0 +1,17 @@
+{
+  "content": "No, Martin Mark did not mention a preference for reptiles as pets on Sep 07, 2025.",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 506,
+    "total_tokens": 533,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    }
+  }
+}

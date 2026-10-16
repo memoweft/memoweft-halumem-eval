@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"reasoning\": \"The Key Memory Points state that Martin is interested in exploring non-violent action games, and the Reference Answer confirms this as 'Non-violent action games'. The Memory System Response states 'Puzzle games', which directly contradicts both the Key Memory Points and the Reference Answer. This is a fabricated/contradictory answer rather than a missing one.\",\n  \"evaluation_result\": \"Hallucination\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 906,
+    "total_tokens": 999,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

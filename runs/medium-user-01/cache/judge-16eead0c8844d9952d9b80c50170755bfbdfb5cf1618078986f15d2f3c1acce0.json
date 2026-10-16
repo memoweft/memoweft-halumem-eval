@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"false\",\n  \"reason\": \"候选记忆'I plan to use these insights to develop more inclusive and culturally aware healthcare initiatives'在对话中有直接支持：用户在08:18:40明确表示'I plan to use these insights to develop more inclusive and culturally aware healthcare initiatives'，且与金标准中关于Martin通过电影偏好提升创造力和适应性以支持其人道主义目标的描述一致。但该记忆的字段（具体计划/医疗倡议）在金标准记忆点中没有对应的字段，金标准主要关注电影偏好转变、探索动机、放松方式等，未涉及具体的医疗倡议计划，因此is_included_in_golden_memories为false。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 3615,
+    "total_tokens": 3785,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "content": "```json\n{\n  \"accuracy_score\": \"2\",\n  \"is_included_in_golden_memories\": \"true\",\n  \"reason\": \"候选记忆中的信息点为：不喜欢含糖苏打水，原因是高糖分和缺乏营养价值，违背健康意识。该信息点在对话中明确出现（'I avoid sugary sodas due to their high sugar content and lack of nutritional value, which goes against my health-conscious approach.'），且与金标准记忆完全一致（'Martin Mark Beverages I dislike: Sugary sodas' 及其原因）。字段为饮料偏好，存在于金标准记忆中。无矛盾或幻觉内容。\"\n}\n```",
+  "finish_reason": "stop",
+  "model": "mimo-v2.6-flash",
+  "provider": "xiaomi-mimo",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 4676,
+    "total_tokens": 4818,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 3648
+    }
+  }
+}
